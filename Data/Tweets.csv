@@ -1,247 +1,524 @@
-Fecha-Hora,Cantidad de Likes,Cantidad de retweets,Veces citado,Tweet,url,Candidato
-2023-05-22 10:08:25+00:00,146,32,1,"HOLA BAHÍA BLANCA👋🏻 
+Fecha-Hora,Cantidad de Likes,Cantidad de retweets,Veces citado,Tweet,url,Candidato,Espacio
+2023-05-25 20:27:55+00:00,97,58,2,"Libertad inmediata a las y los detenidos. Mientras la docencia salteña enfrenta la represión del gobierno de @GustavoSaenzOK, dirigentes sindicales como Yasky comparten palco en el acto de CFK con el ajustador Massa, aliado político del gobernador.",https://twitter.com/NicolasdelCano/status/1661876781194919938,DelCaño,FIT
+2023-05-24 16:07:56+00:00,139,63,3,"¡Basta de represión! El gobernador @GustavoSaenzOK , ( que Sergio Massa quiere postular para presidente) manda la policía a reprimir a las maestras salteñas. 
+¡No a los salarios de hambre!
+¡Todo nuestro apoyo a las y los docentes autoconvocados!",https://twitter.com/NicolasdelCano/status/1661448967618539520,DelCaño,FIT
+2023-05-23 11:24:07+00:00,131,61,7,Grave situación de la Salud pública.  Todo nuestro apoyo a las y los trabajadores del Hospital del Niño en La Matanza. Espinoza y el PJ gobiernan hace décadas el municipio. Son los responsables de esta situación que se agrava todos los años. https://t.co/t8tQHhjERo,https://twitter.com/NicolasdelCano/status/1661015154174328834,DelCaño,FIT
+2023-05-22 21:58:20+00:00,6,0,0,@NatuchaMorales @PTSarg @Fte_Izquierda @vilcalejandro @izquierdadiario 🔥✊🏼,https://twitter.com/NicolasdelCano/status/1660812373819805696,DelCaño,FIT
+2023-05-22 21:57:16+00:00,107,14,0,✊🏼🔥,https://twitter.com/NicolasdelCano/status/1660812101626261509,DelCaño,FIT
+2023-05-21 18:35:34+00:00,93,31,0,"Imperdible este documental de la Izquierda Diario y Contraimagen. Los más explotados se rebelan y se organizan para conquistar otro futuro. Retoman las mejores tradiciones del movimiento obrero.
+Cosechando bronca: el limón en Tucumán https://t.co/xhQXLX1430, vía @izquierdadiario",https://twitter.com/NicolasdelCano/status/1660398955283333120,DelCaño,FIT
+2023-05-21 01:18:52+00:00,14,0,0,@myriambregman @LuanaSimioni 🔥✊🏼,https://twitter.com/NicolasdelCano/status/1660138063404621824,DelCaño,FIT
+2023-05-19 21:32:25+00:00,66,8,0,Los más explotados se ponen de pie. 👏✊,https://twitter.com/NicolasdelCano/status/1659718684330409984,DelCaño,FIT
+2023-05-18 20:20:01+00:00,80,32,0,Desde las bancas del FITU recibimos a la importante delegación docente de ADOSAC que se encuentra en Buenos Aires difundiendo su lucha. ¡No al ajuste! Repudiamos los ataques anti-sindicales y al derecho a huelga. El triunfo de su lucha será el de toda la docencia del país. https://t.co/818X1WzJSy,https://twitter.com/NicolasdelCano/status/1659338076139798530,DelCaño,FIT
+2023-05-18 15:33:32+00:00,263,90,6,"Ahora CFK dice que la deuda con el FMI fue una estafa: tres años después de asumir el gobierno, de pagarle al Fondo, de aplicar el ajuste contra el pueblo para cumplir las metas del acuerdo. Desde @Fte_Izquierda lo dijimos con claridad. Las estafas no se pagan. Fuera el FMI.",https://twitter.com/NicolasdelCano/status/1659265980265111570,DelCaño,FIT
+2023-05-17 22:23:56+00:00,309,49,2,"Gracias a la lucha constante de su familia y amigos, fueron condenados  a Perpetua los policías involucrados en la masacre de los pibes de Monte.",https://twitter.com/NicolasdelCano/status/1659006873696190465,DelCaño,FIT
+2023-05-25 16:38:22+00:00,3072,519,23,"Bueno, los hizo mojarse y no les dijo nada. Ahora si, pasemos a lo importante Feliz Día de la Patria! https://t.co/99Dq2vBSec",https://twitter.com/VickyVillarruel/status/1661819015210102786,Villarruel,LLA
+2023-05-25 16:28:18+00:00,2099,577,10,"Este es el gobierno de CFK. Es su fracaso, su presidente, su ministro de Economía. Que no se corra de la escena que esta miseria y atraso son SU responsabilidad. Mucha épica pero al momento de hacerse cargo responsabiliza a otros. El 25/5 es de todos y nada le debemos a su marido",https://twitter.com/VickyVillarruel/status/1661816481795940356,Villarruel,LLA
+2023-05-25 12:07:55+00:00,2159,496,13,"¡Feliz Día de la Patria! Un aniversario más que vemos lejano ante la miseria y falta de libertad a la que nos someten generaciones de políticos… Recuperemos el orgullo de ser argentinos y luchemos por ser libres de verdad! ¡Oíd Mortales, el grito sagrado, Libertad! @JMilei https://t.co/vwjp6hipf2",https://twitter.com/VickyVillarruel/status/1661750952880136193,Villarruel,LLA
+2023-05-23 13:49:25+00:00,1013,104,1,@JMilei @eldipyok Felicitaciones Dipy!!! Muy contentos de tu incorporación a La Libertad Avanza!!!,https://twitter.com/VickyVillarruel/status/1661051720930041858,Villarruel,LLA
+2023-05-23 12:09:09+00:00,11883,2572,196,"Si sos policía y estás de civil te tenés q dejar robar. Si sos policía y estás de uniforme te tenés q dejar matar. De cualquier forma gana el delincuente. Esa es la doctrina zaffaroniana q nos dejan los K. La Policía tiene q contar con el apoyo del Estado, adiestramiento, equipamiento y capacitación. Así va a ser con nosotros @JMilei",https://twitter.com/VickyVillarruel/status/1661026488383320067,Villarruel,LLA
+2023-05-22 10:05:01+00:00,1757,345,38,"Ayer en Comunidad de Negocios, con José Del Río por LN+. “Nuestro voto con @JMilei es para frenar la voracidad por la miseria y la corrupción que ostenta el kirchnerismo”. https://t.co/j34J6VIKww",https://twitter.com/VickyVillarruel/status/1660632860393451521,Villarruel,LLA
+2023-05-21 23:55:25+00:00,1235,172,2,"@ABENEGASLYNCH_h Muchas gracias Profesor! Nos obligan a debatir sobre su interna mientras el pueblo argentino se debate entre la vida y la muerte, o entre el hambre y la dignidad!",https://twitter.com/VickyVillarruel/status/1660479448133558273,Villarruel,LLA
+2023-05-21 18:34:53+00:00,1597,315,18,Hoy a las 22.30 hs con José Del Río por LN+ https://t.co/Sj5T7S48uG,https://twitter.com/VickyVillarruel/status/1660398784650653696,Villarruel,LLA
+2023-05-19 18:34:02+00:00,1822,662,44,"En esto gasta el dinero el Estado (Cámara de Diputados), en imponernos la Agenda 2030, políticas de género, feminismo, etc… mientras los argentinos ven como su dinero se lo traga la inflación o la inseguridad los aterroriza… este adoctrinamiento con nosotros se termina. @JMilei https://t.co/EjOGTyOdNG",https://twitter.com/VickyVillarruel/status/1659673795488100352,Villarruel,LLA
+2023-05-18 18:24:05+00:00,4330,1166,36,"Esto no se puede tolerar más. El maleducado mantenido bien fornido que corre a la anciana con su discurso prefabricado del anticapitalismo, no puede seguir siendo algo común en un país que quiere progresar. A los ancianos se los respeta y el delito NO se debe justificar más. https://t.co/r1VYuJ0JP0",https://twitter.com/VickyVillarruel/status/1659308904487043072,Villarruel,LLA
+2023-05-18 17:17:53+00:00,707,55,4,@MunchyManCba Y el jubilado que te pensás que come? Caviar noruego?,https://twitter.com/VickyVillarruel/status/1659292241905479698,Villarruel,LLA
+2023-05-18 17:07:54+00:00,1589,246,15,"Si el piquetero está gordo por su mala alimentación, por qué el jubilado hambreado por este gobierno y que debe comer lo mismo o peor está escuálido? Terminemos con la demagogia ¿¿¿cuándo estuvo bien que 1 hombre en plena edad productiva increpe y patotee a un anciano???",https://twitter.com/VickyVillarruel/status/1659289730096197667,Villarruel,LLA
+2023-05-18 16:40:58+00:00,8374,2194,113,Un jubilado que no llega a fin de mes hambreado por el gobierno pidiendo que lo dejen trabajar y un piquetero con sobrepeso mantenido por un gobierno que es un fracaso. Es indignante lo que hacen con nuestra Nación los parásitos de la política y la prebenda. https://t.co/lb0s9Sh9Zb,https://twitter.com/VickyVillarruel/status/1659282951647948825,Villarruel,LLA
+2023-05-18 11:32:44+00:00,328,58,5,"@milefiori @JMilei Ningún niño debe estar en un piquete, sino en la escuela. Ningún niño debe ser usado para estar en una marcha a la intemperie, vamos a abogar especialmente por la protección de los niños usados como fuerza de ocupación.",https://twitter.com/VickyVillarruel/status/1659205382882066432,Villarruel,LLA
+2023-05-18 09:50:16+00:00,2700,615,38,"¿Qué va a pasar con los piquetes cuando seamos gobierno? @JMilei te contamos acá en A dos voces por qué no vamos a permitir el cierre de calles, rutas y caminos. https://t.co/chFNkUcnr9",https://twitter.com/VickyVillarruel/status/1659179595189370882,Villarruel,LLA
+2023-05-18 00:48:40+00:00,580,10,3,@rocioyln @therealbuni Es @lilialemoine y le queda muy bien!,https://twitter.com/VickyVillarruel/status/1659043297237561344,Villarruel,LLA
+2023-05-17 22:02:07+00:00,3464,332,41,Con @JMilei en A dos voces https://t.co/kEVaBZbioD,https://twitter.com/VickyVillarruel/status/1659001383096315905,Villarruel,LLA
+2023-05-25 11:14:29+00:00,2498,291,941,"Como habrán visto, anoche subí mal un textual sobre lo que dije en LN+ el lunes a la noche.
+
+Ojalá seamos más los políticos que elegimos manejar nuestras cuentas, leer, y contestar. Quedó claro que no soy la más habilidosa con las redes, lo que todavía no está claro es qué festeja el kirchnerismo hoy ¿El aumento de la inflación? ¿La pobreza? ¿El dólar?",https://twitter.com/mariuvidal/status/1661737505245532166,Vidal,JxC
+2023-05-24 12:19:53+00:00,162,41,10,"Consecuencias de basar la política cambiaria en parches que solo consiguen aumentar la brecha del tipo de cambio y destruir la confianza de la gente en nuestra moneda. 
+
+Kirchnerismo.",https://twitter.com/mariuvidal/status/1661391573815373825,Vidal,JxC
+2023-05-23 21:21:28+00:00,2,0,1,"@VaLizaSoy Paros como el de hoy le complican la vida a cientos de miles de argentinos, porteños ó no. 
+
+El país es grande, pero el problema es innegable: los ciudadanos no pueden ser rehenes de ningún gremio.",https://twitter.com/mariuvidal/status/1661165482991337472,Vidal,JxC
+2023-05-23 21:20:13+00:00,1,0,0,@GriseSalinas ❤️,https://twitter.com/mariuvidal/status/1661165169173561345,Vidal,JxC
+2023-05-23 19:11:28+00:00,550,144,27,"El kirchnerismo se resignó: ya no ofrecen ni futuro ni esperanza. Se dedican a atacar a la oposición e instalar miedo.
+
+No van a alcanzar los manotazos de ahogado. Vamos a recuperar Argentina, en las urnas. https://t.co/alvjrVNbcu",https://twitter.com/mariuvidal/status/1661132765360734208,Vidal,JxC
+2023-05-23 10:20:21+00:00,297,74,64,"Los argentinos me piden en la calle que ESTEMOS A LA ALTURA. 
+
+Los que confían en Juntos por el Cambio nos quieren ver trabajando unidos, no acumulando cargos y poder como el kirchnerismo. https://t.co/RwhDTaHAq9",https://twitter.com/mariuvidal/status/1660999106922266625,Vidal,JxC
+2023-05-22 23:05:04+00:00,826,145,25,Que nunca falten las anécdotas de @mauriciomacri en Boca… 😂 https://t.co/CMp94xK8A9,https://twitter.com/mariuvidal/status/1660829166986485770,Vidal,JxC
+2023-05-22 18:29:01+00:00,58,13,1,"Pero el gobierno insiste en tomar medidas a corto plazo, que son irracionales y de ninguna manera resuelven los problemas macroeconómicos reales que tiene el país. Una política monetaria exitosa debe ser consistente con la realidad. 
+
+Un billete de $2.000, al cambio paralelo, hoy equivale a USD 4 dólares. Con la inflación y el atraso cambiario que tenemos, esta medida no es ni más ni menos que una bomba de humo.",https://twitter.com/mariuvidal/status/1660759695882059776,Vidal,JxC
+2023-05-22 18:29:00+00:00,66,19,7,"¿Saben a cuánto equivalen esos USD 300 millones que se ahorraría el Estado? 
+
+Con esa plata se podrían construir, por ejemplo, más de 100 escuelas nuevas. https://t.co/wYJ6XVl4q0",https://twitter.com/mariuvidal/status/1660759692845498368,Vidal,JxC
+2023-05-22 18:28:59+00:00,48,13,0,"Si, en cambio, hoy tuviéramos un billete de $20.000, Argentina se podría ahorrar más de USD 300 millones. Así, podría recuperar los dólares que el gobierno malgastó entre 2020 y 2021. 
+
+https://t.co/fqfOCg6htF",https://twitter.com/mariuvidal/status/1660759685387939841,Vidal,JxC
+2023-05-22 18:28:58+00:00,33,11,0,"Con el billete de $2.000, el Estado apenas se ahorraría alrededor de USD 21 millones este año. Muy lejos de compensar todo lo que gastó en impresión de billetes en los últimos años.",https://twitter.com/mariuvidal/status/1660759683588562950,Vidal,JxC
+2023-05-22 18:28:58+00:00,51,10,0,"Entre 2020 y 2021, la política absurda de no imprimir billetes de mayor denominación le costó al Estado argentino USD 180 millones. 
+
+Fue tan alta la emisión de billetes de los últimos meses que hace algunas semanas la Casa de la Moneda tuvo que pedir importar billetes de París y de Malta para dar abasto para la demanda de pesos del Banco Central.",https://twitter.com/mariuvidal/status/1660759680962928642,Vidal,JxC
+2023-05-22 18:28:56+00:00,299,79,17,"UN BILLETE QUE NACE VIEJO
+
+Hoy entró en circulación el nuevo billete de $2.000. Con una inflación de más del 100%, ya hace tiempo que la baja denominación de los billetes viene siendo un dolor de cabeza para los comerciantes, los empresarios y la gente en general. Además, es un gasto enorme de impresión de papel para el Estado. 
+
+Pero, ¿por qué la noticia de hoy nace vieja?",https://twitter.com/mariuvidal/status/1660759673341968385,Vidal,JxC
+2023-05-21 13:49:02+00:00,42,15,0,"De todas estas propuestas y mucho más te cuento en este video
+
+https://t.co/XArLxxpmEF",https://twitter.com/mariuvidal/status/1660326848515956737,Vidal,JxC
+2023-05-21 13:49:02+00:00,59,15,1,"Por último, todo plan de seguridad debe estar acompañado de políticas de integración social. Para eso, es fundamental que el Estado vuelva a estar presente en los barrios, con oficinas fijas, centros de salud, campañas de prevención y tratamiento de adicciones, y programas de urbanización y acceso a servicios básicos.",https://twitter.com/mariuvidal/status/1660326846846713856,Vidal,JxC
+2023-05-21 13:49:01+00:00,36,6,0,"Tenemos que avanzar en una reforma integral de las fuerzas de seguridad. Hay que profesionalizar a la policía con más tiempo de formación, nuevos contenidos en la currícula y programas de entrenamiento permanentes. 
+
+Además, debemos equipar a la policía con tecnología de punta, como radios encriptadas y patrulleros con scanners antinarcotráfico. Y mejorar la vigilancia en las calles, con cámaras de seguridad en todos los transportes públicos, centros de monitoreo en todos los municipios y dispositivos de reconocimiento facial.
+
+También debemos lograr que todos los ingresantes y miembros de las fuerzas se sometan a controles toxicológicos, que presenten declaraciones juradas obligatorias y que se remueva a quienes promueven la corrupción en nuestra policía, como hicimos con los más de 13 mil efectivos que apartamos en la provincia de Buenos Aires durante mi gobierno.",https://twitter.com/mariuvidal/status/1660326844984336384,Vidal,JxC
+2023-05-21 13:49:01+00:00,26,5,0,"Necesitamos profesionalizar y fortalecer nuestra inteligencia criminal. No hay mejor forma de prevenir y combatir el crimen organizado que anticiparse al delito. 
+
+Para eso, hacen falta agentes en todo el país que estén capacitados y respaldados por la decisión política de avanzar en serio en la lucha contra el crimen.",https://twitter.com/mariuvidal/status/1660326842996228098,Vidal,JxC
+2023-05-21 13:49:00+00:00,32,5,0,"Tenemos que fortalecer la seguridad en las fronteras. Hay que radarizar todo el territorio nacional, reformar la Ley de Defensa, sancionar una Ley de Derribo que proteja nuestro espacio aéreo y lograr la articulación de las fuerzas de todos los niveles de gobierno.",https://twitter.com/mariuvidal/status/1660326840890695687,Vidal,JxC
+2023-05-21 13:49:00+00:00,55,7,0,"Necesitamos jueces y fiscales independientes. Para eso, hace falta un Estado que les asegure la protección y los recursos necesarios para que puedan llevar adelante sus investigaciones de manera libre y sin riesgos de ser perseguidos o extorsionados por las bandas criminales.",https://twitter.com/mariuvidal/status/1660326839074660356,Vidal,JxC
+2023-05-21 13:49:00+00:00,49,6,0,"No alcanza con desbaratar búnkers e incautar droga. Es clave luchar contra el lavado de activos y desarmar las estructuras financieras sobre las que se sostiene el crimen organizado. 
+
+En otras palabras, hay que hacer que a los narcos les salga cada vez más caro delinquir.",https://twitter.com/mariuvidal/status/1660326837279420419,Vidal,JxC
+2023-05-21 13:48:59+00:00,28,5,0,"¿Qué hacer para frenar el narcotráfico y el crimen organizado en Santa Fe y evitar que siga avanzando en el resto del país? 
+
+Con mi equipo venimos trabajando desde hace tiempo en una serie de propuestas, muchas de ellas inspiradas en el plan de seguridad que llevamos adelante con éxito en la provincia de Buenos Aires durante mi gestión.",https://twitter.com/mariuvidal/status/1660326835144519684,Vidal,JxC
+2023-05-21 13:48:59+00:00,26,5,0,"En los barrios hay cada vez más búnkers, que en muchos casos funcionan en complicidad con la policía, mientras que la política mira para otro lado. 
+
+Esas mismas mafias que se dedican al narcotráfico también están vinculadas a otros delitos, como la trata de personas, el contrabando y el juego ilegal.",https://twitter.com/mariuvidal/status/1660326833320083458,Vidal,JxC
+2023-05-21 13:48:58+00:00,34,6,0,"Lo de Rosario no es un caso aislado. En los últimos años, vemos un aumento preocupante del tráfico y del consumo de drogas en todo el país. 
+
+Argentina dejó de ser un país de “tránsito” y pasó a ser uno de ciclo completo. Hoy la droga se produce y se comercializa dentro de nuestras fronteras.",https://twitter.com/mariuvidal/status/1660326831180988417,Vidal,JxC
+2023-05-21 13:44:27+00:00,524,127,52,"CUANDO DESAPARECE EL ESTADO, APARECEN LAS MAFIAS
+
+El año pasado Rosario tuvo récord de homicidios, con 288 personas asesinadas. Muchas de esas víctimas eran niños, niñas y adolescentes. 
+
+En lo que va de 2023, Rosario ya cuenta con más de 120 muertes por asesinatos. Es decir, UN CRIMEN CADA 28 HORAS. 
+
+Hoy Rosario es el ejemplo de lo que ocurre cuando el Estado se corre y las calles pasan a estar controladas por el narco y el crimen organizado.",https://twitter.com/mariuvidal/status/1660325695321505793,Vidal,JxC
+2023-05-19 18:53:33+00:00,4,1,0,"@vanjover @majo_navajasOK La situación es catastrófica: los chicos siguen pasando de año sin APRENDER.
+
+Necesitamos ser mayoría los que elijamos terminar con esta desidia. La educación es la única salida.",https://twitter.com/mariuvidal/status/1659678707433238528,Vidal,JxC
+2023-05-19 18:53:02+00:00,4,0,1,@Teresitaferrari Bien Tere. A no aflojar.🥰,https://twitter.com/mariuvidal/status/1659678577070071814,Vidal,JxC
+2023-05-19 18:51:16+00:00,2,0,0,@cadarook Hay que disfrutar estos momentos. Felicitaciones a ambos.,https://twitter.com/mariuvidal/status/1659678129873379332,Vidal,JxC
+2023-05-18 19:50:26+00:00,1049,253,38,"Nuestro billete de mayor denominación no alcanza ni para un Casancrem, y si seguimos sin plan económico el de $2000 no va a alcanzar tampoco.
+
+Los argentinos no pueden esperar al 10 de diciembre. Gobiernen!",https://twitter.com/mariuvidal/status/1659330634731462657,Vidal,JxC
+2023-05-18 19:48:08+00:00,7,1,0,"@Lautarogvidal El kirchnerismo es experto en vender relatos épicos cargados de mentira, deudas, y déficit.",https://twitter.com/mariuvidal/status/1659330052738228224,Vidal,JxC
+2023-05-18 19:47:39+00:00,25,2,1,"@loulou_______ El modelo de apriete sindicalista de Baradel tiene fecha de vencimiento. Le guste o no, vamos a recuperar la educación y el futuro, por tu hija y por millones de chicos.
+
+Les mando un abrazo y éxitos a ambas 😊",https://twitter.com/mariuvidal/status/1659329931866693634,Vidal,JxC
+2023-05-25 18:25:29+00:00,2777,675,24,"""Yo soy del pueblo y de ahí no me muevo"", @CFKArgentina.
+
+Un día histórico en la Plaza de Mayo junto a compañeros y compañeras, recordando a Néstor para pensar qué Argentina queremos 🇦🇷💙 https://t.co/UCWw3SUmQq",https://twitter.com/Kicillofok/status/1661845971255320577,Kicillof,FdT
+2023-05-25 13:25:38+00:00,1108,273,8,"🇦🇷 En un nuevo aniversario del #25DeMayo participamos del Te Deum en la Catedral de La Plata, junto a representantes de múltiples credos.
+
+A 40 años de la vuelta de la Democracia las palabras del Arzobispo Víctor Fernández son fundamentales: celebremos felices su recuperación y vayamos por más años de democracia que hagan nacer un país nuevo, donde cada argentino y argentina tenga las mismas oportunidades.
+
+¡Viva la Patria!",https://twitter.com/Kicillofok/status/1661770512165371905,Kicillof,FdT
+2023-05-25 10:06:38+00:00,4734,1327,102,"Néstor nos enseñó que para que todos y todas tengan derecho a un futuro mejor debemos saber de dónde venimos, hacia dónde queremos ir y a dónde no queremos volver.
+
+¡Gracias por mostrarnos que un país más justo es posible!
+
+Más que nunca, #ImitemosElEjemplo 🐧💙 https://t.co/fem9HMBdmX",https://twitter.com/Kicillofok/status/1661720430481211395,Kicillof,FdT
+2023-05-25 09:10:00+00:00,1322,370,12,"En este nuevo aniversario de la Revolución de Mayo renovamos nuestro compromiso de seguir construyendo una provincia más justa, igualitaria y soberana.
+
+¡Feliz #DíaDeLaPatria! 🇦🇷 https://t.co/3E1vOZcI7Q",https://twitter.com/Kicillofok/status/1661706176940376065,Kicillof,FdT
+2023-05-23 19:10:26+00:00,248,99,0,"El automovilismo en la provincia es realmente una actividad que tiene una vitalidad y una llegada que lo convierte en uno de los deportes más importantes también en el terreno familiar y turístico.
+
+Esta obra nos llena de orgullo porque está en el corazón de las y los argentinos. https://t.co/xlbJpLZGuh",https://twitter.com/Kicillofok/status/1661132506488352771,Kicillof,FdT
+2023-05-23 19:10:25+00:00,260,94,1,"Las mejoras permitirán retomar las carreras nacionales, impulsar la actividad turística y el desarrollo del distrito y la región.
+
+Queremos que este espacio emblemático de las y los bonaerenses recobre su actividad y que puedan disfrutarlo todo el año. https://t.co/QKzduTQyWu",https://twitter.com/Kicillofok/status/1661132503015383044,Kicillof,FdT
+2023-05-23 19:10:24+00:00,941,377,12,"En nuestra última visita a Balcarce nos comprometimos a realizar las obras necesarias para poner en valor el autódromo ""Juan Manuel Fangio"" y hoy estamos dando el primer paso.
+
+Junto a @CostaAugusto9 y @alejosupplyok firmamos un convenio con el municipio para reacondicionarlo. https://t.co/ATrwj71Dra",https://twitter.com/Kicillofok/status/1661132499215347714,Kicillof,FdT
+2023-05-23 13:51:41+00:00,204,71,2,La mejora en infraestructura carcelaria es también una política de seguridad. Asumimos con una grave crisis en el SPB y desde entonces estamos llevando adelante una transformación estructural para garantizar el #DerechoALaProtección de los bonaerenses. https://t.co/GBnaHgYhlN,https://twitter.com/Kicillofok/status/1661052291779002371,Kicillof,FdT
+2023-05-23 13:51:41+00:00,226,79,3,"De esta manera sumamos 312 plazas de detención transitoria que permiten evitar el alojamiento en comisarías, para que la Policía pueda abocarse a la protección de las y los bonaerenses en la vía pública. https://t.co/OFvnvEpZGZ",https://twitter.com/Kicillofok/status/1661052288692109321,Kicillof,FdT
+2023-05-23 13:51:40+00:00,725,277,11,"Avanza la segunda etapa del Plan de Infraestructura Penitenciaria ➡️
+
+Con una inversión que apunta a seguir fortaleciendo la seguridad ciudadana, inauguramos la nueva Alcaidía Departamental de #LomasDeZamora, junto a @minsaurralde, @Julio_Alak y Paula Montero. https://t.co/l6yNIoQO1U",https://twitter.com/Kicillofok/status/1661052286141972500,Kicillof,FdT
+2023-05-23 11:48:29+00:00,2309,806,63,"¡Más de 50 mil pibes y pibas ya tienen sus compus de Conectar Igualdad Bonaerense! 💻
+
+Recuperamos una política fundamental para que todos los chicos de la provincia puedan partir del mismo lugar y construir su futuro con esfuerzo, pero sobre todo con las mismas oportunidades.
+
+Estudiar, conectarse y disfrutar es un derecho ❤️ 
+
+#DERECHOalFUTURO",https://twitter.com/Kicillofok/status/1661021285491830785,Kicillof,FdT
+2023-05-22 19:04:15+00:00,268,94,1,Nuestros barrios tienen necesidades imperiosas y el Estado no se puede desentender. Es un orgullo haber convertido el proceso de reurbanización en una política de gobierno con el Organismo Provincial de Integración Social y Urbana que estaba inutilizado y lo pusimos a funcionar.,https://twitter.com/Kicillofok/status/1660768561629888513,Kicillof,FdT
+2023-05-22 19:04:14+00:00,313,115,3,"A través de @OpisuPba construiremos 146 viviendas y dos polos educativos, obras de agua, cloacas y pavimentación, centros comunitarios y la puesta en valor de espacios públicos.
+
+Un trabajo posible gracias al compromiso de intendentes y empresarios para concretar estas obras. https://t.co/k38Bx5HuMc",https://twitter.com/Kicillofok/status/1660768558157103104,Kicillof,FdT
+2023-05-22 19:04:13+00:00,1176,446,17,"¡Más obras, más oportunidades para construir el #DERECHOalFUTURO! 🚧👷
+
+Firmamos convenios para impulsar 11 proyectos de urbanización y desarrollo integral en #Ensenada, #LaMatanza, #Berazategui, #JoséCPaz, #Lanús y #SanVicente. https://t.co/5hFtttezjQ",https://twitter.com/Kicillofok/status/1660768555208437761,Kicillof,FdT
+2023-05-21 12:23:38+00:00,1368,575,9,"Como dice Osvaldo, uno de los vecinos de Bragado que ya tiene su nueva vivienda, ahora a “empezar a fabricar futuro”.
+
+En eso consiste la tarea del Estado: en brindar las oportunidades y garantizar derechos para que cada bonaerense pueda construir y proyectar su vida en el lugar donde nació.
+
+#DerechoAlHogar ➡️❤️#DERECHOalFUTURO",https://twitter.com/Kicillofok/status/1660305355463688193,Kicillof,FdT
+2023-05-20 11:05:00+00:00,796,354,11,"#ResumenSemanal | Conocé el trabajo que llevamos adelante en la Provincia durante esta semana.
+
+#ResumenBonaerense https://t.co/BHyWKODk9j",https://twitter.com/Kicillofok/status/1659923178666307585,Kicillof,FdT
+2023-05-19 16:15:51+00:00,233,102,3,"Esta obra es ni más ni menos que el reconocimiento del derecho a tener las mismas oportunidades y a estudiar en condiciones dignas.
+
+Estamos transformando la realidad educativa en #Pilar y en cada municipio para que el #DerechoALaEducación llegue a todos y todas. https://t.co/S2ALX9q4oH",https://twitter.com/Kicillofok/status/1659639018877755397,Kicillof,FdT
+2023-05-19 16:15:50+00:00,1281,497,13,"Es un día de festejo para los pibes y pibas de la ES Nº22 que desde hoy tendrán un edificio propio y de calidad para estudiar.
+
+Junto a @FedericoAchaval pusimos en marcha el edificio escolar ¡160 en la provincia!, y el número 18 en el municipio.
+
+#DERECHOalFUTURO https://t.co/WR9JCBRD42",https://twitter.com/Kicillofok/status/1659639016436662272,Kicillof,FdT
+2023-05-19 14:55:11+00:00,439,167,2,"Junto a @FedericoAchaval, @nkreplak, @carlavizzotti, @gkatopodis y Juan Manuel Olmos compartimos con los trabajadores y la comunidad este día tan importante para el municipio.
+
+Estamos construyendo el #DERECHOalFUTURO con un sistema de salud de calidad que llegue a todos y todas. https://t.co/rtqX91y72v",https://twitter.com/Kicillofok/status/1659618718694117376,Kicillof,FdT
+2023-05-19 14:55:10+00:00,614,255,4,"Esta obra era una de las tantas que la gestión anterior dejó sin terminar. Acá iba a haber un estacionamiento y hoy hay un hospital de referencia.
+
+Nos llena de orgullo y nos marca el camino a seguir: uno con más derechos, con más trabajo, más salud, educación y oportunidades. https://t.co/Gg9F0lLR77",https://twitter.com/Kicillofok/status/1659618716567388161,Kicillof,FdT
+2023-05-19 14:55:10+00:00,2975,1125,45,"El Hospital Central de Alta Complejidad de #Pilar ya no es un sueño, ¡es una realidad!
+
+Un centro de salud de última generación que los vecinos y vecinas llevaban años esperando y que se integrará a la red sanitaria local para profundizar la transformación del distrito. https://t.co/wcYVmmRnK9",https://twitter.com/Kicillofok/status/1659618714667438081,Kicillof,FdT
+2023-05-18 20:20:26+00:00,368,135,4,"Participamos del Proyecto Ballena en @elCCKirchner para reflexionar sobre los desafíos de las democracias latinoamericanas junto a @ManuelaDavila.
+
+Gracias por la invitación, ¡sigamos fortaleciendo y cuidando entre todos y todas lo que costó tanto esfuerzo en nuestra región! https://t.co/0vpRxXpJhr",https://twitter.com/Kicillofok/status/1659338182800834560,Kicillof,FdT
+2023-05-18 20:08:04+00:00,2360,945,46,"La derecha tiene un montón de candidatos, de caras, de propuestas, pero tiene un solo programa que es el de restringir derechos.
+
+Estas ideas de achicar, de dinamitar, no construyen nada, son falsamente rebeldes. La verdadera rebeldía es enfrentarse a los realmente poderosos. https://t.co/BZ0tZnTKsr",https://twitter.com/Kicillofok/status/1659335070585421824,Kicillof,FdT
+2023-05-18 11:17:23+00:00,1989,727,71,"¡La promo en carnicerías, granjas y pescaderías de #CuentaDNI es todo un éxito!
+
+Con los reintegros del 35% los usuarios de la billetera digital del @bancoprovincia realizaron más de 2 millones de compras, por 13.000 millones de pesos, en marzo y abril.
+
+Esto fue posible porque hoy contamos con un Banco solvente que dejó atrás las épocas de especulación financiera y recuperó su rol histórico: acompañar a las familias y los comerciantes y ser un verdadero motor del consumo, la producción y el desarrollo de la PBA.
+
+👉 El beneficio continúa durante todos los sábados y domingos de mayo ‼️
+
+🔗https://t.co/VyijoWkSqx",https://twitter.com/Kicillofok/status/1659201518984392705,Kicillof,FdT
+2023-05-25 19:28:24+00:00,265,47,3,"La victimaria de un pueblo hambreado, haciéndose la víctima. Más falso, no se consigue.",https://twitter.com/jlespert/status/1661861804341882881,Espert,LLA
+2023-05-25 19:20:25+00:00,138,26,1,"Es cierto, pero no es ningún demérito. EEUU es dependiente de su capacidad de invención en tecnología, China de su enorme ejército de mano de obra por tener una población gigante. Lo que hay que hacer es USAR inteligentemente esa dependencia en vez de combatirla con el veneno de la sustitución de importaciones como acá.",https://twitter.com/jlespert/status/1661859796004265984,Espert,LLA
+2023-05-25 16:18:01+00:00,1345,206,31,Que ignorante supina que es Cristina en economía. Que manera de decir estupideces.,https://twitter.com/jlespert/status/1661813891767173122,Espert,LLA
+2023-05-25 16:17:03+00:00,11,1,0,"Comparto mi participación de hoy en #MMD con @maximmontenegro por @A24COM
+
+🔴 Nota Completa
+https://t.co/bCuleIfZi7",https://twitter.com/jlespert/status/1661813649764220955,Espert,LLA
+2023-05-25 16:04:33+00:00,1848,304,21,"Cristina dice que hay que desenganchar la economía argentina de los precios internacionales de nuestros commodities y para ello se necesita de una ""articulación entre lo público y lo privado"". Eso es lo que el kirchnerismo hace desde 2003 y no paramos de romper récords de inflación y pobreza. Boludeces...como acaba de decir ella.",https://twitter.com/jlespert/status/1661810502610157598,Espert,LLA
+2023-05-25 15:56:25+00:00,350,65,2,"El kirchnerismo ha degenerado y desvirtuado todo. Hasta la celebración del 25 de Mayo de todos los argentinos, convirtiéndolo en un acto partidario, de mitín de cuarta. https://t.co/XlHlpOGDi7",https://twitter.com/jlespert/status/1661808456012103714,Espert,LLA
+2023-05-25 13:48:42+00:00,191,36,2,"📝 Les comparto link de la nota ⤵️
+https://t.co/vLvcpYrqqY",https://twitter.com/jlespert/status/1661776314045542408,Espert,LLA
+2023-05-25 10:00:00+00:00,17,3,0,Hoy a las 14:00 hs. estaré con @maximmontenegro en #MMD por @A24COM https://t.co/8OSYWJPB1i,https://twitter.com/jlespert/status/1661718761248890882,Espert,LLA
+2023-05-25 09:50:18+00:00,382,35,14,Feliz #25DeMayo para todos 🇦🇷 https://t.co/vneeaEQne3,https://twitter.com/jlespert/status/1661716321581580288,Espert,LLA
+2023-05-25 08:21:17+00:00,607,118,6,"Lo peor que le pasó a la Argentina desde la democracia. Comandó una banda de psicópatas chorros cuyo objetivo (casi logrado) fue hacernos pobres y miserables para que dependiéramos de un plan social del Estado y así esclavizarnos, quitándonos toda libertad. LaKras.",https://twitter.com/jlespert/status/1661693919023726594,Espert,LLA
+2023-05-24 22:40:14+00:00,25,4,2,Economía y CAMBIO CLIMATICO en la Universidad más ganadora del Nobel de Economía y con seminario coordinado por un Nobel de Economía.,https://twitter.com/jlespert/status/1661547692399394816,Espert,LLA
+2023-05-24 22:11:15+00:00,13,1,0,"Comparto mi participación de hoy en #TNCentral con @mariomassaccesi por @todonoticias
+
+🔴 Nota Completa ⤵️
+https://t.co/0Pob0KzVAY",https://twitter.com/jlespert/status/1661540398592868355,Espert,LLA
+2023-05-24 21:45:50+00:00,109,11,7,"Argentina tiene un gran futuro, ese futuro es liberal y ya comenzó 🇦🇷🪽
+
+#ESPERT2023
+#LALIBERTADESESPERT https://t.co/OPnIBVeFCY",https://twitter.com/jlespert/status/1661534002103173121,Espert,LLA
+2023-05-24 21:21:23+00:00,440,51,2,Al polícia que pone orden frente a un delincuente hay que bancarlo. https://t.co/mIeNYbjj8N,https://twitter.com/jlespert/status/1661527848526524416,Espert,LLA
+2023-05-24 18:44:22+00:00,271,30,56,"Un placer charlar con vos, tu equipo @Maxiferraro @metchecoin y @LuisGreenOK de #AvanzaLibertad Argentina necesita más Constitución, más instituciones, más Estado de Derecho, más Alberdi, más libertad, más competencia, más seguridad...y muchas reformas estructurales más. Hablamos de todo eso y mucho más.",https://twitter.com/jlespert/status/1661488335028666370,Espert,LLA
+2023-05-24 16:23:23+00:00,54,12,2,Gracias @marinoclara y @RotaryClubBA por invitarme a presentar “¿Cómo lograr el desarrollo del país que nos merecemos?”🙌🏻 Siempre es un placer visitarlos. https://t.co/4BbHqWFzK7,https://twitter.com/jlespert/status/1661452854987554816,Espert,LLA
+2023-05-24 11:44:10+00:00,34,9,0,Hoy a las 19:15 hs. estaré con @mariomassaccesi en #TNCentral por @todonoticias https://t.co/gQkKRgWiWy,https://twitter.com/jlespert/status/1661382585635725312,Espert,LLA
+2023-05-24 10:17:33+00:00,9,3,0,"Comparto mi participación de hoy en #Vilouta910 con
+@pviloutaoficial por @radiolared
+
+🎙️Nota Completa⤵️
+https://t.co/Dy2xISlvYC",https://twitter.com/jlespert/status/1661360790044135424,Espert,LLA
+2023-05-24 10:16:59+00:00,288,74,2,"El kirchnerismo nos metió en la locura de que ahora los delincuentes hacen lo que quieren en la calle y nosotros, los inocentes, tras las rejas. Hay que aplicar la ley, al delincuente es CÁRCEL o BALA. https://t.co/ka57r4AshI",https://twitter.com/jlespert/status/1661360645328064512,Espert,LLA
+2023-05-24 09:12:59+00:00,40,13,0,Nos vemos hoy en @RotaryClubBA 💪🏻 https://t.co/BzSRTxvuiu,https://twitter.com/jlespert/status/1661344539074781184,Espert,LLA
+2023-05-24 00:45:42+00:00,19,3,0,"Comparto mi participación de esta noche en #MásNación con @majulluis y @PRossiOficial por @lanacionmas 
+
+🔴Nota Completa
+https://t.co/sLcoj3PX28",https://twitter.com/jlespert/status/1661216880164581376,Espert,LLA
+2023-05-23 23:57:34+00:00,141,33,2,La lucha contra la inseguridad es una decisión política. https://t.co/wdUVM1DBhr,https://twitter.com/jlespert/status/1661204766096076800,Espert,LLA
+2023-05-23 22:19:01+00:00,559,69,6,"Ya lo dijo el fiscal ""exceso de legítima defensa"". Afuera, libre. Con los delincuentes es cárcel o bala. O sea, aplicar la ley. Bien por el poli.",https://twitter.com/jlespert/status/1661179966548000771,Espert,LLA
+2023-05-23 20:14:14+00:00,51,21,1,"“La Argentina Deseada” en Bahía Blanca 🇦🇷💪🏻 #ESPERT2023 #LALIBERTADESESPERT 
+
+@KarinaGarciaOK @rodriguezvaleok @AvanzaLibertad_ @AvanzaBahia @luisrosalesARG @LuisGreenOK @diegohhormazaba @carorastalsky1 https://t.co/5goahXWLGl",https://twitter.com/jlespert/status/1661148562242273280,Espert,LLA
+2023-05-23 16:22:16+00:00,422,111,3,"Gente que vive hace rato de un plan social y por lo tanto no aporta nada para una jubilación, ahora les será más fácil jubilarse. Por cosas como ésta, personas que hicieron el esfuerzo de aportar al ANSES toda su vida, hoy cobran jubilaciones miserables. País injusto.",https://twitter.com/jlespert/status/1661090187328274440,Espert,LLA
+2023-05-23 12:51:56+00:00,508,56,24,"ACOMPAÑAME A LOGRAR EL PAÍS QUE NOS MERECEMOS 💪🏻 
+
+https://t.co/cu69RklLfg https://t.co/ZfMYDWiFec",https://twitter.com/jlespert/status/1661037253978730506,Espert,LLA
+2023-05-23 12:43:09+00:00,27,4,1,A estudiar se ha dicho! Directo de un crack de la @ChicagoBooth el gran @JohnHCochrane https://t.co/nPf5KuZpnB,https://twitter.com/jlespert/status/1661035044213870592,Espert,LLA
+2023-05-23 09:27:47+00:00,54,15,0,"GRACIAS BAHÍA BLANCA 🙌🏻
+
+Excelente trabajo de nuestra concejal @rodriguezvaleok y nuestra referente @KarinaGarciaOK 💪🏻 
+
+#ESPERT2023 #LALIBERTADESESPERT https://t.co/O7KcY5CS9U",https://twitter.com/jlespert/status/1660985878854918144,Espert,LLA
+2023-05-23 09:22:07+00:00,283,57,5,Una vergüenza.,https://twitter.com/jlespert/status/1660984450073722880,Espert,LLA
+2023-05-23 09:07:35+00:00,40,12,0,Hoy a las 21:00 hs. estaré con @majulluis y @PRossiOficial en #MásNación por @lanacionmas https://t.co/BSC0LJOEvy,https://twitter.com/jlespert/status/1660980793697501187,Espert,LLA
+2023-05-22 10:08:25+00:00,202,43,2,"HOLA BAHÍA BLANCA👋🏻 
 
 Los espero a las 19 hs. en la Biblioteca Rivadavia (Auditorio Luis C. Caronti). 
 
 Entradas sin cargo ⬇️
-https://t.co/G7UIspyONN https://t.co/OJADEHLMlB",https://twitter.com/jlespert/status/1660633713376370690,Espert
-2023-05-22 09:56:14+00:00,17,1,0,Tal cual.,https://twitter.com/jlespert/status/1660630649630326785,Espert
-2023-05-21 19:07:52+00:00,142,27,4,"Palpitando Libertad 🇦🇷 
+https://t.co/G7UIspyONN https://t.co/OJADEHLMlB",https://twitter.com/jlespert/status/1660633713376370690,Espert,LLA
+2023-05-22 09:56:14+00:00,25,1,1,Tal cual.,https://twitter.com/jlespert/status/1660630649630326785,Espert,LLA
+2023-05-21 19:07:52+00:00,150,28,4,"Palpitando Libertad 🇦🇷 
 
-#ESPERT2023 #LALIBERTADESESPERT https://t.co/EBNpI6lwer",https://twitter.com/jlespert/status/1660407086344282115,Espert
+#ESPERT2023 #LALIBERTADESESPERT https://t.co/EBNpI6lwer",https://twitter.com/jlespert/status/1660407086344282115,Espert,LLA
 2023-05-21 16:43:58+00:00,86,17,0,"BAHÍA BLANCA👋🏻 Nos vemos mañana a las 19 hs. en la Biblioteca Rivadavia (Auditorio Luis C. Caronti). 
 
 Entradas sin cargo ⬇️
-https://t.co/G7UIspyONN https://t.co/NNouXjrfVd",https://twitter.com/jlespert/status/1660370872740216833,Espert
-2023-05-21 12:12:09+00:00,0,0,0,@edualganarazz Placer! Vamoooo 2023.,https://twitter.com/jlespert/status/1660302467031093254,Espert
-2023-05-21 12:00:08+00:00,36,7,0,"Excelente artículo de @constant_hevia sobre el gigante de Robert Lucas, Premio Nobel de Economía 1995 y recientemente fallecido.
+https://t.co/G7UIspyONN https://t.co/NNouXjrfVd",https://twitter.com/jlespert/status/1660370872740216833,Espert,LLA
+2023-05-21 12:12:09+00:00,0,0,0,@edualganarazz Placer! Vamoooo 2023.,https://twitter.com/jlespert/status/1660302467031093254,Espert,LLA
+2023-05-21 12:00:08+00:00,37,7,0,"Excelente artículo de @constant_hevia sobre el gigante de Robert Lucas, Premio Nobel de Economía 1995 y recientemente fallecido.
 
-""La revolución de la macro"" https://t.co/2qWWsfOOtj",https://twitter.com/jlespert/status/1660299441184600066,Espert
-2023-05-20 18:57:25+00:00,512,40,19,"Amigos, les recomiendo la panadería “Artesano” en Mansilla 2740 (CABA). Lleno de cosas ricas! 👏🏻 https://t.co/7nlzMTSlnU",https://twitter.com/jlespert/status/1660042068117405696,Espert
-2023-05-20 17:35:11+00:00,147,37,1,"BAHÍA BLANCA👋🏻 Nos vemos el lunes a las 19 hs. en la Biblioteca Rivadavia (Auditorio Luis C. Caronti). 
+""La revolución de la macro"" https://t.co/2qWWsfOOtj",https://twitter.com/jlespert/status/1660299441184600066,Espert,LLA
+2023-05-20 18:57:25+00:00,518,40,19,"Amigos, les recomiendo la panadería “Artesano” en Mansilla 2740 (CABA). Lleno de cosas ricas! 👏🏻 https://t.co/7nlzMTSlnU",https://twitter.com/jlespert/status/1660042068117405696,Espert,LLA
+2023-05-20 17:35:11+00:00,148,37,1,"BAHÍA BLANCA👋🏻 Nos vemos el lunes a las 19 hs. en la Biblioteca Rivadavia (Auditorio Luis C. Caronti). 
 
 Entradas sin cargo ⬇️
-https://t.co/G7UIspyONN https://t.co/eJcUQn5ZqN",https://twitter.com/jlespert/status/1660021371013853188,Espert
-2023-05-20 16:02:16+00:00,278,29,16,Gracias ⁦@MartinLitwak⁩ por sumar tus conocimientos y defensa de las ideas de la libertad a #AvanzaLibertad Tenemos mucho por crecer! https://t.co/hgapzQkHJS,https://twitter.com/jlespert/status/1659997990004596736,Espert
+https://t.co/G7UIspyONN https://t.co/eJcUQn5ZqN",https://twitter.com/jlespert/status/1660021371013853188,Espert,LLA
+2023-05-20 16:02:16+00:00,280,29,16,Gracias ⁦@MartinLitwak⁩ por sumar tus conocimientos y defensa de las ideas de la libertad a #AvanzaLibertad Tenemos mucho por crecer! https://t.co/hgapzQkHJS,https://twitter.com/jlespert/status/1659997990004596736,Espert,LLA
 2023-05-20 13:59:33+00:00,12,4,0,"Comparto mi participación de hoy en #CNNPaísAdolescente con @pibeacasuso por @cnnradioarg 
 
 🎙️Nota Completa ⤵️
-https://t.co/I5SSk715eA",https://twitter.com/jlespert/status/1659967104253059073,Espert
+https://t.co/I5SSk715eA",https://twitter.com/jlespert/status/1659967104253059073,Espert,LLA
 2023-05-20 13:06:44+00:00,11,3,0,"Comparto mi participación de hoy en @DatosobreDato con @Pepebrea y @dsantoro59 por @fmmilenium
 
 🎙️Nota Completa ⤵️
-https://t.co/RwE4OguCpq",https://twitter.com/jlespert/status/1659953815188111360,Espert
+https://t.co/RwE4OguCpq",https://twitter.com/jlespert/status/1659953815188111360,Espert,LLA
 2023-05-20 13:01:46+00:00,10,0,2,"Comparto mi participación de hoy en #RivadaviaAgro con @carourd_ por @Rivadavia630
 
 🎙️Nota Completa ⤵️
-https://t.co/odDEPaH1qI",https://twitter.com/jlespert/status/1659952562768953346,Espert
-2023-05-20 12:45:10+00:00,241,64,1,"Casi la mitad de la población es pobre (25M) y casi 4M de adultos cobran planes sociales para llegar a mitad de mes. El ajuste es salvaje, ya ocurrió y seguirá ocurriendo con una inflación del 150% anual. Dejá de decir estupideces @Kicillofok",https://twitter.com/jlespert/status/1659948388614385665,Espert
+https://t.co/odDEPaH1qI",https://twitter.com/jlespert/status/1659952562768953346,Espert,LLA
+2023-05-20 12:45:10+00:00,243,64,1,"Casi la mitad de la población es pobre (25M) y casi 4M de adultos cobran planes sociales para llegar a mitad de mes. El ajuste es salvaje, ya ocurrió y seguirá ocurriendo con una inflación del 150% anual. Dejá de decir estupideces @Kicillofok",https://twitter.com/jlespert/status/1659948388614385665,Espert,LLA
 2023-05-20 12:15:22+00:00,168,32,1,"Estudio, mérito y perseverancia 🙌🏻
 
-@UBAeconomicas @SomosLibresFCE https://t.co/9VO9UKIy8b",https://twitter.com/jlespert/status/1659940889265860616,Espert
-2023-05-20 11:29:59+00:00,167,33,1,"Como productor agropecuario que soy, sin dudas siento que represento la voz de los productores agropecuarios. Toda la vida he defendido que no hayan retenciones a las exportaciones y apertura al comercio mundial para explotar todo el potencial del sector. https://t.co/lMu8hQzlcd",https://twitter.com/jlespert/status/1659929468419407876,Espert
-2023-05-19 22:45:01+00:00,160,20,4,Un lujo @rcas1⁩ siendo parte del equipo de #AvanzaLibertad https://t.co/UMSvdz6Iib,https://twitter.com/jlespert/status/1659736957797167105,Espert
-2023-05-19 21:56:03+00:00,128,16,7,Gracias @UBAeconomicas por permitirme compartir con ustedes 🙌🏻 https://t.co/tRYQtmHoal,https://twitter.com/jlespert/status/1659724635213111299,Espert
+@UBAeconomicas @SomosLibresFCE https://t.co/9VO9UKIy8b",https://twitter.com/jlespert/status/1659940889265860616,Espert,LLA
+2023-05-20 11:29:59+00:00,168,33,1,"Como productor agropecuario que soy, sin dudas siento que represento la voz de los productores agropecuarios. Toda la vida he defendido que no hayan retenciones a las exportaciones y apertura al comercio mundial para explotar todo el potencial del sector. https://t.co/lMu8hQzlcd",https://twitter.com/jlespert/status/1659929468419407876,Espert,LLA
+2023-05-19 22:45:01+00:00,160,20,4,Un lujo @rcas1⁩ siendo parte del equipo de #AvanzaLibertad https://t.co/UMSvdz6Iib,https://twitter.com/jlespert/status/1659736957797167105,Espert,LLA
+2023-05-19 21:56:03+00:00,127,16,7,Gracias @UBAeconomicas por permitirme compartir con ustedes 🙌🏻 https://t.co/tRYQtmHoal,https://twitter.com/jlespert/status/1659724635213111299,Espert,LLA
 2023-05-19 19:31:48+00:00,155,22,6,"En el 2019 plantamos una semilla de liberalismo que hacía 30 años no competía abiertamente en una presidencial. Es momento de que esa semilla, que ahora es planta, se ponga a jugar en la liga mayor para tener chances de ganar y gobernar.
 
-@luisnovaresio @lanacionmas https://t.co/hXemkRc9n0",https://twitter.com/jlespert/status/1659688330089615360,Espert
-2023-05-19 17:44:53+00:00,858,115,14,"Sos chorra. Dicho por la Justicia. Podes considerarte ""presa en potencia"" también. Vos elegís.",https://twitter.com/jlespert/status/1659661423390126089,Espert
-2023-05-19 16:26:30+00:00,138,35,5,"ES TIEMPO DE RECONSTRUIR 🇦🇷 
+@luisnovaresio @lanacionmas https://t.co/hXemkRc9n0",https://twitter.com/jlespert/status/1659688330089615360,Espert,LLA
+2023-05-19 17:44:53+00:00,859,115,14,"Sos chorra. Dicho por la Justicia. Podes considerarte ""presa en potencia"" también. Vos elegís.",https://twitter.com/jlespert/status/1659661423390126089,Espert,LLA
+2023-05-19 16:26:30+00:00,139,35,5,"ES TIEMPO DE RECONSTRUIR 🇦🇷 
 
-#ESPERT2023 #LALIBERTADESESPERT https://t.co/mL1nupZZU4",https://twitter.com/jlespert/status/1659641699516162049,Espert
+#ESPERT2023 #LALIBERTADESESPERT https://t.co/mL1nupZZU4",https://twitter.com/jlespert/status/1659641699516162049,Espert,LLA
 2023-05-19 14:52:04+00:00,20,5,0,"Comparto mi participación de hoy en #BuenDíaNación con @luisnovaresio por @lanacionmas
 
 🔴 Nota Completa ⤵️
-https://t.co/s9ijTahXFO",https://twitter.com/jlespert/status/1659617933578911745,Espert
-2023-05-19 12:20:41+00:00,152,34,6,"BAHÍA BLANCA 👋🏻
+https://t.co/s9ijTahXFO",https://twitter.com/jlespert/status/1659617933578911745,Espert,LLA
+2023-05-19 12:20:41+00:00,154,34,6,"BAHÍA BLANCA 👋🏻
 Felices de compartir “La Argentina Deseada” con ustedes 📚
 
 Entradas sin cargo ⬇️
-https://t.co/G7UIspyONN https://t.co/Jyu4KmAd3J",https://twitter.com/jlespert/status/1659579836996759553,Espert
-2023-05-19 10:54:19+00:00,498,105,11,"Mentira. Desde que Argentina abrazó el populismo hace más de 80 años pasamos de ser top ten en ingreso per capita mundial a estar abajo del puesto 100, de 200 países que hay en el Planeta, llenos de villas, marginalidad, narcos, etc. El camino es la libertad.",https://twitter.com/jlespert/status/1659558103669407745,Espert
-2023-05-19 09:30:59+00:00,965,265,12,La defensa de los derechos del trabajador está en la Constitución (art. 14 y 14 bis). La CGT es un grupo de facinerosos que forman parte del PJ. NADA que ver con la defensa de los laburantes. https://t.co/LWNX6Na7G5,https://twitter.com/jlespert/status/1659537131017052160,Espert
+https://t.co/G7UIspyONN https://t.co/Jyu4KmAd3J",https://twitter.com/jlespert/status/1659579836996759553,Espert,LLA
+2023-05-19 10:54:19+00:00,498,105,11,"Mentira. Desde que Argentina abrazó el populismo hace más de 80 años pasamos de ser top ten en ingreso per capita mundial a estar abajo del puesto 100, de 200 países que hay en el Planeta, llenos de villas, marginalidad, narcos, etc. El camino es la libertad.",https://twitter.com/jlespert/status/1659558103669407745,Espert,LLA
+2023-05-19 09:30:59+00:00,978,272,12,La defensa de los derechos del trabajador está en la Constitución (art. 14 y 14 bis). La CGT es un grupo de facinerosos que forman parte del PJ. NADA que ver con la defensa de los laburantes. https://t.co/LWNX6Na7G5,https://twitter.com/jlespert/status/1659537131017052160,Espert,LLA
 2023-05-19 08:05:42+00:00,49,10,0,"Hoy nos vemos @UBAeconomicas 🤩 
 
-Av. Córdoba 2122 (CABA) - Aula 19 💪🏻",https://twitter.com/jlespert/status/1659515667903545351,Espert
-2023-05-19 08:00:01+00:00,28,11,0,Hoy a las 12:00 hs. estaré con @luisnovaresio en #BuenDíaNación por @lanacionmas https://t.co/0ga7MYQn7H,https://twitter.com/jlespert/status/1659514239000932358,Espert
+Av. Córdoba 2122 (CABA) - Aula 19 💪🏻",https://twitter.com/jlespert/status/1659515667903545351,Espert,LLA
+2023-05-19 08:00:01+00:00,28,11,0,Hoy a las 12:00 hs. estaré con @luisnovaresio en #BuenDíaNación por @lanacionmas https://t.co/0ga7MYQn7H,https://twitter.com/jlespert/status/1659514239000932358,Espert,LLA
 2023-05-18 23:58:47+00:00,17,3,0,"Comparto mi participación de esta noche en #LaCruelVerdad con @trebuquero por @A24COM
 
 🔴 Nota Completa ⤵️
-https://t.co/SCZdEntCC4",https://twitter.com/jlespert/status/1659393133191258112,Espert
-2023-05-18 23:24:01+00:00,59,15,0,Es mañana!,https://twitter.com/jlespert/status/1659384385345318912,Espert
-2023-05-18 23:17:32+00:00,652,150,2,"A los dirigentes que están detrás de esto hay que meterlos presos directamente. Pérsico, Grabois, Belliboni, ustedes 3 son delincuentes porque están violando la CN y el Código Penal. https://t.co/dX2JuRYAmo",https://twitter.com/jlespert/status/1659382752922181632,Espert
-2023-05-18 17:31:38+00:00,1123,176,25,"El espacio que lidero, Avanza Libertad, quiere terminar con el trabajo en negro que afecta a la mitad de los trabajadores (8M) donde son todos pobres y sacar de la pobreza que ya afecta a los que están en blanco. Para eso hay que terminar con la figura del despido sin justa causa, que la indemnización por despido deje de estar en cabeza de los empresarios para que se pague con el superávit del sistema de asignaciones familiares, que la negociación colectiva sea por empresa, que exista democracia sindical terminando con el unicato sindical, que los aportes de los trabajadores a los sindicatos no solo sea -realmente- voluntario sino que también los empresarios dejen de ser solidariamente responsables de ellos, que los secretarios generales de los gremios duren en sus cargos lo mismo que el Presidente de la Nación en vez de toda la vida como hoy, que los sindicalistas tengan prohibido realizar otra tarea que no sea defender los derechos de los trabajadores, que se terminen descuentos absurdos sobre los salarios de los trabajadores como el ""seguro de sepelio"", etc.
+https://t.co/SCZdEntCC4",https://twitter.com/jlespert/status/1659393133191258112,Espert,LLA
+2023-05-18 23:24:01+00:00,59,15,0,Es mañana!,https://twitter.com/jlespert/status/1659384385345318912,Espert,LLA
+2023-05-18 23:17:32+00:00,654,150,2,"A los dirigentes que están detrás de esto hay que meterlos presos directamente. Pérsico, Grabois, Belliboni, ustedes 3 son delincuentes porque están violando la CN y el Código Penal. https://t.co/dX2JuRYAmo",https://twitter.com/jlespert/status/1659382752922181632,Espert,LLA
+2023-05-18 17:31:38+00:00,1129,177,25,"El espacio que lidero, Avanza Libertad, quiere terminar con el trabajo en negro que afecta a la mitad de los trabajadores (8M) donde son todos pobres y sacar de la pobreza que ya afecta a los que están en blanco. Para eso hay que terminar con la figura del despido sin justa causa, que la indemnización por despido deje de estar en cabeza de los empresarios para que se pague con el superávit del sistema de asignaciones familiares, que la negociación colectiva sea por empresa, que exista democracia sindical terminando con el unicato sindical, que los aportes de los trabajadores a los sindicatos no solo sea -realmente- voluntario sino que también los empresarios dejen de ser solidariamente responsables de ellos, que los secretarios generales de los gremios duren en sus cargos lo mismo que el Presidente de la Nación en vez de toda la vida como hoy, que los sindicalistas tengan prohibido realizar otra tarea que no sea defender los derechos de los trabajadores, que se terminen descuentos absurdos sobre los salarios de los trabajadores como el ""seguro de sepelio"", etc.
 
 Lamento que la CGT rechace estas propuestas que son por el bien de una clase trabajadora hambreada por leyes laborales que la CGT no quiere cambiar.
 
-Lamento más todavía que la CGT anticipe que no dialogará conmigo justo en el año en el cual Argentina festeja 40 años de la vuelta de la democracia, símbolo del diálogo. En cualquier caso, si en las elecciones venideras soy elegido Presidente de la Nación, la reforma laboral de más arriba será discutida donde corresponde, el Congreso de la Nación. Si la CGT quiere participar del diálogo, bienvenida y sino, también. Hay que terminar con los privilegios de los mal llamados sindicalistas para darles más derechos a los trabajadores.",https://twitter.com/jlespert/status/1659295702529241114,Espert
-2023-05-18 14:09:00+00:00,61,13,1,Hoy a las 22:00 hs. estaré con @trebuquero en #LaCruelVerdad en @A24COM https://t.co/Qj1ifcWIS2,https://twitter.com/jlespert/status/1659244708210540567,Espert
-2023-05-18 14:05:23+00:00,140,20,4,FELIZ DÍA DE LA ESCARAPELA 🇦🇷 https://t.co/ZL9tmePo30,https://twitter.com/jlespert/status/1659243798294036482,Espert
-2023-05-18 13:59:33+00:00,1358,258,44,"Camiones hidrantes, cárcel o bala.
+Lamento más todavía que la CGT anticipe que no dialogará conmigo justo en el año en el cual Argentina festeja 40 años de la vuelta de la democracia, símbolo del diálogo. En cualquier caso, si en las elecciones venideras soy elegido Presidente de la Nación, la reforma laboral de más arriba será discutida donde corresponde, el Congreso de la Nación. Si la CGT quiere participar del diálogo, bienvenida y sino, también. Hay que terminar con los privilegios de los mal llamados sindicalistas para darles más derechos a los trabajadores.",https://twitter.com/jlespert/status/1659295702529241114,Espert,LLA
+2023-05-18 14:09:00+00:00,62,13,1,Hoy a las 22:00 hs. estaré con @trebuquero en #LaCruelVerdad en @A24COM https://t.co/Qj1ifcWIS2,https://twitter.com/jlespert/status/1659244708210540567,Espert,LLA
+2023-05-18 14:05:23+00:00,140,20,4,FELIZ DÍA DE LA ESCARAPELA 🇦🇷 https://t.co/ZL9tmePo30,https://twitter.com/jlespert/status/1659243798294036482,Espert,LLA
+2023-05-18 13:59:33+00:00,1360,257,44,"Camiones hidrantes, cárcel o bala.
 
-La Constitución, el Código Penal y las leyes antes que nada. Sino, es ésto que promueve la lacra del kirchnerismo: miseria, culto a la miseria y esclavitud planera. O sea, la ley de la selva #KirchnerismoNuncaMas",https://twitter.com/jlespert/status/1659242329067143168,Espert
-2023-05-18 06:16:23+00:00,19,4,0,Hay reflexiones mías acá.,https://twitter.com/jlespert/status/1659125772563488769,Espert
+La Constitución, el Código Penal y las leyes antes que nada. Sino, es ésto que promueve la lacra del kirchnerismo: miseria, culto a la miseria y esclavitud planera. O sea, la ley de la selva #KirchnerismoNuncaMas",https://twitter.com/jlespert/status/1659242329067143168,Espert,LLA
+2023-05-18 06:16:23+00:00,19,4,0,Hay reflexiones mías acá.,https://twitter.com/jlespert/status/1659125772563488769,Espert,LLA
 2023-05-17 21:45:41+00:00,115,22,0,"#DíaDeLaArmadaArgentina 
 
-Con profesionalismo, valentía y espíritu de sacrificio, custodia nuestros mares y ríos, siendo internacionalmente reconocida. Acompaño hoy a todos sus integrantes, con un especial recuerdo a quienes dejaron su vida en el cumplimiento del deber.",https://twitter.com/jlespert/status/1658997247835512832,Espert
-2023-05-17 17:34:44+00:00,106,37,2,"En español: emitir dinero (por encima de la demanda) SOLO genera inflación.
+Con profesionalismo, valentía y espíritu de sacrificio, custodia nuestros mares y ríos, siendo internacionalmente reconocida. Acompaño hoy a todos sus integrantes, con un especial recuerdo a quienes dejaron su vida en el cumplimiento del deber.",https://twitter.com/jlespert/status/1658997247835512832,Espert,LLA
+2023-05-25 16:33:55+00:00,3320,597,25,"¿GASTARON TANTA PLATA EN UN ACTO PARA NO ANUNCIAR NADA?
 
-Por eso nuestra moneda, desde que nació hace 142 años en 1881, ha tenido 3.000.000.000.000.000.000 (3 trillones) % de inflación.",https://twitter.com/jlespert/status/1658934096830013441,Espert
-2023-05-17 16:59:37+00:00,327,62,3,"No ser capitalista, no es un tema ideológico, es un tema de falta total de sentido común. Te funciona mal el bocho. Capitalismo es el EL régimen que aplica el mundo para funcionar. Es como negar que lo que nos da calor es el sol.",https://twitter.com/jlespert/status/1658925256046780416,Espert
-2023-05-17 10:57:43+00:00,130,33,3,"Será una gran alegría verlos el viernes 19/05 a las 19 hs. en @UBAeconomicas presentando el Ciclo de Charlas: “¿Cómo lograr el desarrollo del país que nos merecemos?” 🙌🏻
+Ah claro, son kirchneristas y se financian con la nuestra y no saben medir costo/beneficio",https://twitter.com/RAMIROMARRA/status/1661817892822720512,Marra,LLA
+2023-05-24 21:53:41+00:00,6,1,0,@lucassmelga @leandroriviello Me gusta la idea 🤔,https://twitter.com/RAMIROMARRA/status/1661535976299155458,Marra,LLA
+2023-05-24 16:02:19+00:00,431,100,0,"Hace más de 35 años que Gildo Insfran vive del Estado y en ese tiempo Formosa se convirtió en la provincia más pobres del país. Literalmente destruyeron Formosa.
+ 
+¿Cómo puede ser que hablen de futuro con este corrupto al frente? Es una falta de respeto para los formoseños.",https://twitter.com/RAMIROMARRA/status/1661447551873175559,Marra,LLA
+2023-05-24 15:44:43+00:00,635,91,9,La promotora de Nestor Kirchner en 2003 quiere ahora postularse nuevamente para presidente. No me sorprendería que termine apoyando al Kirchnerismo de nuevo. https://t.co/IJVnvpZene,https://twitter.com/RAMIROMARRA/status/1661443125615755291,Marra,LLA
+2023-05-24 15:43:33+00:00,242,5,3,@horaciorlarreta N,https://twitter.com/RAMIROMARRA/status/1661442831968268288,Marra,LLA
+2023-05-24 14:49:56+00:00,815,159,4,"Miralo vos a @diegobranca, haciéndose el picante en tv, faltándole el respeto a su compañera y riéndose de todos nosotros y el uso que el Kirchnerismo hace de nuestro dinero.
 
-Entrada libre - Aula a precisar el día del evento. https://t.co/dsvpSMkXq7",https://twitter.com/jlespert/status/1658834184079589378,Espert
-2023-05-16 20:45:59+00:00,189,35,2,"El populismo de Cristina Kirchner nos ha hecho creer que somos un país de inválidos, lo cual es totalmente falso. https://t.co/EVSfuKbvFB",https://twitter.com/jlespert/status/1658619836061167621,Espert
-2023-05-16 19:19:54+00:00,97,6,1,AHORA 📺 por @CronicaTV https://t.co/FgjlT30rFF,https://twitter.com/jlespert/status/1658598172078252032,Espert
-2023-05-16 18:43:31+00:00,3272,318,219,¡Que lástima! Hubiera sido genial asistir a tu entierro político.,https://twitter.com/jlespert/status/1658589017682726917,Espert
-2023-05-16 16:32:17+00:00,23,8,1,Hoy a las 21:00 hs. estaré con @gsued y @nbg__ en #IPNoticiasEdiciónCentral por @_IPNoticias https://t.co/44Zzon1el2,https://twitter.com/jlespert/status/1658555989497466880,Espert
-2023-05-16 14:37:55+00:00,195,31,5,Leeme @EBelliboni. Tenemos un problema de narcotrafico mayúsculo en el país como para que insistas (2da instancia) en usar a la Justicia para censurar lo que pienso de vos: que sos un delincuente. Encima perdiste de nuevo. https://t.co/nOILE85IO7,https://twitter.com/jlespert/status/1658527209257041941,Espert
-2023-05-16 12:15:53+00:00,56,15,2,Programa de transformaciones de #AvanzaLibertad https://t.co/dkw2RAuK1D,https://twitter.com/jlespert/status/1658491464567992320,Espert
-2023-05-16 09:25:33+00:00,160,34,1,"El Presidente se tiene que internar si cree que la inflación es psicológica.
+Y pensar que fundió el super que abrió por la crisis que generó este gobierno 🤡
+https://t.co/kRg0xF20tU",https://twitter.com/RAMIROMARRA/status/1661429337768304642,Marra,LLA
+2023-05-24 14:30:27+00:00,702,106,3,Larreta en cada entrevista. https://t.co/krISK3eQe3,https://twitter.com/RAMIROMARRA/status/1661424432647110680,Marra,LLA
+2023-05-24 14:21:34+00:00,275,61,1,El mundo confía más en un país en guerra (contra un país potencia) que en Argentina. Confirmado que el Kirchnerismo es un virus que destruye por completo un país. https://t.co/pcksEtW6n1,https://twitter.com/RAMIROMARRA/status/1661422199050313728,Marra,LLA
+2023-05-24 14:09:42+00:00,213,23,0,¿EN SERIO DE ESTA MANERA QUIEREN HACER BAJAR EL DOLAR?,https://twitter.com/RAMIROMARRA/status/1661419210415788033,Marra,LLA
+2023-05-24 14:03:22+00:00,693,100,4,"NO A LA CAMPAÑA SUCIA
 
-@HernanFunes @SBerensztein @lfechegaray #RadioInforme3 @Cadena3_Rosario
+Me parece que le hackearon la cuenta a Larreta y lo estan tratando de dejar como un tipo que pregunta boludeces en vez de sacar a los piqueteros y encerrar a los chorros.
 
-🎙️Nota Completa ⤵️
-https://t.co/FUKxLFB4Ij https://t.co/Mx6jLeUlgw",https://twitter.com/jlespert/status/1658448601306087428,Espert
-2023-05-15 22:46:34+00:00,91,17,0,"Comparto mi participación de esta noche en #UnaVueltaMás con @diegosehinkman por @todonoticias
+Devuelvanle la cuenta",https://twitter.com/RAMIROMARRA/status/1661417619616854017,Marra,LLA
+2023-05-24 13:00:51+00:00,930,163,11,"La confirmacion de la incorporacion de dos grandes economistas como  @carod2015 y @roquebfernande1 a @LLibertadAvanza habla del profesionalismo con el que estamos trabajando en el proyecto de pais que vamos a llevar adelante junto a @JMilei 
 
-🔴 Nota Completa ⤵️
-https://t.co/jpHrUio92R https://t.co/aCzFygW75T",https://twitter.com/jlespert/status/1658287796736360448,Espert
-2023-05-15 21:14:08+00:00,2069,178,91,"Saliendo de #SoloUnaVueltaMás en TN me encontré con la gran @patobullrich. En breve, hacemos otro café para seguir conversando sobre cómo hacer “La Argentina Deseada” https://t.co/7OFYvUBtOX",https://twitter.com/jlespert/status/1658264535084482561,Espert
-2023-05-15 20:27:46+00:00,235,68,6,"En 142 años desde 1881 que tuvimos nuestra primera moneda nacional, la inflación fue de 3.000.000.000.000.000.000% (3 trillones %) mientras que en EEUU fue de 3.300%. No destruimos solo una moneda. Destruimos un país entero.
-@Grafico de @SalvadorVitell1 https://t.co/au2nZxzJm6",https://twitter.com/jlespert/status/1658252863057821696,Espert
-2023-05-15 18:00:05+00:00,150,25,16,"En compañía de @luisrosalesARG y @LuisGreenOK con @florenciarietto. 
+Seguimos avanzando",https://twitter.com/RAMIROMARRA/status/1661401885461422083,Marra,LLA
+2023-05-24 10:25:26+00:00,1964,405,30,"¿PERO CUÁL ES EL PLAN HORACIO?
+Mientras @JMilei sale todos los días en TV (y hasta escribió un libro) contando paso por paso como se implementarán las medidas políticas que proponemos, Horacio Larreta solo dice ""tenemos un plan"". Que vende humo que es 🤡
+https://t.co/LmJh4qZWLZ",https://twitter.com/RAMIROMARRA/status/1661362773131943936,Marra,LLA
+2023-05-24 09:27:05+00:00,349,81,4,"Toda de Juntos por el Cambio, le jodieron la vida a millones de personas y, a pesar de haberlo prometido en campañas, ni se calientan en derogar esta ley que no sirve para nada.
 
-Coincidimos que dentro de la ley, todo. Fuera de la ley, es cárcel o bala. https://t.co/Bt5CZelN37",https://twitter.com/jlespert/status/1658215699737616387,Espert
-2023-05-15 15:15:39+00:00,0,0,0,@HerrouAragon Que capo vos Alberto! Felicitaciones. Gran pérdida.,https://twitter.com/jlespert/status/1658174319443292160,Espert
-2023-05-15 13:31:13+00:00,64,6,0,"Gran pesar. Un genio de UChicago, Nobel de Economía. Estudié y aprendí un montón de sus trabajos.",https://twitter.com/jlespert/status/1658148034973147136,Espert
-2023-05-15 11:14:10+00:00,235,58,5,"Un verdadero genocidio económico y social. Pero hay una esperanza. Para recuperar nuestra ""Argentina Deseada"", éste es el programa de gobierno de #AvanzaLibertad https://t.co/dkw2RAuK1D",https://twitter.com/jlespert/status/1658113546822066176,Espert
-2023-05-15 09:12:34+00:00,172,29,6,"🇦🇷 LA ARGENTINA DESEADA 🇦🇷 
+¿Supuestamente son ellos quienes van a cambiar el país? Que risa me dan 🤡 https://t.co/IwIJ6P3TJN",https://twitter.com/RAMIROMARRA/status/1661348089666445313,Marra,LLA
+2023-05-23 17:09:41+00:00,809,125,14,"Lo odian, pero lo van a hacer presidente 🇦🇷
+ https://t.co/xLO11QDScJ",https://twitter.com/RAMIROMARRA/status/1661102118315458562,Marra,LLA
+2023-05-23 14:25:31+00:00,152,46,1,"Los responsables de esto hoy son candidatos políticos de nuevo. Tanto el Kirchnerismo como Juntos por el Cambio, los dos frentes reventaron nuestra economía y nos hundieron en la pobreza.
 
-Gracias a todos los que se acercaron a la Feria del Libro a compartir este lanzamiento tan especial. https://t.co/vg7nOnE4Re",https://twitter.com/jlespert/status/1658082944404135936,Espert
-2023-05-15 09:00:02+00:00,31,7,0,Hoy a las 20:30 hs. estaré con @diegosehinkman en #SoloUnaVueltaMas por @todonoticias https://t.co/FDuLQ7OpXS,https://twitter.com/jlespert/status/1658079789083705344,Espert
-2023-05-14 22:48:45+00:00,21,7,1,"Comparto mi participación de esta tarde en #EspecialDomingo con @hugomakiavelico por @lanacionmas
+Es imposible un futuro mejor si repetimos los mismos errores, merecemos un país mejor. https://t.co/jdL9Y6MMg3",https://twitter.com/RAMIROMARRA/status/1661060805071192088,Marra,LLA
+2023-05-23 12:47:46+00:00,43,10,0,https://t.co/ldGMxWoUXt,https://twitter.com/RAMIROMARRA/status/1661036203330752514,Marra,LLA
+2023-05-23 12:38:59+00:00,5179,517,431,"BIENVENIDO @eldipypapaok 
 
-🔴 Nota Completa ⤵️
-https://t.co/XbZk4F0xbd",https://twitter.com/jlespert/status/1657925956592361473,Espert
-2023-05-14 22:05:14+00:00,160,13,2,Qué placer que me hayas acompañado @luisnovaresio. Gran profesional y amigo. https://t.co/O8ksyQW8HA,https://twitter.com/jlespert/status/1657915003305877504,Espert
-2023-05-22 12:34:51+00:00,3261,745,19,"Nos han agredido de modo directo y/o indirecto.
-Dieron lugar e impulsaron mentiras ridículas.
-Avalaron y festejaron palabras que constituyen delitos y que por mucho menos a nosotros nos aniquilarían.
-Siempre contestamos con propuestas.
-Ante la derrota ahora piden censura.
-VLLC!",https://twitter.com/JMilei/status/1660670565642911748,Milei
-2023-05-22 09:55:01+00:00,1490,144,0,"Conforme lo vayan estudiando mejor y no llevarse por título de econochantas y/o periodistas partidarios van a poder entender mejor la cuenta... pero como no aceptarán su ERROR van a decir que la propuesta está cambiando todo el tiempo...
-Avisó que también hay varios métodos!",https://twitter.com/JMilei/status/1660630342758285313,Milei
-2023-05-22 09:45:05+00:00,1456,165,1,"Algún día entenderán que la cuenta es al dólar de mercado y que la ingeniería financiera implica el rescate total de la base monetaria, solución a las LELIQs, cómputo de reservas internacionales netas en un método de liquidación del BCRA, la deuda pública en BCRA y su ""precio"".",https://twitter.com/JMilei/status/1660627845201244160,Milei
-2023-05-22 09:38:00+00:00,1574,147,1,"Dato de color...
-Acorde la cuenta berreta que hacen éstos técnicos precarios, con lo que ha hecho Massa en términos de base monetaria, LELIQs y reservas, los números del dólar les debería dar crecientes y no cayendo...",https://twitter.com/JMilei/status/1660626061187510273,Milei
-2023-05-22 09:34:14+00:00,6204,924,27,"DOLARIZACIÓN
-1. Es una locura imposible
-2. Propone un Plan BONEX
-3. Se necesitan USD 70.000M
-4. Hacen falta USD 50.000M
-5. El dólar estará en $ 10.000, $5.000, $ 3.000, $ 1.500...
-6. Antes decía que la haría en 1 día.
-7. Me acusan de cambiar para justificar sus errores técnicos.",https://twitter.com/JMilei/status/1660625110988906496,Milei
-2023-05-22 08:59:40+00:00,832,161,4,VIVA LA LIBERTAD CARAJO https://t.co/jZKXQGOmMe,https://twitter.com/JMilei/status/1660616415571853312,Milei
-2023-05-21 22:28:02+00:00,1161,299,2,Nada de lo que toca el siniestro queda o está limpio... todo lo vuelve turbio...,https://twitter.com/JMilei/status/1660457456160391168,Milei
-2023-05-20 22:47:01+00:00,2888,321,1,ENTENDIÓ TODO...,https://twitter.com/JMilei/status/1660099849092493312,Milei
-2023-05-20 22:30:45+00:00,63,4,0,"@Romomeister YES, fue creado por 40 años.",https://twitter.com/JMilei/status/1660095755091099651,Milei
-2023-05-20 22:01:26+00:00,254,61,1,https://t.co/DDwu7MSlNj,https://twitter.com/JMilei/status/1660088374194065408,Milei
-2023-05-20 21:54:54+00:00,1900,472,11,"Más allá de que no creo que exista una política monetaria óptima y que la idea del Banco Central independiente tiene un pecado de origen, creer en ello es como darle un arma cargada a un asesino serial y esperar que no te hará daño porque te jura que esta vez será diferente... https://t.co/hk8UjUC5jv",https://twitter.com/JMilei/status/1660086730949812226,Milei
-2023-05-20 15:09:16+00:00,1258,187,3,"A su vez, computar el salario en dólares al dólar oficial es como hacer trampa al solitario. Una mentira que se termina cuando salís del país.
-A su vez, si los cómputos delirantes tuvieran sentido ¿por qué no se ve en el precio de mercado?
-Noto muchos que no sabe que es mercado.",https://twitter.com/JMilei/status/1659984651547549697,Milei
-2023-05-20 15:04:32+00:00,4469,745,14,"Me ""sorprende"" el ejército de incompetentes que hablan del dólar al que dolarizaríamos y con cuentas de equilibrio parcial computan salarios en dólares, pobres e indigentes.
-Les cuento que la cuenta siempre se hace al dólar de mercado y de ahí se diseña la ingeniería financiera.",https://twitter.com/JMilei/status/1659983460910415875,Milei
-2023-05-20 14:08:22+00:00,499,73,0,"Obvio, si uno mirara la serie como un ignorante en economía, entre puntas observaría más inflación. Sin embargo, aún para un economista mediocre, no se le debería pasar por alto estos dos efectos.
-Por ende, la inflación psicológica es una excusa de los adictos a la inflación.",https://twitter.com/JMilei/status/1659969325061623809,Milei
-2023-05-20 14:02:07+00:00,493,75,0,"Si uno tomara el ln del nivel de precios en el tiempo, la inflación sería la pendiente. Si ahora aumenta el ritmo de crecimiento del dinero, no sólo la pendiente será más empinada, sino que una tasa de interés nominal mayor hará caer la demanda lo cual implica un salto en P.",https://twitter.com/JMilei/status/1659967753732739072,Milei
-2023-05-20 13:55:36+00:00,451,64,0,"Por ende, si bien la inflación es siempre y en todo lugar un fenómeno monetario, generado por un exceso de oferta, ya sea por crecimiento de la oferta y/o caída de la demanda, que deriva en una caída del PAD, los argumentos psicológicos son de una vez para siempre no continuos.",https://twitter.com/JMilei/status/1659966113340325888,Milei
-2023-05-20 13:51:32+00:00,603,92,0,"Segundo, y más grave, parece que algunos economistas no entienden sobre el precio relativo del dinero. Esto es, dado todo lo demás, una caída en la demanda dinero implicaría un salto en el nivel de precios asociado al menor poder adquisitivo del mismo, lo cual no es inflación.",https://twitter.com/JMilei/status/1659965087279349762,Milei
-2023-05-20 13:46:29+00:00,2533,470,6,"INFLACIÓN PSICOLÓGICA
-Aquellos que torpemente han tomado este punto, en general se basan en una caída de la demanda de dinero por expectativas de inflación.
-Primero, esas expectativas no nacen de un repollo, surgen a partir de lo que se espera que ocurra con la oferta monetaria.",https://twitter.com/JMilei/status/1659963818733191170,Milei
-2023-05-20 13:22:11+00:00,1499,250,5,FENÓMENO BARRIAL https://t.co/sQAYqDglNZ,https://twitter.com/JMilei/status/1659957703056273409,Milei
-2023-05-18 21:10:38+00:00,916,38,0,@eldipyok VOS SOS CRACK...!!!,https://twitter.com/JMilei/status/1659350817894178816,Milei
-2023-05-18 21:07:26+00:00,4665,870,26,EDUCACIÓN PÚBLICA,https://twitter.com/JMilei/status/1659350009748373504,Milei
-2023-05-18 16:52:33+00:00,810,172,3,Patricia Bullrich y Javier Milei le respondieron a la CGT: “Saben que se les acaban sus privilegios” - Infobae https://t.co/A9bREuKz8h,https://twitter.com/JMilei/status/1659285866764746752,Milei
-2023-05-18 16:52:10+00:00,3321,729,25,"Javier Milei reaccionó al comunicado de la CGT: ""Con nosotros la joda de los sindicalistas ladrones se termina"" https://t.co/sUxmNaVGK7 vía @A24COM",https://twitter.com/JMilei/status/1659285771059097615,Milei
-2023-05-18 15:17:37+00:00,5478,1146,34,"Así funciona la maquina del apriete y la extorsion en Argentina, pero sepan algo. A diferencia de las palomas tibias de Cambiemos nosotros no les tenemos miedo. Con nosotros la joda de los sindicalistas ladrones se termina.",https://twitter.com/JMilei/status/1659261978253172744,Milei
-2023-05-18 15:03:09+00:00,1205,65,2,@giovannilarosa0 UN TIPO BRILLANTE,https://twitter.com/JMilei/status/1659258335927967744,Milei
-2023-05-18 10:58:35+00:00,4087,849,28,"Un programa económico que parte de la necesidad de poner en orden un sistema explosivo conlleva a que haya ganadores y perdedores.
-En el nuestro gana la gente honesta y pierden los parásitos rojos y los políticos chorros. ¿Será por esto que hay tanto radichta pidiendo ""debate""?",https://twitter.com/JMilei/status/1659196788048539650,Milei
-2023-05-17 23:37:36+00:00,1657,233,21,Javier Milei habló de la posible candidatura de El Dipy: “Sería un gran intendente para La Matanza” https://t.co/zPiEB6UzHc,https://twitter.com/JMilei/status/1659025414507962376,Milei
-2023-05-17 12:09:00+00:00,2142,371,19,TOUR DE LA LIBERTAD https://t.co/QeixqPzVaw,https://twitter.com/JMilei/status/1658852120056025090,Milei
-2023-05-16 18:57:13+00:00,303,79,1,La DAIA repudió a Horacio Pietragalla por apoyar una muestra que criminaliza el Estado de Israel - Infobae https://t.co/QDml9YwuhF,https://twitter.com/JMilei/status/1658592463764836355,Milei
-2023-05-16 17:04:04+00:00,698,122,3,"En definitiva, el señoreaje es un robo de los políticos contra las personas honestas.
-Por ende, desde lo moral robar está mal, lo haga un político o cualquier persona. Y defender el robo de los políticos, dado el monopolio de la violencia estatal, es aberrante para un liberal.",https://twitter.com/JMilei/status/1658563991940071425,Milei
-2023-05-16 16:57:56+00:00,637,94,2,"Por ende, más allá del impacto sobre la tasa de inflación, la verdadera estafa es el señoreaje, el cual existe por la emisión de dinero aún cuando la misma estuviera en línea con una mayor demanda de dinero en una economía en crecimiento.
-Por ende el señoreaje es una estafa.",https://twitter.com/JMilei/status/1658562445839945742,Milei
-2023-05-16 16:54:00+00:00,491,71,5,"Creer que porque no hay impuesto inflacionario no hay daño es un error grosero.
-Con crecimiento habrá una mayor demanda de  dinero, en caso de estar dada la cantidad de dinero (no hay señoreaje) lo que sucederá es que los precios bajarán y todos los ciudadanos serán más ricos.",https://twitter.com/JMilei/status/1658561456122613789,Milei
-2023-05-16 16:50:42+00:00,514,70,0,"La mediocridad se pone en evidencia cuando hay crecimiento ya que ello aumenta la demanda de dinero. Ahí señoreaje e impuesto inflacionario quedan desasociados y si la emisión se alínea con la demanda de dinero no hay inflación. Así no hay impuesto inflacionario y ""no hay"" daño.",https://twitter.com/JMilei/status/1658560625268740118,Milei
-2023-05-16 16:44:24+00:00,614,82,0,"En una economía sin crecimiento, dado todo lo demás, la demanda de dinero estaría dada y con ello el señoreaje (aumento de emisión para financiar al fisco) no tendría correlato en demanda por lo que todo pegaría en la tasa de inflación.
-En este caso los daños irían de la mano.",https://twitter.com/JMilei/status/1658559040866140162,Milei
-2023-05-16 16:39:21+00:00,3234,549,15,"Entre tantas pruebas de lo mediocre que son algunos economistas está la vinculada con el señoreaje y el impuesto inflacionario.
-Así, el señoreaje es la emisión de dinero para financiar al fisco mientras el impuesto inflacionario es el impacto que tiene sobre el dinero demandado.",https://twitter.com/JMilei/status/1658557770365386752,Milei
-2023-05-16 16:29:11+00:00,98,4,1,@SantilanJuli1 FELICITACIONES,https://twitter.com/JMilei/status/1658555212322185216,Milei
-2023-05-16 09:25:49+00:00,956,203,1,"Ante 150 empresarios, Javier Milei explicó su modelo económico y “el plan para manejar la calle” - Infobae https://t.co/wQgkg6SIB6",https://twitter.com/JMilei/status/1658448668523995138,Milei
-2023-05-16 08:33:30+00:00,1435,289,7,El “halcón dolarizador” de EEUU apoya a Javier Milei: “Llegó el momento de desmantelar el Banco Central y el peso” - Infobae https://t.co/pam0hpSTbi,https://twitter.com/JMilei/status/1658435502293372929,Milei
-2023-05-15 23:01:33+00:00,516,9,0,@aetchebarne Muchas gracias Agustín...!!!,https://twitter.com/JMilei/status/1658291564236423169,Milei
-2023-05-15 22:11:51+00:00,4897,624,28,Milei confirmó a Villarruel como compañera de fórmula: Somos como David contra Goliat https://t.co/FP1XmIiiM5,https://twitter.com/JMilei/status/1658279056838733827,Milei
-2023-05-15 22:11:24+00:00,1210,166,5,"Javier Milei confirmó quién será su compañera de fórmula y aseguró que es ""brillante"" - MDZ Online https://t.co/0QTeNHS9da",https://twitter.com/JMilei/status/1658278945022722048,Milei
-2023-05-15 22:10:20+00:00,797,156,4,Javier Milei confirmó que Victoria Villarruel será su compañera de fórmula: “Trabajamos muy bien” - Infobae https://t.co/8uyItZDejQ,https://twitter.com/JMilei/status/1658278676499161089,Milei
-2023-05-15 22:09:44+00:00,660,125,4,Milei confirmó a Victoria Villarruel como compañera de fórmula y ella irrumpió contra Alberto Fernández https://t.co/JudcGC7pkp,https://twitter.com/JMilei/status/1658278527425282048,Milei
-2023-05-15 22:09:16+00:00,2296,489,4,Javier Milei le contestó a Alberto Fernández: Nosotros queremos hombres libres; ustedes quieren esclavos -  https://t.co/vDVFnv6pJn,https://twitter.com/JMilei/status/1658278408353185793,Milei
-2023-05-15 20:46:41+00:00,3261,521,14,LA CASTA TIENE MIEDO,https://twitter.com/JMilei/status/1658257626650537995,Milei
-2023-05-15 19:34:25+00:00,1277,275,2,"Javier Milei cruzó con todo a Alberto Fernández y lo acusó de ""multiplicar la pobreza"" - MDZ Online https://t.co/ufNYyv9bot",https://twitter.com/JMilei/status/1658239437053075456,Milei
-2023-05-15 19:33:58+00:00,813,211,8,Javier Milei le respondió a Alberto Fernández: “Nosotros queremos hombres libres; ustedes quieren esclavos” - Infobae https://t.co/eUpL2ZHVUL,https://twitter.com/JMilei/status/1658239324758896640,Milei
-2023-05-15 18:00:43+00:00,11335,2347,80,".@alferdez no se confunda, no soy amigo de los ricos, lo soy de la generación de riqueza que saca a los países de la pobreza, no como ustedes que son tan amigos de los pobres que sólo logran multiplicarlos.
-Nosotros queremos hombres libres mientras ustedes quieren esclavos.
-VLLC",https://twitter.com/JMilei/status/1658215859456712720,Milei
-2023-05-15 11:57:10+00:00,1234,266,9,"TOUR DE LA LIBERTAD 
-Hoy a partir de las 19:30 hs estaré en LN+ con @edufeiok y @JonatanViale hablando de EL FIN DE LA INFLACIÓN.
-VIVA LA LIBERTAD CARAJO 
+Nuestro candidato a Intendente en La Matanza!! 
 
-CC: @VickyVillarruel https://t.co/HOH0tY2gWQ",https://twitter.com/JMilei/status/1658124367484669955,Milei
-2023-05-15 08:45:54+00:00,521,94,1,"FERIA DEL LIBRO: EL FIN DE LA INFLACIÓN 
-LA LIBERTAD AVANZA 
-VIVA LA LIBERTAD CARAJO
-https://t.co/5mIoVkLkRH",https://twitter.com/JMilei/status/1658076233979052034,Milei
-2023-05-14 23:40:00+00:00,419,95,1,Milei en la Feria: “No es posible cambiar con los delincuentes del Frente de Chodos ni con los de Juntos por el Cargo” - Infobae https://t.co/zmlblEbJSo,https://twitter.com/JMilei/status/1657938854240821249,Milei
-2023-05-14 23:39:15+00:00,270,55,0,"Javier Milei presenta ""El fin de la inflación"" en la Feria del Libro de Buenos Aires - Infobae https://t.co/OMMWAR6Auv",https://twitter.com/JMilei/status/1657938665136349184,Milei
-2023-05-14 23:38:27+00:00,2217,524,8,"El impactante cálculo de Javier Milei: la increíble cifra que ""los políticos nos roban todos los años"" - El Economista https://t.co/9e1DbdEWpe",https://twitter.com/JMilei/status/1657938463201566721,Milei
-2023-05-14 21:20:26+00:00,1224,117,14,"@ezequielmauro @jlespert .@ezequielmauro la referencia es al autor de una nota que cuestiona la dolarización porque se pierde el señoreaje... no es JLE quien escribió esa nota aberrante...
+@JMilei @LLibertadAvanza",https://twitter.com/RAMIROMARRA/status/1661033994664673281,Marra,LLA
+2023-05-23 12:34:42+00:00,199,39,0,"Las consecuencias de la inseguridad son evidentes en PBA y el Kirchnerismo no se hace responsable. No podemos seguir viviendo con el miedo a que nos roben, nos maten o terminemos presos por defendernos.
 
-CC: @jlespert",https://twitter.com/JMilei/status/1657903733014151168,Milei
-2023-05-14 21:15:39+00:00,493,19,1,@MarcoAn07088867 @LANACION @clarincom @jlespert Eso no significa que esa reflexión haya sido para JLE.,https://twitter.com/JMilei/status/1657902527587794944,Milei
-2023-05-14 21:01:13+00:00,2813,551,59,Estimados periodistas del medio más larretista del País  @LANACION y al diario @clarincom les cuento que la referencia en cuestión no era dirigida a @jlespert . Sugiero que tomen nota de la cita del artículo correspondiente en el que un traidor defiende el señoreaje del BCRA. https://t.co/B4yrCXCdQE,https://twitter.com/JMilei/status/1657898895270113284,Milei
-2023-05-22 15:11:33+00:00,4576,1439,76,"Presidente Fernández, si hoy fuese el último día de su gobierno, el resultado de su gestión sería: la tercera inflación más alta del mundo; 6 de cada 10 chicos viviendo en la pobreza; jubilados que perdieron más del 30 % de sus ingresos reales y reservas negativas. 
+Las calles hoy están tomadas por los delincuentes, hay que cambiar eso.",https://twitter.com/RAMIROMARRA/status/1661032914954452995,Marra,LLA
+2023-05-23 11:52:57+00:00,357,46,2,"Difiero, no tengo dudas de que los votantes del liberalismo son los más informados sobre las políticas que se buscarán implementar.
 
-No se ocupe de mí. Dedíquese a gobernar el tiempo que le queda en vez de atacar.",https://twitter.com/PatoBullrich/status/1660710000539344909,Bullrich
-2023-05-22 11:16:57+00:00,967,375,16,"""Vamos a salir con decisiones que no podemos dar marcha atrás, de las que no nos podemos arrepentir. No tenemos miedo: vamos a animarnos"".
+De nuestro lado, informamos constantemente el plan de gobierno y las medidas estructurales a tomar. Los demás frentes políticos no dicen nada.",https://twitter.com/RAMIROMARRA/status/1661022410865545218,Marra,LLA
+2023-05-23 11:25:17+00:00,2343,421,22,"Estudien, trabajen, ganen su propio dinero, desarróllense, disfruten del fruto de su esfuerzo. No le hagan caso a estos comunistas que son una máquina de generar pobreza. https://t.co/f5Vx6yyCYE",https://twitter.com/RAMIROMARRA/status/1661015448127938565,Marra,LLA
+2023-05-23 09:44:53+00:00,54,0,0,"@RosNoMeLlamoAsi Si, esa cantidad de años es si te la patinas mal.",https://twitter.com/RAMIROMARRA/status/1660990179975282688,Marra,LLA
+2023-05-23 09:41:43+00:00,1797,131,38,"Argentina está tan devaluada que si venis con €100.000 al país, podes vivir TRANQUILO 3 años o más, sin hacer absolutamente NADA MÁS que gastar tu plata.
+
+Ahora, si ganas en pesos, sos esclavo de tu trabajo y la economía del país. https://t.co/ehUu2T7mco",https://twitter.com/RAMIROMARRA/status/1660989383376355328,Marra,LLA
+2023-05-23 08:47:24+00:00,145,39,0,"Excelente trabajo 👏🏻
+
+Para fines de 2023, ya no va a valer nada el peso argentino ¿vamos a seguir devaluando nuestra moneda y dejando que nuestra trabajo pierda valor o vamos a optar por una mejor solución?",https://twitter.com/RAMIROMARRA/status/1660975716488314880,Marra,LLA
+2023-05-23 08:39:22+00:00,227,20,0,"Pitu, que no te estafen mas, estos tipos trajeron mas pobreza. Fracasaron.
+
+Se nota que sos buen pibe, no te quemes defendiendo a esta banda de delincuentes.",https://twitter.com/RAMIROMARRA/status/1660973693185433603,Marra,LLA
+2023-05-23 07:59:43+00:00,127,0,0,Buen martes para todos ☕️💯,https://twitter.com/RAMIROMARRA/status/1660963714504310784,Marra,LLA
+2023-05-22 22:06:05+00:00,1428,127,23,REAFIRMO LO DICHO EN @CronicaTV https://t.co/aYUCoNKUfz,https://twitter.com/RAMIROMARRA/status/1660814320907980800,Marra,LLA
+2023-05-22 18:57:39+00:00,405,32,1,"Alguien me puede ayudar con cambiar la palabra cuidar por encerrar en esta foto? 
+
+Twitter es servicio https://t.co/RTKlNF1FAa",https://twitter.com/RAMIROMARRA/status/1660766901125931010,Marra,LLA
+2023-05-22 15:17:05+00:00,186,62,2,"Esto es tremendo, hoy en el país hay ciudades con más de 60% de pobreza infantil y otras con más de 15% de indigencia en menores de 14 años.
+
+Es imposible proyectar un país mejor si 6 de cada 10 niños son pobres. A esto nos llevaron décadas de populismo. https://t.co/eCcWvg9FW5",https://twitter.com/RAMIROMARRA/status/1660711395757793297,Marra,LLA
+2023-05-22 14:11:18+00:00,1221,197,19,Alberto prefiere decir que le enviaron una maldición a aceptar que su gobierno es un fracaso total y que ningúno de su gabinete sirve para nada. Estamos frente al fin del Kirchnerismo. https://t.co/a4jAZF9vhL,https://twitter.com/RAMIROMARRA/status/1660694837601943566,Marra,LLA
+2023-05-22 13:14:14+00:00,1253,184,11,Con el nuevo billete de $2.000 te podes comprar 2 paquetes de lays y te sobra para unos caramelos. Completamente detonados. https://t.co/eS5QiqX5vx,https://twitter.com/RAMIROMARRA/status/1660680476409966595,Marra,LLA
+2023-05-22 12:36:33+00:00,786,109,9,"Este billete no tiene sentido, compras 3 cosas en el súper y ya no te alcanza. Nuestra moneda está reventada, mínimo necesitamos un billete de $10.000. https://t.co/jQ4854ziOq",https://twitter.com/RAMIROMARRA/status/1660670992383918083,Marra,LLA
+2023-05-22 11:36:24+00:00,300,89,2,"Más de 23 millones de personas, sobre un total de +46 millones de habitantes, aun no tienen acceso a alguno de los servicios públicos de red. Que caro pagamos la mentira de la “justicia social”, a los políticos solo les importa ayudar cuando están en campaña para sacarse la foto. https://t.co/jOlQ9I3V8I",https://twitter.com/RAMIROMARRA/status/1660655855312797696,Marra,LLA
+2023-05-22 10:32:11+00:00,12,1,0,@nsotelolar @tobillosdepapel Es el diseño para un hippie con Osde,https://twitter.com/RAMIROMARRA/status/1660639697662627840,Marra,LLA
+2023-05-22 10:21:23+00:00,490,63,3,"¿SE ACUERDAN DEL PLAN PLATITA?
+
+Bueno, hoy se lanza el PLAN TARJETITA
+
+Cualquier cosa van a hacer para no quedar terceros.",https://twitter.com/RAMIROMARRA/status/1660636979812265984,Marra,LLA
+2023-05-22 10:09:22+00:00,2170,378,24,"En ese momento, Kicillof literalmente no supo que decir 🇦🇷
+ https://t.co/iI9NVx8MVS",https://twitter.com/RAMIROMARRA/status/1660633955157127169,Marra,LLA
+2023-05-22 07:34:36+00:00,196,8,1,Buen lunes para todos ☕️💯,https://twitter.com/RAMIROMARRA/status/1660595007470878721,Marra,LLA
+2023-05-21 16:48:04+00:00,2184,156,25,Increíble lo HORRIBLE que es este lugar. https://t.co/NIWoOrx307,https://twitter.com/RAMIROMARRA/status/1660371903956111361,Marra,LLA
+2023-05-20 19:52:19+00:00,1071,288,9,"EL GRAN TATO BORES
+
+Un monologo que se repite hace 50 años y solo lo puede terminar la dolarizacion. https://t.co/2g9wccJtiF",https://twitter.com/RAMIROMARRA/status/1660055884033138692,Marra,LLA
+2023-05-20 12:55:58+00:00,944,137,8,La nueva grieta ahora es entre los que nos obligan a usar el peso y los que queremos dar libertad https://t.co/GQVaVa0kSj,https://twitter.com/RAMIROMARRA/status/1659951106493935618,Marra,LLA
+2023-05-20 00:27:36+00:00,1293,126,4,Asi quede de enojado apenas termina el programa Duro de Domar... https://t.co/ivysdGmVv0,https://twitter.com/RAMIROMARRA/status/1659762773901942784,Marra,LLA
+2023-05-19 20:13:57+00:00,476,49,1,"Hagamos el ejercicio de Chequeado: Si ganas $150.000 por mes y tomas como referencia el dólar oficial, hoy tendrías un sueldo en dólares de USD622. Sin embargo, si tomas el valor del dólar blue, tu salario en dólares sería de USD308 ¿Se dan cuenta la diferencia?",https://twitter.com/RAMIROMARRA/status/1659698940592422912,Marra,LLA
+2023-05-19 20:11:25+00:00,1884,254,21,"Esto es mentira, @Chequeado está tomando como referencia el dólar oficial el cual cotizaba a $9 y NADIE podía acceder (cómo ahora). El dólar libre, al que todos podíamos acceder, cotizaba a $16.
+
+¡Basta de mentirle a la gente!",https://twitter.com/RAMIROMARRA/status/1659698300080246784,Marra,LLA
+2023-05-19 19:29:36+00:00,749,91,3,https://t.co/1eIK6XdV6b,https://twitter.com/RAMIROMARRA/status/1659687776978100225,Marra,LLA
+2023-05-19 17:17:44+00:00,112,17,0,"Menem sin duda, Alfonsín entregó una economía destruida con 5000% de inflación, sin crédito, sin inversión, sin trabajo.
+
+La segunda opción es la que vamos a tener nosotros en diciembre 2023, el Kirchnerismo está dejando un país al borde del colapso político, económico y social.",https://twitter.com/RAMIROMARRA/status/1659654591116353543,Marra,LLA
+2023-05-19 16:49:54+00:00,150,29,0,"El desarrollo social de un país se logra sacándole el pie de encima al empresario, al productor, al dueño de una pyme, al monotributista, al que trabaja en relación de dependencia.
+
+Tu gobierno volvió imposible la creación de nuevos puestos de trabajo, háganse cargo.",https://twitter.com/RAMIROMARRA/status/1659647587580891136,Marra,LLA
+2023-05-19 15:47:05+00:00,538,74,0,"Celebramos esto, un mafioso menos en el país. Ahora hay que meter en cana a los demás por corruptos.",https://twitter.com/RAMIROMARRA/status/1659631780742217744,Marra,LLA
+2023-05-19 15:30:16+00:00,49,0,0,@MiltonFriedom5 Bromance 🫂 https://t.co/xq67myZBsA,https://twitter.com/RAMIROMARRA/status/1659627546659438618,Marra,LLA
+2023-05-19 14:52:19+00:00,3110,651,23,"El tipo que dijo que en abril ibamos a tener una inflación del 3% (fue de 8,4%), ahora dice que el dólar va a estar a $1.900 si Milei es electo presidente. Es tan mediocre que busca tapar el desastre de su gestión generando miedo en la sociedad, lamentable 🤡🥞 https://t.co/S0RHjQjm88",https://twitter.com/RAMIROMARRA/status/1659617999102377984,Marra,LLA
+2023-05-19 14:17:57+00:00,1113,299,20,"Bastante Kirchnerista terminó siendo Larreta 🤷🏼‍♂️
+https://t.co/dMxoBDogtH",https://twitter.com/RAMIROMARRA/status/1659609348056793110,Marra,LLA
+2023-05-19 12:41:41+00:00,134,32,1,"Estimados, estamos en busca de periodistas que quieran sumarse al equipo de @dolarhoy con conocimientos en Mercado de Capitales y Economía. 
+
+Pueden enviar su CV a este mail: aliteras@bullmarketbrokers.com 
+
+¡Aprovechen la oportunidad! 🚀",https://twitter.com/RAMIROMARRA/status/1659585121052241923,Marra,LLA
+2023-05-19 12:26:31+00:00,205,39,0,"Es simple, el Kirchnerismo destruye más un país que una guerra o una pandemia🤷🏼‍♂️",https://twitter.com/RAMIROMARRA/status/1659581307599429632,Marra,LLA
+2023-05-19 11:54:22+00:00,569,106,3,La Libertad Avanza 🦅🇦🇷 https://t.co/7tnB8EeQ0i,https://twitter.com/RAMIROMARRA/status/1659573214853341185,Marra,LLA
+2023-05-19 11:01:55+00:00,3,0,0,@uiqusi Gracias por la corrección.,https://twitter.com/RAMIROMARRA/status/1659560017173925889,Marra,LLA
+2023-05-19 10:57:06+00:00,580,125,6,"No tiene sentido hablar de ""redistribución de la riqueza"" o venderse como una salvadora de pobres cuando cobras mensualmente una pensión que equivale a +150 jubilaciones mínimas. Te dicen que la culpa es de los más ricos, pero son ellos los que se llenan de plata con la nuestra.",https://twitter.com/RAMIROMARRA/status/1659558802776096771,Marra,LLA
+2023-05-19 09:43:11+00:00,7025,2173,129,"Mientras CFK cobra todos los meses +$9.000.000, un jubilado que cobra la mínima tiene que sobrevivir con $58.000 ¿En serio no les parece mal?
+
+Esta mujer y su banda de corruptos destruyeron el país. Los fanáticos no lo van a aceptar, pero es la realidad, CFK reventó Argentina. https://t.co/J6ZGM1wm5z",https://twitter.com/RAMIROMARRA/status/1659540202535239680,Marra,LLA
+2023-05-19 08:58:05+00:00,351,16,22,¿Opiniones de la entrevista de CFK?,https://twitter.com/RAMIROMARRA/status/1659528850529812482,Marra,LLA
+2023-05-18 21:20:17+00:00,346,30,6,"@FerIglesias jajajajja  me caes simpatico. era muy obvio siempre usas eso como si nadie lo supiera.
+
+La boleta es tan real como esta. Tu candidata a presidente fue peronista, como gorila te debe joder. https://t.co/8rs4nEDH6V",https://twitter.com/RAMIROMARRA/status/1659353245658013696,Marra,LLA
+2023-05-18 18:21:49+00:00,1358,82,4,"@FerIglesias Mi @ es @RAMIROMARRA , ahi dice @RAMIROMA . Es fake. 
+
+Sos bueno en Twitter, no te quemes por ansioso, mira los detalles.",https://twitter.com/RAMIROMARRA/status/1659308331830325250,Marra,LLA
+2023-05-18 17:34:09+00:00,768,100,9,https://t.co/HjpvmmnOQr,https://twitter.com/RAMIROMARRA/status/1659296337823690784,Marra,LLA
+2023-05-18 15:33:25+00:00,2370,546,23,"Belliboni y todos los líderes piqueteros tienen que terminar presos, por cortar la calle y por robarle plata a los más pobres. Además de vagos, son unos chorros que se aprovechan de los más débiles. https://t.co/eKcfJNXIaZ",https://twitter.com/RAMIROMARRA/status/1659265953127964679,Marra,LLA
+2023-05-18 13:43:22+00:00,2692,570,15,"“Por esto va a ganar Milei”.
+Los trabajadores de verdad yendo en contra de los chantas y corruptos que dicen defender a los trabajadores. A todos estos delincuentes se le va a acabar la joda en diciembre. 
+ https://t.co/ho57XRIJDC",https://twitter.com/RAMIROMARRA/status/1659238257110949890,Marra,LLA
+2023-05-18 12:05:47+00:00,6217,1461,76,"¿Dónde está @horaciorlarreta que no desarma el piquete? Hace 2 días prometió que si era presidente no iba a permitir que esto sucediera, pero hace 8 años es Jefe de Gobierno y en ese tiempo no desarmó NI UN PIQUETE. 
+
+Larreta no tiene la capacidad para gobernar un país. https://t.co/evqWNhjLkP",https://twitter.com/RAMIROMARRA/status/1659213701893996545,Marra,LLA
+2023-05-18 10:42:37+00:00,1179,240,17,"Dejen de pedir debates y pónganse a hacer lo que prometieron en sus campañas. Deroguen las leyes que le joden la vida a millones de personas, bajen los impuestos, cuiden al ciudadano en las calles, aumenten la seguridad ¿Para qué gobiernan si no hacen nada de lo que prometieron?",https://twitter.com/RAMIROMARRA/status/1659192769607286786,Marra,LLA
+2023-05-18 09:04:29+00:00,579,65,1,"NO TE DA
+
+Como siempre te sobreestimas
+
+Sos radical estas mas para debatir con la izquierda o el voto en blanco x lo que medis",https://twitter.com/RAMIROMARRA/status/1659168075621474304,Marra,LLA
+2023-05-18 08:31:51+00:00,624,137,2,"Toda de Juntos por el Cambio.
+¿Dónde están los diputados que decían que iban a derogar la ley? 🤡 https://t.co/AXrPYp7KEz",https://twitter.com/RAMIROMARRA/status/1659159861131632641,Marra,LLA
+2023-05-18 07:47:04+00:00,98,3,0,Buen jueves para todos ☕️💯,https://twitter.com/RAMIROMARRA/status/1659148592836227074,Marra,LLA
+2023-05-25 16:33:52+00:00,8182,2497,242,"Lo que comenzaron hace 20 años termina así: con un país ruinoso, pobre, descapitalizado, inculto. Mejor que hablar es mirarles la cara a los argentinos, que lloran todos los días. 
+
+Nosotros vamos a poner las cosas en su lugar, de una vez y para siempre.",https://twitter.com/PatoBullrich/status/1661817880030203904,Bullrich,JxC
+2023-05-25 14:55:32+00:00,3149,1020,50,"En su día, trabajamos para la grandeza de la Patria. Nada ni nadie nos sacará de este proposito: Argentina grande con argentinos prósperos.
+👆
+
+Ningún egoísmo personal puede apartarnos de ese camino, porque la Patria somos todos.
+
+Desde la querida localidad de San Miguel, junto a @delatorrej y @jaimemendezh, compartimos la mañana del 25 de Mayo junto a cientos de bonaerenses. 🇦🇷",https://twitter.com/PatoBullrich/status/1661793134068596746,Bullrich,JxC
+2023-05-24 12:07:02+00:00,2637,1085,31,"Al kirchnerismo solo le interesa el campo argentino para saquearlo y financiar su proyecto populista. Ahora: cuando el campo necesita la asistencia del Estado, se hacen los desentendidos. Típico de esos ""socios solo en las buenas"". https://t.co/rcYPIwBfOh",https://twitter.com/PatoBullrich/status/1661388339960766473,Bullrich,JxC
+2023-05-24 11:06:52+00:00,1411,483,20,"“Los argentinos estamos con una angustia muy profunda”.
+
+En Avellaneda me acerqué junto a @sebavinagre a escuchar a madres que sufren la inseguridad. Debemos ser firmes: tratar al delincuente como victimario y a quienes son asaltados como víctimas. https://t.co/4y9ajYQZ7u",https://twitter.com/PatoBullrich/status/1661373201513869319,Bullrich,JxC
+2023-05-23 22:16:24+00:00,1895,668,21,"Tenemos un proyecto de orden para la provincia de Buenos Aires, que está triste y devastada. En Lanús estuvimos con @Nestorgrindetti, nuestro precandidato a gobernador. Él tiene la fuerza para el cambio profundo que piden los bonaerenses. https://t.co/1gDGHBjqIh",https://twitter.com/PatoBullrich/status/1661179306586914817,Bullrich,JxC
+2023-05-23 20:57:55+00:00,1880,707,22,"“En Lanús demostraron que las armas no letales son fundamentales para cuidar a la ciudadanía y, sobre todo, para cuidar a quienes nos cuidan”.
+
+Junto a @rlopezmurphy, acompañamos a @Nestorgrindetti y a @diegokravetz en el reconocimiento al cuerpo de Seguridad Ciudadana y PRI (Patrulla de Respuesta Inmediata) de Lanús, la primer fuerza policial de la Argentina en utilizar de manera exitosa este tipo de armas.",https://twitter.com/PatoBullrich/status/1661159555433201664,Bullrich,JxC
+2023-05-23 17:46:55+00:00,10925,1993,156,"Liberaron al policía que mató al delincuente que le robó la moto tras atacarlo a él y a su novia, en Moreno.
+Desde el primer momento estuvimos a su lado, apoyando a quienes nos defienden.",https://twitter.com/PatoBullrich/status/1661111490689089536,Bullrich,JxC
+2023-05-23 11:06:01+00:00,24807,4695,908,"El policía actuó infraganti delito. Sin embargo, hoy está detenido. Si hubiera sido al revés, el motochorro estaría libre.
+La Policía debe tener el respaldo necesario para poder cumplir su rol: cuidar a la ciudadanía. https://t.co/PkbuCygVhT",https://twitter.com/PatoBullrich/status/1661010599189577743,Bullrich,JxC
+2023-05-23 07:59:12+00:00,4014,1403,102,"ROSARIO: TOMADA POR LOS NARCOS
+Cuando sea presidente voy a entrar con todas las fuerzas policiales y las fuerzas armadas, para no permitir que sigan dominando a la población y anulando las instituciones.
+Vamos a pasar de un país inviable a uno en donde la vida diaria se realice con orden. Y será con mano firme, para que los chicos puedan estudiar.",https://twitter.com/PatoBullrich/status/1660963583491014657,Bullrich,JxC
+2023-05-22 15:11:33+00:00,8716,2444,147,"Presidente Fernández, si hoy fuese el último día de su gobierno, el resultado de su gestión sería: la tercera inflación más alta del mundo; 6 de cada 10 chicos viviendo en la pobreza; jubilados que perdieron más del 30 % de sus ingresos reales y reservas negativas. 
+
+No se ocupe de mí. Dedíquese a gobernar el tiempo que le queda en vez de atacar.",https://twitter.com/PatoBullrich/status/1660710000539344909,Bullrich,JxC
+2023-05-22 11:16:57+00:00,1236,447,23,"""Vamos a salir con decisiones que no podemos dar marcha atrás, de las que no nos podemos arrepentir. No tenemos miedo: vamos a animarnos"".
 
 Comparto la entrevista completa con Jorge @Fontevecchia para #PeriodismoPuro, en @CanalNetAr. 👇
-https://t.co/v44LnMtAv3",https://twitter.com/PatoBullrich/status/1660650961747034114,Bullrich
-2023-05-21 19:30:30+00:00,1522,515,17,"Gracias por tu acompañamiento @JUReynoso, intendente de Rivadavia, provincia de Buenos Aires. #LaFuerzadelCambio https://t.co/imSQm1QrMH",https://twitter.com/PatoBullrich/status/1660412779965083650,Bullrich
-2023-05-21 18:05:11+00:00,2021,603,32,.@MarianoUset es intendente de Coronel Rosales y se suma a nuestro equipo. ¡Bienvenido a La Fuerza del Cambio! https://t.co/J0RO3ndXlC,https://twitter.com/PatoBullrich/status/1660391311285862402,Bullrich
-2023-05-21 12:23:07+00:00,3574,1103,65,"""Estamos en un momento que los argentinos sentimos como una crisis terminal, y en una crisis terminal se elige a quien puede poner coraje y carácter para salir"". 
+https://t.co/v44LnMtAv3",https://twitter.com/PatoBullrich/status/1660650961747034114,Bullrich,JxC
+2023-05-21 19:30:30+00:00,1672,562,19,"Gracias por tu acompañamiento @JUReynoso, intendente de Rivadavia, provincia de Buenos Aires. #LaFuerzadelCambio https://t.co/imSQm1QrMH",https://twitter.com/PatoBullrich/status/1660412779965083650,Bullrich,JxC
+2023-05-21 18:05:11+00:00,2180,656,33,.@MarianoUset es intendente de Coronel Rosales y se suma a nuestro equipo. ¡Bienvenido a La Fuerza del Cambio! https://t.co/J0RO3ndXlC,https://twitter.com/PatoBullrich/status/1660391311285862402,Bullrich,JxC
+2023-05-21 12:23:07+00:00,3880,1201,71,"""Estamos en un momento que los argentinos sentimos como una crisis terminal, y en una crisis terminal se elige a quien puede poner coraje y carácter para salir"". 
 
 Comparto con ustedes la entrevista que Jorge @Fontevecchia me hizo para @perfilcom. 👇
-https://t.co/Gk6sVNMOY0",https://twitter.com/PatoBullrich/status/1660305226044260355,Bullrich
-2023-05-21 10:35:26+00:00,2469,784,48,"Debemos dar la batalla cultural contra el populismo que hipoteca nuestro futuro, en todos los frentes. El próximo domingo #28M es fundamental que los ciudadanos españoles que viven en Argentina voten por @IdiazAyuso.",https://twitter.com/PatoBullrich/status/1660278126499315713,Bullrich
-2023-05-19 19:01:05+00:00,1480,494,25,"Junto con @afohrig y @dante_sica, de nuestro Equipo de Gobierno, participamos de un encuentro con los directivos de la Cámara Argentina de la Construcción (@CamarcoArg).  
+https://t.co/Gk6sVNMOY0",https://twitter.com/PatoBullrich/status/1660305226044260355,Bullrich,JxC
+2023-05-21 10:35:26+00:00,2571,833,51,"Debemos dar la batalla cultural contra el populismo que hipoteca nuestro futuro, en todos los frentes. El próximo domingo #28M es fundamental que los ciudadanos españoles que viven en Argentina voten por @IdiazAyuso.",https://twitter.com/PatoBullrich/status/1660278126499315713,Bullrich,JxC
+2023-05-19 19:01:05+00:00,1528,511,27,"Junto con @afohrig y @dante_sica, de nuestro Equipo de Gobierno, participamos de un encuentro con los directivos de la Cámara Argentina de la Construcción (@CamarcoArg).  
 
 Estamos trabajando en el diseño de nuevos sistemas de inversión en el desarrollo de la obra pública. Queremos aumentar la participación del sector privado con procedimientos transparentes y ágiles, promoviendo la competencia.
 
-Ese es el camino para salir del desorden en el que nos metieron intereses mezquinos, mafias y sindicatos que se apoderaron del Estado.",https://twitter.com/PatoBullrich/status/1659680602054860800,Bullrich
-2023-05-19 10:02:59+00:00,3874,1474,88,"“Basta del sindicalismo chorro. Todo sindicalista que no pueda justificar de dónde sacó la plata va a tener consecuencias”.
+Ese es el camino para salir del desorden en el que nos metieron intereses mezquinos, mafias y sindicatos que se apoderaron del Estado.",https://twitter.com/PatoBullrich/status/1659680602054860800,Bullrich,JxC
+2023-05-19 10:02:59+00:00,3970,1516,90,"“Basta del sindicalismo chorro. Todo sindicalista que no pueda justificar de dónde sacó la plata va a tener consecuencias”.
 
 Mi participación completa en #MásRealidad (@lanacionmas) con @JonatanViale podés verla en:
-https://t.co/BIKoc32o3I https://t.co/rkp7zDmF5v",https://twitter.com/PatoBullrich/status/1659545184084930561,Bullrich
-2023-05-18 18:43:09+00:00,6066,1706,492,"Néstor Grindetti será mi precandidato a gobernador de la provincia de Buenos Aires.
+https://t.co/BIKoc32o3I https://t.co/rkp7zDmF5v",https://twitter.com/PatoBullrich/status/1659545184084930561,Bullrich,JxC
+2023-05-18 18:43:09+00:00,6121,1715,495,"Néstor Grindetti será mi precandidato a gobernador de la provincia de Buenos Aires.
 
 Como intendente de Lanús, Néstor vio de cerca la destrucción y la pobreza que generaron dos décadas de populismo y corrupción kirchnerista en el conurbano. Con decisión y gestión, luchó contra el narcotráfico, puso orden y mejoró la vida de muchos bonaerenses. No tengo dudas de que será un gran gobernador que cambiará la provincia.
 
@@ -249,236 +526,229 @@ Agradezco el apoyo y el compromiso de Joaquín de la Torre, Javier Iguacel y Cri
 
 Necesitamos un equipo de bonaerenses para resolver los problemas de los bonaerenses. 
 
-La fuerza del cambio llegará a la provincia.",https://twitter.com/PatoBullrich/status/1659313702162628610,Bullrich
-2023-05-18 14:54:15+00:00,6195,2163,184,Atacan porque saben que conmigo se les acaban sus privilegios. Es lo único que realmente defienden hace décadas. https://t.co/Gin9166hL2,https://twitter.com/PatoBullrich/status/1659256094542135296,Bullrich
-2023-05-18 11:49:52+00:00,8187,1821,382,"Conmigo, esto se acaba. https://t.co/MAMN6KGlzI",https://twitter.com/PatoBullrich/status/1659209693280239620,Bullrich
-2023-05-18 10:27:42+00:00,1646,540,18,"Basta de aprietes y violencia sindical. Conmigo, esto se acaba.",https://twitter.com/PatoBullrich/status/1659189018850910208,Bullrich
-2023-05-18 10:10:29+00:00,783,206,10,"Junto a nuestra diputada nacional @AnaClaraRomer, visitamos en Comodoro Rivadavia el Sindicato de Petroleros de Chubut. Nos recibió su secretario general, Jorge “Loma” Avila. Conversamos sobre el enorme potencial que tiene la provincia para desarrollar su producción petrolera. Vamos a trabajar por una Argentina sin trabas.",https://twitter.com/PatoBullrich/status/1659184683903483906,Bullrich
-2023-05-17 18:03:42+00:00,3360,1099,44,"""Estamos frente a una oportunidad histórica: la de terminar con el régimen kirchnerista. Un sistema que ha expropiado el futuro de los argentinos, que ha degradado la cultura del trabajo y que ha destruido la educación"".
-
-En Caleta Olivia, Santa Cruz, sumamos fuerzas para un cambio profundo.",https://twitter.com/PatoBullrich/status/1658941385255403520,Bullrich
-2023-05-17 15:26:58+00:00,2409,805,78,"Gracias @hector_gay, intendente de Bahía Blanca, por tu apoyo y sumarte a nuestro equipo. ¡Bienvenido a La Fuerza del Cambio! https://t.co/uDjmgpEdfG",https://twitter.com/PatoBullrich/status/1658901942712639489,Bullrich
-2023-05-17 12:02:16+00:00,1191,299,10,"Lanús, de la mano de @Nestorgrindetti y @diegokravetz, se convirtió en el primer municipio de Argentina en incorporar armas no letales a su Plan de Seguridad Integral. Debemos llevar esta tecnología de prevención de inmediato a todo el país.",https://twitter.com/PatoBullrich/status/1658850427620716617,Bullrich
-2023-05-16 21:33:22+00:00,1721,598,20,"“Este cambio, es un cambio que no puede esperar”.
-
-En Pico Truncado, Santa Cruz, tenemos la fuerza para lograr un cambio profundo.
-Oíd mortales, el grito sagrado: ¡libertad para esta provincia! https://t.co/h9zHrN6yjk",https://twitter.com/PatoBullrich/status/1658631759507116032,Bullrich
-2023-05-16 16:58:47+00:00,2244,965,40,"Desde Santa Cruz nos comprometemos a terminar con el régimen kirchnerista, que le expropió el futuro a los argentinos. Lo hicimos frente a un emblemático monumento a la corrupción: la Ruta Nacional Nº 3. https://t.co/1jvHd3ofoj",https://twitter.com/PatoBullrich/status/1658562660869210113,Bullrich
-2023-05-16 12:54:51+00:00,1668,740,31,Un país sin sentido. https://t.co/Fee44BHBJu,https://twitter.com/PatoBullrich/status/1658501271567974400,Bullrich
-2023-05-15 23:05:38+00:00,2312,676,68,"Hoy en Palermo me junté con víctimas de la inseguridad. Saben que cuentan conmigo y que voy a trabajar con determinación, como ya lo hice en mi gestión contra los criminales. Conmigo, el que las hace las paga. https://t.co/5P6wGnByYy",https://twitter.com/PatoBullrich/status/1658292592381927425,Bullrich
-2023-05-15 21:49:08+00:00,2817,989,55,"Tiene razón Alberto Fernández: no votes mentirosos, no votes a ninguno de los del Frente de Todos.
-
-@todonoticias @diegosehinkman #SoloUnaVueltaMás https://t.co/8oCBgTYua6",https://twitter.com/PatoBullrich/status/1658273341835190276,Bullrich
-2023-05-15 13:41:29+00:00,7554,2126,184,Conmigo esto no pasaba. https://t.co/yuu1gObYdL,https://twitter.com/PatoBullrich/status/1658150619499180034,Bullrich
-2023-05-15 00:01:51+00:00,1098,246,16,"Felicitaciones a los concejales electos Maximiliano Ybars, de Río Grande, y Belén Monte de Oca, de Ushuaia, y a todo el equipo de Tierra del Fuego. ¡Sé que van a ser grandes representantes de sus ciudades!",https://twitter.com/PatoBullrich/status/1657944353032097793,Bullrich
-2023-05-14 23:25:41+00:00,4074,880,65,"¡Felicitaciones al equipo de Juntos por el Cambio en La Pampa por la gran elección! Con este resultado logramos decenas de nuevas intendencias, pasamos de tener 11 a 14 diputados y sumamos más concejales: ¡nuestra voz se hará escuchar bien fuerte!",https://twitter.com/PatoBullrich/status/1657935251979620352,Bullrich
-2023-05-14 22:29:59+00:00,3029,936,45,"Enfrentando un sistema electoral obsoleto y las trampas de siempre, la fuerza del cambio se impuso en la capital de San Juan. @SusanaLaciar será la próxima intendenta. ¡Felicitaciones a ella y a todo su equipo! Como dice Susana: ¡que despierten los sanjuaninos! https://t.co/4npDpw6ugt",https://twitter.com/PatoBullrich/status/1657921235496345603,Bullrich
-2023-05-22 13:39:34+00:00,24,6,0,"#Mendoza El maestro y precandidato a Gobernador Lautaro Jiménez denunció a Miguel Ronco ante el INADI  - 
-MinutoYA https://t.co/SQfZsH3Qv0",https://twitter.com/myriambregman/status/1660686854516006914,Bregman
-2023-05-22 13:14:16+00:00,42,10,0,"Mil personas en la inauguración de ""Rebelión"" en La Plata.
-Bregman y Del Caño en La Plata: ""Al mal menor hay que combatirlo, la salida es por izquierda"" https://t.co/z02qLq6X1L a través de @laizqdiariomx",https://twitter.com/myriambregman/status/1660680488070139904,Bregman
-2023-05-22 13:07:02+00:00,38,10,0,"Intensa actividad política. | El PTS-FITU de Argentina realizó asambleas abiertas y se encamina hacia su Conferencia Electoral https://t.co/HX3ILpNb7a, vía @izquierdadiario",https://twitter.com/myriambregman/status/1660678664831352832,Bregman
-2023-05-22 12:59:24+00:00,25,6,0,"Convocatoria abierta #Jujuy: Vilca y el Frente de Izquierda dicen “no a la reforma constitucional de Morales” y exige paro provincial https://t.co/aFSJGQQD1D, vía @izquierdadiario",https://twitter.com/myriambregman/status/1660676745379414016,Bregman
-2023-05-22 11:01:53+00:00,18,5,0,Atención,https://twitter.com/myriambregman/status/1660647170729451528,Bregman
-2023-05-21 21:13:25+00:00,1,0,0,@Lulamaravilla Idem,https://twitter.com/myriambregman/status/1660438681604304897,Bregman
-2023-05-21 20:58:37+00:00,721,25,4,Gracias 🤟,https://twitter.com/myriambregman/status/1660434956810682370,Bregman
-2023-05-21 20:52:52+00:00,427,10,0,Volvió el del marido 😱,https://twitter.com/myriambregman/status/1660433508894908416,Bregman
-2023-05-21 18:26:10+00:00,46,1,0,😊,https://twitter.com/myriambregman/status/1660396592153649152,Bregman
-2023-05-21 17:32:13+00:00,25,9,1,"""En Tucumán gobierna un partido único, el de los dueños de las citrícolas, el de los dueños de las tierras"", dice mi compañera @AleArreguezPTS y me llena de orgullo que mi partido esté de ese lado, del de los trabajadores y trabajadoras rurales de Tucumán.",https://twitter.com/myriambregman/status/1660383012817629184,Bregman
-2023-05-21 17:18:41+00:00,65,12,0,"""La mujer trabaja más que el hombre, de 16 a 20 hs, después del empaque se quedan limpiando. No hay un ser humano que aguante tanto"". 
-Así trabajan las mujeres en este país.",https://twitter.com/myriambregman/status/1660379608313634818,Bregman
-2023-05-21 17:16:26+00:00,215,68,1,"Hay políticos infames que dicen que el problema de la Argentina es que los trabajadores tienen muchos derechos y se necesita una reforma laboral. Vean cómo se hace la cosecha del limón. 
-""Por qué los de arriba se enriquecen y los de abajo somos los peores, eso es lo que duele"".",https://twitter.com/myriambregman/status/1660379042518818819,Bregman
+La fuerza del cambio llegará a la provincia.",https://twitter.com/PatoBullrich/status/1659313702162628610,Bullrich,JxC
+2023-05-18 14:54:15+00:00,6226,2172,185,Atacan porque saben que conmigo se les acaban sus privilegios. Es lo único que realmente defienden hace décadas. https://t.co/Gin9166hL2,https://twitter.com/PatoBullrich/status/1659256094542135296,Bullrich,JxC
+2023-05-18 11:49:52+00:00,8221,1825,383,"Conmigo, esto se acaba. https://t.co/MAMN6KGlzI",https://twitter.com/PatoBullrich/status/1659209693280239620,Bullrich,JxC
+2023-05-18 10:27:42+00:00,1662,543,19,"Basta de aprietes y violencia sindical. Conmigo, esto se acaba.",https://twitter.com/PatoBullrich/status/1659189018850910208,Bullrich,JxC
+2023-05-18 10:10:29+00:00,794,207,12,"Junto a nuestra diputada nacional @AnaClaraRomer, visitamos en Comodoro Rivadavia el Sindicato de Petroleros de Chubut. Nos recibió su secretario general, Jorge “Loma” Avila. Conversamos sobre el enorme potencial que tiene la provincia para desarrollar su producción petrolera. Vamos a trabajar por una Argentina sin trabas.",https://twitter.com/PatoBullrich/status/1659184683903483906,Bullrich,JxC
+2023-05-25 19:17:25+00:00,83,53,0,De nuevo represión a los y las docentes en Salta. Hay que difundir.,https://twitter.com/myriambregman/status/1661859038416584704,Bregman,FIT
+2023-05-25 14:14:54+00:00,1,0,0,@daniela__fr @andreadatri gracias!,https://twitter.com/myriambregman/status/1661782906962948113,Bregman,FIT
+2023-05-25 13:21:41+00:00,26,5,0,"CABA. | Más de doscientos docentes, familias, secundarios y terciarios de la 9 de abril con Myriam Bregman  https://t.co/gC9cKA1abb 
+Por Corriente Docente-Estudiantil 9 de Abril, vía @izquierdadiario",https://twitter.com/myriambregman/status/1661769514197962753,Bregman,FIT
+2023-05-25 11:02:38+00:00,76,22,0,"Recomiendo📝Algunas ideas que empezamos a esbozar para un debate profundo. Necesitamos que se discuta una verdadera agenda de las mujeres. 
+Propuestas para un debate sobre el trabajo de cuidados https://t.co/jJONMjpGTD
+Por @andreadatri y @myriambregman",https://twitter.com/myriambregman/status/1661734522101334021,Bregman,FIT
+2023-05-25 10:58:33+00:00,21,13,0,"Coca Cola Córdoba: la empresa responde con despidos al pedido de los obreros https://t.co/iVrAaBTS1P 
+Por Javier Musso, vía @izquierdadiario",https://twitter.com/myriambregman/status/1661733494798815234,Bregman,FIT
+2023-05-24 22:03:14+00:00,42,13,2,"Comparto 📺, estuvimos con @LuanaSimioni en Diario El Día @eldialp
+En VIDEO. ""Ningún salario puede ser menor a la inflación"".  https://t.co/W6Q9T1MQIb",https://twitter.com/myriambregman/status/1661538379933143040,Bregman,FIT
+2023-05-24 18:51:19+00:00,1,1,0,@JuliLaso Espero,https://twitter.com/myriambregman/status/1661490081859813381,Bregman,FIT
+2023-05-24 18:50:53+00:00,20,1,1,"Con Alejandrina Barry exigimos respuestas sobre la crisis de atención en los hospitales pediátricos porteños https://t.co/Vr4YBX7P7k, vía @izquierdadiario",https://twitter.com/myriambregman/status/1661489973646819329,Bregman,FIT
+2023-05-24 18:49:55+00:00,3,1,0,@JuliLaso ¿Con Vicentico? 😍,https://twitter.com/myriambregman/status/1661489732570824704,Bregman,FIT
+2023-05-24 18:29:03+00:00,14,2,0,"Estuve en @A24COM 
+""La agenda política se corrió a la derecha"", Myriam Bregman en #ElNotici... https://t.co/bX1QGllSKH a través de @YouTube",https://twitter.com/myriambregman/status/1661484477733015553,Bregman,FIT
+2023-05-24 18:14:05+00:00,38,3,0,"Asamblea PTS CABA:  ""Que estén Myriam, Nico y Vilca en el Congreso es como que estemos nosotros"". 
+¡Nos emocionan, compañeros! 😊✊
+ https://t.co/WyKVpsqrv4, vía @izquierdadiario",https://twitter.com/myriambregman/status/1661480712237883392,Bregman,FIT
+2023-05-24 17:32:59+00:00,84,16,0,"Estuve en la radio de la  Universidad Nacional de La Matanza 📻
+https://t.co/RR1SU7IYIJ",https://twitter.com/myriambregman/status/1661470369382039552,Bregman,FIT
+2023-05-24 16:08:55+00:00,34,7,0,#Ahora muchos heridos por las balas de goma que dispara la policía en Salta.,https://twitter.com/myriambregman/status/1661449213660610560,Bregman,FIT
+2023-05-24 16:06:10+00:00,86,38,0,¡Represión a docentes en Salta!,https://twitter.com/myriambregman/status/1661448520673443840,Bregman,FIT
+2023-05-24 15:54:22+00:00,33,10,0,"Comparto 📺
+Desiguales @TV_Publica
+Bregman: “Milei fue construido para que no llegue el cuestionamiento al poder económico” https://t.co/tE1VWorfYk",https://twitter.com/myriambregman/status/1661445553052418076,Bregman,FIT
+2023-05-24 12:42:41+00:00,1,0,0,@viviana_vila @221radio @NicolasdelCano Gracias Viviana 💚,https://twitter.com/myriambregman/status/1661397315674951683,Bregman,FIT
+2023-05-23 17:18:33+00:00,28,6,0,Otra pelea en curso. No hay periodista que no diga que se tuvo que buscar otro trabajo.,https://twitter.com/myriambregman/status/1661104351299923973,Bregman,FIT
+2023-05-23 17:17:13+00:00,25,3,0,"Buen momento para recordar esto...
+“La cita” | Rodolfo Walsh por Myriam Bregman https://t.co/wAhPmlcisI",https://twitter.com/myriambregman/status/1661104012513476610,Bregman,FIT
+2023-05-23 17:15:07+00:00,25,7,0,"Lof Lafken Winkul Mapu. | Parlamento en Bariloche por la libertad de las presas políticas Mapuche https://t.co/mTfPJYBkyG, vía @izquierdadiario",https://twitter.com/myriambregman/status/1661103485155155983,Bregman,FIT
+2023-05-23 17:12:18+00:00,48,7,2,"Las luchas recorren el país porque las consecuencias del ajuste y los bajos salarios no se aguantan más. 
+Las patronales ganan como nunca. Todos los estudios muestran que ampliaron su tajada.  
+De qué escuchas más: ¿de los trabajadores empobrecidos o de los ""pobres empresarios""?",https://twitter.com/myriambregman/status/1661102777106309124,Bregman,FIT
+2023-05-23 17:06:09+00:00,154,42,1,"Hoy en CABA se realiza una nueva jornada de paros escalonados en el subte. Reclaman algo tan elemental como no enfermar y morir en el trabajo. Exigen la reducción de la jornada laboral con la inclusión de un franco y la desasbetización de formaciones, talleres y estaciones.",https://twitter.com/myriambregman/status/1661101227533295619,Bregman,FIT
+2023-05-23 17:00:07+00:00,63,25,0,"Un enfermero del Hospital de Niños de La Matanza nos dice “hace 5 años que denunciamos el vaciamiento que realizan los gobiernos”. Se encuentran en estado de asamblea permanente, realizan acciones y exigen presupuesto urgente. 
+La realidad de la que no se habla.",https://twitter.com/myriambregman/status/1661099710914895895,Bregman,FIT
+2023-05-23 16:54:13+00:00,13,4,0,"Neuquén. | Accidentes laborales: otro récord silencioso de Vaca Muerta https://t.co/cvpxFNkXWG 
+Por Esteban Martine, vía @izquierdadiario",https://twitter.com/myriambregman/status/1661098224428392464,Bregman,FIT
+2023-05-23 16:52:36+00:00,8,1,0,"En 2017 se firmó una adenda flexibilizadora del CCT que incrementó los riesgos al reducir dotaciones, aumentar la tolerancia para trabajar con vientos de hasta 60km/h, implementar la polifuncionalidad y las tareas simultáneas, entre otras cosas. Estos son los resultados: muertes",https://twitter.com/myriambregman/status/1661097818268872705,Bregman,FIT
+2023-05-23 16:48:15+00:00,71,17,0,"Detrás del récord de producción de petróleo y gas en Vaca Muerta, hay ritmos y jornadas de trabajo desenfrenadas que produjeron que en 2022 se registre un récord de accidentes. 
+Según datos de la SRT durante 2022 se registraron 1033 accidentes de trabajo. Las vaquitas son ajenas.",https://twitter.com/myriambregman/status/1661096723391938560,Bregman,FIT
+2023-05-23 16:42:09+00:00,110,37,2,"En Córdoba la fábrica Coca Cola está de paro en reclamo de aumento salarial. La multinacional que no para de aumentar los precios y tiene ganancias extraordinarias, rechaza el reclamo de los trabajadores de un aumento de sueldo que permita estar por encima de la inflación. https://t.co/tH50ncCS5H",https://twitter.com/myriambregman/status/1661095189069307932,Bregman,FIT
+2023-05-23 16:37:02+00:00,17,3,0,"Estuvieron presentes muchas mujeres contratistas, quienes son invisibilizadas por un convenio que no reconoce su trabajo, cuando hacen las mismas tareas que los varones, dejándolas sin un sueldo formal y sin la posibilidad de acceder a una jubilación ¡Lucharemos por sus derechos! https://t.co/V4UB2zq6Pv",https://twitter.com/myriambregman/status/1661093902764351504,Bregman,FIT
+2023-05-23 16:32:36+00:00,78,13,0,"Hoy en Mendoza trabajadorxs contratistas de viña realizaron cortes de ruta. Reclaman un aumento del 120% para que la mensualidad alcance los $10.000 por hectárea trabajada. 
+Los grandes bodegueros facturan millones, pero una familia contratista hoy cobra menos de $50.000 por mes.",https://twitter.com/myriambregman/status/1661092784680386565,Bregman,FIT
+2023-05-23 16:29:14+00:00,11,4,0,"Recomiendo.  
+Oro blanco: el precio del azúcar está por las nubes, pero los salarios siguen por debajo de la pobreza https://t.co/g8YkO4BVUY 
+Por Emiliano Trodler, vía @izquierdadiario",https://twitter.com/myriambregman/status/1661091938328559620,Bregman,FIT
+2023-05-23 16:28:30+00:00,49,11,0,"El  costo laboral sobre ventas viene retrocediendo año a año, ubicándose en el 12,2% en promedio para el año 2021. En 2016 representaba el 18,9%. 
+Eso es una enorme transferencia de ingresos de la  clase trabajadora a los empresarios.",https://twitter.com/myriambregman/status/1661091755234566144,Bregman,FIT
+2023-05-23 16:28:30+00:00,224,41,3,"Al revés de lo que dicen los candidatos de los partidos patronales, los salarios y cargas sociales representan un costo cada vez más bajo para las empresas, aumentando la brecha entre ganancias empresarias y salarios.",https://twitter.com/myriambregman/status/1661091753208758287,Bregman,FIT
+2023-05-23 16:23:10+00:00,117,13,3,Hoy los trabajadores de ingenios compran con su salario casi la mitad de los bienes que compraban en 2016. Una transferencia brutal de ingresos al bolsillo de los capitalistas.,https://twitter.com/myriambregman/status/1661090411845173262,Bregman,FIT
+2023-05-23 16:21:37+00:00,1747,356,42,"Cuando escuches llorar a los empresarios, tené en cuenta que, por ejemplo, el salario real de los trabajadores azucareros cayó un 40% en los últimos 8 años. En ese período, el precio de la bolsa de azúcar creció 324% por encima de la inflación promedio.",https://twitter.com/myriambregman/status/1661090020550164501,Bregman,FIT
+2023-05-23 16:18:58+00:00,0,0,0,@rindart Felicitaciones!!,https://twitter.com/myriambregman/status/1661089356348571656,Bregman,FIT
+2023-05-23 12:56:25+00:00,34,5,2,"Comparto 📚
+Mario Wainfeld: “Contanos que tenés que ver vos con la salida del Manifiesto Comunista, Myriam Bregman” https://t.co/je4o1SpdYR 
+Por Ediciones IPS , vía @izquierdadiario",https://twitter.com/myriambregman/status/1661038382540103680,Bregman,FIT
+2023-05-23 12:49:42+00:00,43,14,0,"Niñez y Salud. | Efectos del ajuste: grave situación de la atención pediátrica en hospitales públicos de PBA y CABA https://t.co/nwMF7NIKxI, vía @izquierdadiario",https://twitter.com/myriambregman/status/1661036690981412864,Bregman,FIT
+2023-05-23 08:52:57+00:00,25,6,1,"#Mendoza Tras la controversia por el ítem aula, el FIT denunció al intendente de Rivadavia ante el Inadi - MDZ Online https://t.co/9wcTzICuKh",https://twitter.com/myriambregman/status/1660977112151465988,Bregman,FIT
+2023-05-22 13:39:34+00:00,35,6,0,"#Mendoza El maestro y precandidato a Gobernador Lautaro Jiménez denunció a Miguel Ronco ante el INADI  - 
+MinutoYA https://t.co/SQfZsH3Qv0",https://twitter.com/myriambregman/status/1660686854516006914,Bregman,FIT
+2023-05-22 13:14:16+00:00,76,15,0,"Mil personas en la inauguración de ""Rebelión"" en La Plata.
+Bregman y Del Caño en La Plata: ""Al mal menor hay que combatirlo, la salida es por izquierda"" https://t.co/z02qLq6X1L a través de @laizqdiariomx",https://twitter.com/myriambregman/status/1660680488070139904,Bregman,FIT
+2023-05-22 13:07:02+00:00,47,11,0,"Intensa actividad política. | El PTS-FITU de Argentina realizó asambleas abiertas y se encamina hacia su Conferencia Electoral https://t.co/HX3ILpNb7a, vía @izquierdadiario",https://twitter.com/myriambregman/status/1660678664831352832,Bregman,FIT
+2023-05-22 12:59:24+00:00,41,10,0,"Convocatoria abierta #Jujuy: Vilca y el Frente de Izquierda dicen “no a la reforma constitucional de Morales” y exige paro provincial https://t.co/aFSJGQQD1D, vía @izquierdadiario",https://twitter.com/myriambregman/status/1660676745379414016,Bregman,FIT
+2023-05-22 11:01:53+00:00,23,5,1,Atención,https://twitter.com/myriambregman/status/1660647170729451528,Bregman,FIT
+2023-05-21 21:13:25+00:00,1,0,0,@Lulamaravilla Idem,https://twitter.com/myriambregman/status/1660438681604304897,Bregman,FIT
+2023-05-21 20:58:37+00:00,777,26,4,Gracias 🤟,https://twitter.com/myriambregman/status/1660434956810682370,Bregman,FIT
+2023-05-21 20:52:52+00:00,446,10,0,Volvió el del marido 😱,https://twitter.com/myriambregman/status/1660433508894908416,Bregman,FIT
+2023-05-21 18:26:10+00:00,47,1,0,😊,https://twitter.com/myriambregman/status/1660396592153649152,Bregman,FIT
+2023-05-21 17:32:13+00:00,29,10,1,"""En Tucumán gobierna un partido único, el de los dueños de las citrícolas, el de los dueños de las tierras"", dice mi compañera @AleArreguezPTS y me llena de orgullo que mi partido esté de ese lado, del de los trabajadores y trabajadoras rurales de Tucumán.",https://twitter.com/myriambregman/status/1660383012817629184,Bregman,FIT
+2023-05-21 17:18:41+00:00,71,13,1,"""La mujer trabaja más que el hombre, de 16 a 20 hs, después del empaque se quedan limpiando. No hay un ser humano que aguante tanto"". 
+Así trabajan las mujeres en este país.",https://twitter.com/myriambregman/status/1660379608313634818,Bregman,FIT
+2023-05-21 17:16:26+00:00,232,72,1,"Hay políticos infames que dicen que el problema de la Argentina es que los trabajadores tienen muchos derechos y se necesita una reforma laboral. Vean cómo se hace la cosecha del limón. 
+""Por qué los de arriba se enriquecen y los de abajo somos los peores, eso es lo que duele"".",https://twitter.com/myriambregman/status/1660379042518818819,Bregman,FIT
 2023-05-21 17:01:22+00:00,33,2,0,"Orgullosa de esta juventud 😊💚💪
-https://t.co/sxSaSPdED8",https://twitter.com/myriambregman/status/1660375247856566276,Bregman
-2023-05-21 09:59:48+00:00,1,0,0,@FloraAlkorta @NicolasdelCano @LuanaSimioni 👀,https://twitter.com/myriambregman/status/1660269160457203719,Bregman
-2023-05-21 08:35:07+00:00,136,26,1,"#LaPlata Mil personas en Rebelión. | Bregman y Del Caño en La Plata: ""Al mal menor hay que combatirlo, la salida es por izquierda"" https://t.co/H5ziV9S0Va, vía @izquierdadiario",https://twitter.com/myriambregman/status/1660247846560440320,Bregman
-2023-05-21 01:00:14+00:00,341,16,14,"Fernet, Rebelión y grandes proyectos, amigues ✊
-#LaPlata https://t.co/15YXT8ulye",https://twitter.com/myriambregman/status/1660133372767744003,Bregman
-2023-05-20 18:36:35+00:00,4,0,0,@fedepuy 😂,https://twitter.com/myriambregman/status/1660036824696324096,Bregman
-2023-05-19 20:28:11+00:00,2,0,0,@ValeH_LP Gracias 😊,https://twitter.com/myriambregman/status/1659702519197736961,Bregman
-2023-05-19 19:15:25+00:00,40,15,3,"Entrevista GLP: “En la interna de JxC se pelean por quién va a ajustar más a los trabajadores”, dijo Nicolás del Caño https://t.co/dDli2BYt2G a través de @laprovinciabsas",https://twitter.com/myriambregman/status/1659684208179048448,Bregman
-2023-05-19 19:09:45+00:00,58,13,1,"Con una audiencia pública, se impulsó en el Congreso la creación del Instituto Nacional de Artes Visuales -  https://t.co/8kJ195SCKx",https://twitter.com/myriambregman/status/1659682783445262336,Bregman
-2023-05-19 17:10:14+00:00,40,13,0,Mañana sábado✊,https://twitter.com/myriambregman/status/1659652705839620126,Bregman
+https://t.co/sxSaSPdED8",https://twitter.com/myriambregman/status/1660375247856566276,Bregman,FIT
+2023-05-21 09:59:48+00:00,1,0,0,@FloraAlkorta @NicolasdelCano @LuanaSimioni 👀,https://twitter.com/myriambregman/status/1660269160457203719,Bregman,FIT
+2023-05-21 08:35:07+00:00,140,26,1,"#LaPlata Mil personas en Rebelión. | Bregman y Del Caño en La Plata: ""Al mal menor hay que combatirlo, la salida es por izquierda"" https://t.co/H5ziV9S0Va, vía @izquierdadiario",https://twitter.com/myriambregman/status/1660247846560440320,Bregman,FIT
+2023-05-21 01:00:14+00:00,345,16,14,"Fernet, Rebelión y grandes proyectos, amigues ✊
+#LaPlata https://t.co/15YXT8ulye",https://twitter.com/myriambregman/status/1660133372767744003,Bregman,FIT
+2023-05-20 18:36:35+00:00,4,0,0,@fedepuy 😂,https://twitter.com/myriambregman/status/1660036824696324096,Bregman,FIT
+2023-05-19 20:28:11+00:00,2,0,0,@ValeH_LP Gracias 😊,https://twitter.com/myriambregman/status/1659702519197736961,Bregman,FIT
+2023-05-19 19:15:25+00:00,41,15,3,"Entrevista GLP: “En la interna de JxC se pelean por quién va a ajustar más a los trabajadores”, dijo Nicolás del Caño https://t.co/dDli2BYt2G a través de @laprovinciabsas",https://twitter.com/myriambregman/status/1659684208179048448,Bregman,FIT
+2023-05-19 19:09:45+00:00,58,13,1,"Con una audiencia pública, se impulsó en el Congreso la creación del Instituto Nacional de Artes Visuales -  https://t.co/8kJ195SCKx",https://twitter.com/myriambregman/status/1659682783445262336,Bregman,FIT
+2023-05-19 17:10:14+00:00,41,13,0,Mañana sábado✊,https://twitter.com/myriambregman/status/1659652705839620126,Bregman,FIT
 2023-05-19 08:49:54+00:00,44,11,3,"Hoy 14hs en @DiputadosAR
-Presentan un proyecto para crear el Instituto Nacional de las Artes Visuales - Infobae https://t.co/PmgiAxA5hL",https://twitter.com/myriambregman/status/1659526791587942400,Bregman
-2023-05-19 07:58:58+00:00,13,2,0,Comparto 📺,https://twitter.com/myriambregman/status/1659513974818258945,Bregman
-2023-05-19 07:57:46+00:00,69,21,1,"Jujuy. | Luchar sirve: los trabajadores de Uatre Ledesma consiguieron un 120% de aumento  https://t.co/E6f5QESN7N, vía @izquierdadiario",https://twitter.com/myriambregman/status/1659513674657038337,Bregman
-2023-05-18 20:49:54+00:00,63,12,0,Septiembre de 2021.,https://twitter.com/myriambregman/status/1659345597755686913,Bregman
-2023-05-18 20:49:05+00:00,137,25,1,7 de marzo de 2022. Era ilegal.,https://twitter.com/myriambregman/status/1659345393061068802,Bregman
-2023-05-18 20:46:27+00:00,349,73,9,"El acuerdo con el Fondo es ilegal. Entonces, los que lo pagan, los que lo votaron en el Congreso ¿qué son?",https://twitter.com/myriambregman/status/1659344731061600266,Bregman
+Presentan un proyecto para crear el Instituto Nacional de las Artes Visuales - Infobae https://t.co/PmgiAxA5hL",https://twitter.com/myriambregman/status/1659526791587942400,Bregman,FIT
+2023-05-19 07:58:58+00:00,13,2,0,Comparto 📺,https://twitter.com/myriambregman/status/1659513974818258945,Bregman,FIT
+2023-05-19 07:57:46+00:00,69,21,1,"Jujuy. | Luchar sirve: los trabajadores de Uatre Ledesma consiguieron un 120% de aumento  https://t.co/E6f5QESN7N, vía @izquierdadiario",https://twitter.com/myriambregman/status/1659513674657038337,Bregman,FIT
+2023-05-18 20:49:54+00:00,65,12,0,Septiembre de 2021.,https://twitter.com/myriambregman/status/1659345597755686913,Bregman,FIT
+2023-05-18 20:49:05+00:00,138,25,1,7 de marzo de 2022. Era ilegal.,https://twitter.com/myriambregman/status/1659345393061068802,Bregman,FIT
+2023-05-18 20:46:27+00:00,350,73,9,"El acuerdo con el Fondo es ilegal. Entonces, los que lo pagan, los que lo votaron en el Congreso ¿qué son?",https://twitter.com/myriambregman/status/1659344731061600266,Bregman,FIT
 2023-05-18 15:48:03+00:00,61,11,1,"Represión estatal. | Masacre de Monte: cuatro policías condenados y un jalón para redoblar la lucha https://t.co/PyouyQegTR
-Por @saturnetroc, vía @izquierdadiario",https://twitter.com/myriambregman/status/1659269637358460937,Bregman
-2023-05-18 13:33:09+00:00,228,33,6,"Con luchadoras así, a todos lados. Fuerza compañeras ✊ https://t.co/SYU0VcqMqn",https://twitter.com/myriambregman/status/1659235687135051778,Bregman
-2023-05-18 13:19:41+00:00,20,5,0,Espero sus definiciones @RossoFer @otro_periodista 👀,https://twitter.com/myriambregman/status/1659232299760640005,Bregman
-2023-05-18 11:35:32+00:00,53,14,1,"A propuesta de AVVA este viernes presentaremos una ley para que lxs trabajadorxs de las artes visuales cuenten con un Instituto que garantice sus derechos, que fomente la creación, producción, formación, investigación y difusión de su actividad el pais #LeyNacionalArtesVisualesYa https://t.co/cUYqH9VVch",https://twitter.com/myriambregman/status/1659206085948112903,Bregman
-2023-05-18 11:07:50+00:00,227,50,2,Este gobierno tiene un buen profe de boxeo 🥊. Amagaron por izquierda con que iban a buscar los fondos de los fugadores y el sopapo vino por derecha: una ley de blanqueo a favor de los que fugan como las demás. El cross se lo come el pueblo.,https://twitter.com/myriambregman/status/1659199117866962944,Bregman
-2023-05-18 10:36:27+00:00,9,0,0,"@FloraAlkorta No, ayer fui al super y no tenía fondos, tengo testigos 😱",https://twitter.com/myriambregman/status/1659191216863432705,Bregman
+Por @saturnetroc, vía @izquierdadiario",https://twitter.com/myriambregman/status/1659269637358460937,Bregman,FIT
+2023-05-18 13:33:09+00:00,228,33,6,"Con luchadoras así, a todos lados. Fuerza compañeras ✊ https://t.co/SYU0VcqMqn",https://twitter.com/myriambregman/status/1659235687135051778,Bregman,FIT
+2023-05-18 13:19:41+00:00,20,5,0,Espero sus definiciones @RossoFer @otro_periodista 👀,https://twitter.com/myriambregman/status/1659232299760640005,Bregman,FIT
+2023-05-18 11:35:32+00:00,53,14,1,"A propuesta de AVVA este viernes presentaremos una ley para que lxs trabajadorxs de las artes visuales cuenten con un Instituto que garantice sus derechos, que fomente la creación, producción, formación, investigación y difusión de su actividad el pais #LeyNacionalArtesVisualesYa https://t.co/cUYqH9VVch",https://twitter.com/myriambregman/status/1659206085948112903,Bregman,FIT
+2023-05-18 11:07:50+00:00,227,50,2,Este gobierno tiene un buen profe de boxeo 🥊. Amagaron por izquierda con que iban a buscar los fondos de los fugadores y el sopapo vino por derecha: una ley de blanqueo a favor de los que fugan como las demás. El cross se lo come el pueblo.,https://twitter.com/myriambregman/status/1659199117866962944,Bregman,FIT
+2023-05-18 10:36:27+00:00,9,0,0,"@FloraAlkorta No, ayer fui al super y no tenía fondos, tengo testigos 😱",https://twitter.com/myriambregman/status/1659191216863432705,Bregman,FIT
 2023-05-18 10:33:04+00:00,483,126,6,"La AGN concluyó que el acuerdo con el FMI que realizó Macri no cumplió con los procedimientos legales. 
-Me encantaría saber por qué tardaron tantos años en llegar a ese resultado que desde el punto de vista legal es notorio, incluso más allá de toda consideración política.",https://twitter.com/myriambregman/status/1659190368020099073,Bregman
-2023-05-18 10:25:21+00:00,12,0,0,"@FloraAlkorta Entre Soros y esto, hasta las manos....",https://twitter.com/myriambregman/status/1659188426011287552,Bregman
-2023-05-17 19:54:32+00:00,185,51,6,"Vos tenés un kiosco y te persiguen hasta abajo de la cama. Si sos monotributista, te ahorcan, pero...
+Me encantaría saber por qué tardaron tantos años en llegar a ese resultado que desde el punto de vista legal es notorio, incluso más allá de toda consideración política.",https://twitter.com/myriambregman/status/1659190368020099073,Bregman,FIT
+2023-05-18 10:25:21+00:00,12,0,0,"@FloraAlkorta Entre Soros y esto, hasta las manos....",https://twitter.com/myriambregman/status/1659188426011287552,Bregman,FIT
+2023-05-24 20:12:00+00:00,1670,346,73,Mañana desde el @FtePatriaGrande convocamos junto a los primos de @la_campora y otras organizaciones políticas a concentrar a partir de las 12hs en Diagonal Sur y Bolivar para acompañar a @CFKArgentina.,https://twitter.com/JuanGrabois/status/1661510387315998720,Grabois,FdT
+2023-05-24 18:06:16+00:00,267,29,4,"Recorriendo Tigre, tierra de contrastes. Gracias al intendente @ZamoraJulio por no aflojar; a @Federugo del @MovimientoEvita  por el compromiso inclaudicable, a los laburantes de la salud del Hospital de Pacheco por su trabajo revolucionario y a toda la compañerada por bancar. https://t.co/UvQ6i53P2x",https://twitter.com/JuanGrabois/status/1661478746283741186,Grabois,FdT
+2023-05-22 16:40:44+00:00,2944,574,60,"Cuando la deshumanización se naturaliza, la sociedad corre peligro. Tal vez los privilegiados no están preparados para entender que en una Argentina Humana todos somos iguales. La respuesta de @wadodecorrido: https://t.co/4PqdReA317",https://twitter.com/JuanGrabois/status/1660732443173814272,Grabois,FdT
+2023-05-19 23:18:28+00:00,4184,647,246,"Nosotros, los hijos de la generación diezmada vamos a tomar la posta, junto a los nuevos descamisados y la juventud argentina.
 
-Más medidas para los ricos. | Blanqueo de capitales: como Macri, Massa sigue premiando a los fugadores https://t.co/O8TGcaKfac 
-Por LID Economía , vía @izquierdadiario",https://twitter.com/myriambregman/status/1658969275774689281,Bregman
-2023-05-17 14:30:44+00:00,283,52,9,"Imaginen lo que hubiese ocurrido en la pandemia con un programa de salud arancelado como propone Milei Su propuesta es que el que no tiene plata no puede curarse, ni educarse. A eso llama ""libertad"".",https://twitter.com/myriambregman/status/1658887791269249039,Bregman
-2023-05-17 14:29:34+00:00,260,38,16,"Es un cruzada contra los derechos de las mujeres y la diversidad. 
-A pesar de todas las trabas para su implementación, de los gobiernos reaccionarios y de las Iglesias, la ESI ha servido para que muchos niñes puedan identificar situaciones de abuso. Él lo quiere impedir.",https://twitter.com/myriambregman/status/1658887496669724681,Bregman
-2023-05-17 14:28:08+00:00,275,33,12,"Muchos de los que van a votar a Milei seguramente no conocen ese programa. Milei no es tonto, lo presenta escondido en la justicia y no lo difunde masivamente.",https://twitter.com/myriambregman/status/1658887134713872384,Bregman
-2023-05-17 14:27:14+00:00,1659,287,151,"El programa de Milei es brutal. Ni Martínez de Hoy, ni Menem, se animaron a tanto. Solo con la más feroz dictadura militar se puede intentar aplicar un programa así. 
-Por algo su perro se llama “Milton”, como el economista preferido del genocida Pinochet.",https://twitter.com/myriambregman/status/1658886908682829852,Bregman
-2023-05-17 14:22:35+00:00,320,48,3,Una sensible ministra del FMI.,https://twitter.com/myriambregman/status/1658885738618814502,Bregman
-2023-05-17 12:23:19+00:00,53,10,1,"""Una estafa más"": Del Caño apuntó contra Manzur por la reimpresión de votos https://t.co/tBUkCOKpQH",https://twitter.com/myriambregman/status/1658855725890785280,Bregman
-2023-05-17 11:25:02+00:00,25,7,0,¡Toda nuestra solidaridad y acompañamiento con los y las docentes!,https://twitter.com/myriambregman/status/1658841057440792576,Bregman
-2023-05-17 11:19:39+00:00,162,36,12,"Manzur, amo de la justicia local, se presentó contra la ley vigente. La Corte intervino según su propia conveniencia política. Pero nos cargan las consecuencias: nos quieren hacer imprimir las boletas de nuevo, un costo casi imposible p una fuerza independiente y de trabajadores",https://twitter.com/myriambregman/status/1658839702231830530,Bregman
-2023-05-17 07:17:40+00:00,1,0,0,@JuliLaso La estás rompiendo ✊,https://twitter.com/myriambregman/status/1658778803630383106,Bregman
-2023-05-16 22:00:45+00:00,9,0,0,@JuliLaso 👏👏,https://twitter.com/myriambregman/status/1658638653361364992,Bregman
-2023-05-16 18:06:22+00:00,42,20,0,"#Salta | Sáenz reprimió nuevamente a la docencia autoconvocada https://t.co/K2i7QRifUC, vía @izquierdadiario",https://twitter.com/myriambregman/status/1658579668432216065,Bregman
-2023-05-16 12:21:01+00:00,56,11,0,Lautaro Jimenez desafió a Cornejo a comparar sus bonos de sueldos y el Registro de Asistencias - MinutoYA https://t.co/DpyKdLXAnj,https://twitter.com/myriambregman/status/1658492756572995584,Bregman
-2023-05-15 19:08:42+00:00,340,60,11,"Las fábricas recuperadas por sus trabajadores y trabajadoras como la ex Zanon (hoy FaSinPat, fábrica sin patrones), se sostienen con mucho esfuerzo y solidaridad. Entre esos ejemplos, está este del año 2005. https://t.co/Ktm5n86C3w",https://twitter.com/myriambregman/status/1658232965158109185,Bregman
-2023-05-15 18:08:45+00:00,350,21,1,"El no tiene por qué saber, ¿pero un amigo que lo ayude tampoco tiene?",https://twitter.com/myriambregman/status/1658217878850510881,Bregman
-2023-05-15 16:57:59+00:00,209,19,2,"Absuelto, no inocente. Fuerza @soythelmafardin",https://twitter.com/myriambregman/status/1658200072436187136,Bregman
-2023-05-15 16:56:23+00:00,8,1,0,@alejwall @aleberco Claro que si ☺️❤️✊,https://twitter.com/myriambregman/status/1658199668675715078,Bregman
-2023-05-15 16:22:15+00:00,37,11,1,"Comparto 📺
-Bregman y Del Caño: ""Todos plantean ajustar al pueblo trabajador"" | La crítica de la Izquierda a las principales fuerzas políticas https://t.co/0fF0ewdDdp a través de @Pagina12",https://twitter.com/myriambregman/status/1658191079881990144,Bregman
-2023-05-15 16:16:54+00:00,33,4,0,"Madygraf: la fábrica sin patrones vibró a puro rock https://t.co/t7vKqnOo8W, vía @izquierdadiario",https://twitter.com/myriambregman/status/1658189732713488408,Bregman
-2023-05-15 16:02:10+00:00,65,2,0,"Yo vi a @alejwall cantar eufórico los temas de La Renga 😜
-¡Catriel es lo más! @aleberco",https://twitter.com/myriambregman/status/1658186023245865020,Bregman
-2023-05-15 14:49:00+00:00,26,2,0,Vamos Noe 💚✊,https://twitter.com/myriambregman/status/1658167609840263177,Bregman
-2023-05-15 14:44:04+00:00,26,8,0,¡Presente!,https://twitter.com/myriambregman/status/1658166369026727948,Bregman
-2023-05-15 14:27:10+00:00,48,5,0,Bregman y Del Caño en campaña: “Es falso que solamente se fortalece la derecha en esta crisis” https://t.co/tSaQoerD6A,https://twitter.com/myriambregman/status/1658162117571227652,Bregman
-2023-05-15 12:12:18+00:00,637,12,5,"Esto sí que es un consejo. Gracias, rey.",https://twitter.com/myriambregman/status/1658128178609627138,Bregman
-2023-05-15 12:04:01+00:00,75,26,0,"Lxs trabajadorxs y su sindicato reclaman que el gobierno y la empresa saquen el asbesto del #Subte y reduzcan la jornada laboral a 6 hs/5 días, con 2 francos, porque el subte es y seguirá siendo insalubre. El Gobierno de CABA y el Grupo Roggio quieren seguir envenenándolos x $$$",https://twitter.com/myriambregman/status/1658126092727664642,Bregman
-2023-05-15 11:43:16+00:00,25,5,0,Esto defienden Felipe Miguel y Larreta.,https://twitter.com/myriambregman/status/1658120871209316355,Bregman
-2023-05-15 11:30:47+00:00,161,42,0,"Reclamar porque no querés más compañeros muertos por la exposición al asbesto, exigir que se tomen medidas, para el gobierno de Larreta constituye una extorsión. 
-En cambio, cuando reclaman las grandes patronales, son justos reclamos. 
-Qué vara tan distinta tienen.",https://twitter.com/myriambregman/status/1658117728455016451,Bregman
-2023-05-15 11:24:54+00:00,61,25,1,"El gobierno de Larreta está llevando adelante una política feroz contra los trabajadores y trabajadoras del #Subte. Hay que rodearlos de solidaridad y repudiar los ataques que sufren, que no son más que la cobertura de un negocio millonario y criminal.",https://twitter.com/myriambregman/status/1658116247123292160,Bregman
-2023-05-22 16:40:44+00:00,1192,223,28,"Cuando la deshumanización se naturaliza, la sociedad corre peligro. Tal vez los privilegiados no están preparados para entender que en una Argentina Humana todos somos iguales. La respuesta de @wadodecorrido: https://t.co/4PqdReA317",https://twitter.com/JuanGrabois/status/1660732443173814272,Grabois
-2023-05-19 23:18:28+00:00,4098,632,245,"Nosotros, los hijos de la generación diezmada vamos a tomar la posta, junto a los nuevos descamisados y la juventud argentina.
+Vamos a garantizar la opción política y un programa de gobierno transformador. Vamos a garantizar la más fuerte batalla contra la derecha neoliberal. https://t.co/nBqoLGNGkq",https://twitter.com/JuanGrabois/status/1659745373764612098,Grabois,FdT
+2023-05-19 18:30:00+00:00,628,103,16,"En minutos arrancamos el acto en Ferro, seguilo en vivo: https://t.co/aQw4RT4bmT",https://twitter.com/JuanGrabois/status/1659672780500254721,Grabois,FdT
+2023-05-18 14:41:00+00:00,2873,482,243,"En esta enorme movilización popular quiero unir mi voz al grito de las madres y padres trabajadores de los 10 millones de niños, niñas y adolescentes empobrecidos por la criminal política económica y social que impuso el FMI ¡Ningún argentino sin pan! https://t.co/TRXqFwBgqK",https://twitter.com/JuanGrabois/status/1659252763858018323,Grabois,FdT
+2023-05-25 10:01:37+00:00,893,621,81,"El 25 de mayo es de todos los argentinos. Es el comienzo de esta Argentina que amamos. Y es triste ver cómo este gobierno intenta adueñarse y reinterpretar una fecha que no le pertenece.
 
-Vamos a garantizar la opción política y un programa de gobierno transformador. Vamos a garantizar la más fuerte batalla contra la derecha neoliberal. https://t.co/nBqoLGNGkq",https://twitter.com/JuanGrabois/status/1659745373764612098,Grabois
-2023-05-19 18:30:00+00:00,621,102,16,"En minutos arrancamos el acto en Ferro, seguilo en vivo: https://t.co/aQw4RT4bmT",https://twitter.com/JuanGrabois/status/1659672780500254721,Grabois
-2023-05-18 14:41:00+00:00,2849,479,242,"En esta enorme movilización popular quiero unir mi voz al grito de las madres y padres trabajadores de los 10 millones de niños, niñas y adolescentes empobrecidos por la criminal política económica y social que impuso el FMI ¡Ningún argentino sin pan! https://t.co/TRXqFwBgqK",https://twitter.com/JuanGrabois/status/1659252763858018323,Grabois
-2023-05-17 17:16:21+00:00,746,168,13,Video completo en Youtube: https://t.co/3YWqCPip5y,https://twitter.com/JuanGrabois/status/1658929469262909442,Grabois
-2023-05-17 17:16:20+00:00,2300,319,24,"Nuestra estrategia para la seguridad tiene tres niveles:
-
-Por abajo políticas de inclusión.
-Por el medio reforma de la policía y la burocracia penal.
-Por arriba combatir el lavado de dinero proveniente del crimen organizado. https://t.co/sp3xS274Ls",https://twitter.com/JuanGrabois/status/1658929463613087744,Grabois
-2023-05-17 17:16:19+00:00,2180,296,38,"Tenemos un plan serio, federal, estudiado, con políticas que han funcionado. No hace falta convertirse en Videla para reducir la violencia. Lo podemos hacer con inteligencia, con amor y con firmeza. https://t.co/DIRFEaOfto",https://twitter.com/JuanGrabois/status/1658929458890276865,Grabois
-2023-05-17 17:16:17+00:00,7912,1624,503,"Como viene diciendo Cristina, hay que discutir programa. En este segundo video, les dejamos algunas propuestas concretas sobre Seguridad. No hay que tener pruritos frente a los temas espinosos. Los derechos humanos y la convivencia pacífica son dos caras de la misma moneda. https://t.co/AxLMwYEXHT",https://twitter.com/JuanGrabois/status/1658929453936914433,Grabois
-2023-05-16 19:35:09+00:00,6490,1178,197,"Se avecinan tiempos aún más difíciles para nuestro pueblo. Hay una larga pelea por delante... y no vamos a perder porque no vamos a abandonar. A Cristina todo nuestro respeto y gratitud. Siempre vamos a poner la cara, el cuerpo y el corazón por ella, por el Pueblo y por Argentina",https://twitter.com/JuanGrabois/status/1658602011175124995,Grabois
-2023-05-22 17:43:11+00:00,210,118,15,"Los vecinos de Playón de Chacarita ahora tienen una farmacia cerca de su casa, que le da trabajo a los vecinos del barrio. 
+Mayo de 1810 nos sigue enseñando que para construir el futuro hay que tomarlo en nuestras manos y que, aunque nuestro día a día de angustia y miedo no es el que merecemos, tenemos esperanza porque somos nosotros quienes decidimos nuestro futuro. Hagamos el cambio de nuestras vidas.",https://twitter.com/horaciorlarreta/status/1661719167446183937,Larreta,JxC
+2023-05-25 09:39:31+00:00,386,323,5,EN VIVO | El 25 de Mayo es de todos los argentinos. Feliz Día de la Patria. https://t.co/hdrP4LsG0F,https://twitter.com/horaciorlarreta/status/1661713607283949568,Larreta,JxC
+2023-05-24 13:31:43+00:00,797,522,1098,"Para vos, ¿qué es la Patria?",https://twitter.com/horaciorlarreta/status/1661409652590903309,Larreta,JxC
+2023-05-23 17:41:13+00:00,542,409,11,"El año pasado implementamos el Programa de Fluidez y Comprensión Lectora que mejoró la lectura y la interpretación de textos en el 70% de los alumnos que participaron. Por eso, decidimos extender el programa y llevarlo a todos los chicos de tercer grado. Lo más importante es la educación.",https://twitter.com/horaciorlarreta/status/1661110053376499724,Larreta,JxC
+2023-05-23 15:00:37+00:00,597,445,49,"La lucha contra los delincuentes la estamos dando juntos y la vamos a ganar. Con hechos concretos y con resultados. Mi compromiso es el mismo, ayer, hoy y siempre: que podamos vivir con tranquilidad y seguridad. https://t.co/7STx8jbQTD",https://twitter.com/horaciorlarreta/status/1661069639932100622,Larreta,JxC
+2023-05-23 08:34:55+00:00,376,280,22,EN VIVO | La Educación es prioridad: extendemos el programa de Fluidez y Comprensión Lectora. https://t.co/YQ7k7BBrVD,https://twitter.com/horaciorlarreta/status/1660972574828888064,Larreta,JxC
+2023-05-22 20:10:50+00:00,2919,1192,909,"FAVALORO
+Es una canallada, una mentira inventada por el Kirchnerismo decir que yo tuve responsabilidad en el suicidio de Favaloro. Hoy, con perdón de la palabra, el Presidente de la Nación se fue al carajo. Por suerte, esa Argentina de la agresión y la violencia donde todo vale, ya se termina.",https://twitter.com/horaciorlarreta/status/1660785320047136774,Larreta,JxC
+2023-05-22 17:43:11+00:00,695,450,262,"Los vecinos de Playón de Chacarita ahora tienen una farmacia cerca de su casa, que le da trabajo a los vecinos del barrio. 
 
 Con @mariamigliore y @sergio_fajardo, ex alcalde de Medellín y gobernador de Antioquia, estuvimos en la primera sucursal de Farmacity instalada en un barrio popular de la Ciudad. 
 
-Hoy empieza el Congreso de Integración y Desarrollo de la Ciudad de Buenos Aires, donde vamos a compartir experiencias como esta del Playón de Chacarita. Creemos en la integración sociourbana para nivelar para arriba, y en el desarrollo a través del trabajo.",https://twitter.com/horaciorlarreta/status/1660748162787692546,Larreta
-2023-05-22 09:01:53+00:00,564,394,31,Mientras algunos se perpetúan en el poder por décadas hay un equipo de formoseños que está trabajando para terminar con el estancamiento y transformar la provincia. Felicitaciones @FCarbajal2021 @gabrielaneme @EQuiqueRamirez y a todo JxC Formosa. Vamos juntos a pelearla cueste lo que cueste para cambiar la provincia y mejorar la vida de la gente. Tienen todo mi apoyo!,https://twitter.com/horaciorlarreta/status/1660616973590450179,Larreta
-2023-05-21 11:46:08+00:00,656,478,9,"Felicitaciones @DamianGaravano, nuevo presidente del PRO en Corrientes y @JuanBeterette, presidente de la juventud! Sé que con su compromiso y el de todo el equipo van a seguir haciendo crecer nuestro espacio y continuar la transformación que están haciendo de la provincia! Todos los éxitos!",https://twitter.com/horaciorlarreta/status/1660295918787100673,Larreta
-2023-05-16 21:42:45+00:00,1080,665,65,"21 líneas de colectivo. Más de 250 mil personas por día. 30% menos de tiempo de viaje, más tiempo para vos. Esto es el Nuevo Metrobus del Bajo que conecta Retiro con La Boca y ya está funcionando.  Esto es hacer. Esto es transformar. Esto es cambiar. https://t.co/t0EAIXq2BF",https://twitter.com/horaciorlarreta/status/1658634124700123139,Larreta
-2023-05-16 07:58:32+00:00,659,485,44,EN VIVO | Transformar es posible juntos: nuevo Metrobus del Bajo. https://t.co/VtwJ7NQKfz,https://twitter.com/horaciorlarreta/status/1658426702316306439,Larreta
-2023-05-15 17:25:30+00:00,962,544,123,En estos años trabajando juntos pudimos hacer la transformación más grande de la historia de la Ciudad. Vamos a seguir este camino. https://t.co/Q13irOLPXi,https://twitter.com/horaciorlarreta/status/1658206994505801737,Larreta
-2023-05-14 23:08:45+00:00,403,342,3,Felicitaciones a todos los fueguinos que hoy fueron a votar. Gracias @TitoStefani y @paulinorossi por su compromiso y trabajo diario! Vamos a seguir trabajando juntos para transformar Tierra del Fuego!,https://twitter.com/horaciorlarreta/status/1657930988767555585,Larreta
-2023-05-14 22:56:23+00:00,514,402,9,"Felicitaciones @DrMarceloOrrego, @fabianmartinsj, @EnzoACornejo, @SusanaLaciar y a todo Cambia San Juan por la excelente elección que hicieron!! Mientras los sanjuaninos esperan para poder elegir su próximo gobernador de forma constitucional y transparente, es un orgullo ver cómo crece el equipo del cambio en la ciudad y en la provincia!
+Hoy empieza el Congreso de Integración y Desarrollo de la Ciudad de Buenos Aires, donde vamos a compartir experiencias como esta del Playón de Chacarita. Creemos en la integración sociourbana para nivelar para arriba, y en el desarrollo a través del trabajo.",https://twitter.com/horaciorlarreta/status/1660748162787692546,Larreta,JxC
+2023-05-22 09:01:53+00:00,744,520,38,Mientras algunos se perpetúan en el poder por décadas hay un equipo de formoseños que está trabajando para terminar con el estancamiento y transformar la provincia. Felicitaciones @FCarbajal2021 @gabrielaneme @EQuiqueRamirez y a todo JxC Formosa. Vamos juntos a pelearla cueste lo que cueste para cambiar la provincia y mejorar la vida de la gente. Tienen todo mi apoyo!,https://twitter.com/horaciorlarreta/status/1660616973590450179,Larreta,JxC
+2023-05-21 11:46:08+00:00,694,497,9,"Felicitaciones @DamianGaravano, nuevo presidente del PRO en Corrientes y @JuanBeterette, presidente de la juventud! Sé que con su compromiso y el de todo el equipo van a seguir haciendo crecer nuestro espacio y continuar la transformación que están haciendo de la provincia! Todos los éxitos!",https://twitter.com/horaciorlarreta/status/1660295918787100673,Larreta,JxC
+2023-05-25 15:09:42+00:00,267,111,1,"Mantuvimos una reunión para planificar de manera conjunta los avances en energía, transporte y economías regionales con el ministro @DiegoGiuliano, la secretaria @FlaviaRoyon, los secretarios @MatiasTombolini y @JorgeNeme_ y el asesor en RRII @GustavoPandiani.
 
-Lamentablemente, en San Juan, como en muchas otras provincias argentinas, ser el candidato más votado no basta para convertirse en gobernador por la tramposa y fraudulenta ley de lemas. 
-Esta es una muestra más de la necesidad que tenemos de cambiar este sistema por uno más transparente y representativo.",https://twitter.com/horaciorlarreta/status/1657927876056842245,Larreta
-2023-05-14 22:15:06+00:00,577,413,10,"Felicitaciones @MBerhongaray, Patricia Testa y a todo el equipo de JxC La Pampa por la gran elección que hicieron! Es un orgullo ver cómo crece nuestro espacio en la provincia. Hoy ganamos más intendencias y más diputados provinciales con los que vamos a impulsar el cambio y recuperar cada rincón de la provincia para todos los pampeanos!",https://twitter.com/horaciorlarreta/status/1657917489748082689,Larreta
-2023-05-22 18:21:35+00:00,128,60,1,"Si queremos ser un país que genere empleo de calidad y que venda su trabajo al mundo, necesitamos PyMEs capacitadas. Por eso, con este crédito buscamos promover la inversión que permita formarse, desarrollarse y aplicar nuevas tecnologías a sus producciones.
+#CreoEnArgentina https://t.co/SyWXb8b5Bw",https://twitter.com/SergioMassa/status/1661796699004698625,Massa,FdT
+2023-05-25 13:08:29+00:00,650,197,66,"Una homilía que invita a la dirigencia a pensar la Argentina.
 
-#CreoEnArgentina https://t.co/CJeADGutVN",https://twitter.com/SergioMassa/status/1660757824597630983,Massa
-2023-05-22 18:21:34+00:00,121,56,0,"El programa consiste en créditos y aportes no reembolsables que podrían generar en pocos años millones de nuevos empleos o empleos reconvertidos y mejorar también la productividad y la competitividad de las PyMEs, garantizando así su ingreso al mundo de las industrias 4.0.",https://twitter.com/SergioMassa/status/1660757822504591360,Massa
-2023-05-22 18:21:34+00:00,213,104,20,"Junto al secretario @DMVasco y gracias al apoyo internacional de @el_BID y de @BCIE_Org, pusimos en marcha un programa de 130 millones de dólares que busca promover la innovación y transformación digital de las PyMEs argentinas hacia una industria 4.0. https://t.co/2ebbJdbO2O",https://twitter.com/SergioMassa/status/1660757820441075714,Massa
-2023-05-19 13:39:35+00:00,334,133,1,"@sbatakis @dmvasco Estos créditos a tasa promovida son la demostración de que nosotros desde el Estado creemos en una economía que apuesta por el país y que genera valor, empleo, innovación y desarrollo y que nos permite vender nuestro trabajo y nuestra producción al mundo.
+UNIDAD DE LOS ARGENTINOS https://t.co/pmnL3a1F4f",https://twitter.com/SergioMassa/status/1661766195526205440,Massa,FdT
+2023-05-25 12:48:21+00:00,425,164,22,"Sigamos defendiendo incansablemente la patria que soñaron aquel 25 de mayo, esa patria libre, que abraza a cada argentino y argentina y que nos convoca todos los días, a trabajar por un futuro mejor y con más oportunidades.
 
-#CreoEnArgentina https://t.co/eAWOEpV1cX",https://twitter.com/SergioMassa/status/1659599692827590658,Massa
-2023-05-19 13:38:31+00:00,341,142,1,"@sbatakis @dmvasco Ya pusimos a disposición a través de esta línea con el Banco Nación 70.000 millones que se fueron agotando al instante y por eso a partir del mediodía de hoy, estarán disponibles 30.000 millones más para que todos tengan la oportunidad de seguir invirtiendo y puedan crecer.",https://twitter.com/SergioMassa/status/1659599425310801923,Massa
-2023-05-19 13:37:40+00:00,637,245,19,"Junto a la presidenta del Banco Nación @SBatakis, al secretario de Industria @DMVasco y a representantes del sector, anunciamos la ampliación de la línea CreAr de Inversión PyME para garantizar que nuestras industrias sigan produciendo y generando trabajo en la Argentina. https://t.co/AcloNkfJuq",https://twitter.com/SergioMassa/status/1659599212932218893,Massa
-2023-05-18 17:37:26+00:00,540,204,20,"Con @GustavoMelella, enorme ganador de Tierra del Fuego, trabajando en un proyecto de hidrógeno verde para generar la propuesta de energía verde más austral del mundo. https://t.co/XGmkkaWbyp",https://twitter.com/SergioMassa/status/1659297162641960999,Massa
-2023-05-17 15:22:09+00:00,301,132,2,"Es muy importante contar con gobernadores como @GustavoSaenzOK, que apenas terminado el proceso electoral en su provincia dio vuelta a la página, porque entiende que lo más importante es seguir trabajando en resolver los problemas de la gente y de Salta.
+#FelizDíaDeLaPatria",https://twitter.com/SergioMassa/status/1661761126026059776,Massa,FdT
+2023-05-24 21:43:20+00:00,266,112,8,"Por eso anuncié en la inauguración del Salón Moto 2023 la renovación del régimen de motopartismo, que permite aumentar la producción e integración nacional de un sector que registró el último trimestre su mayor facturación y patentamientos de los últimos 5 años.
 
-#CreoEnArgentina https://t.co/CJlekfyvUW",https://twitter.com/SergioMassa/status/1658900728662958087,Massa
-2023-05-17 15:22:08+00:00,271,121,1,"Estos acuerdos también financiarán políticas agropecuarias sustentables para la provincia que incrementarán la cobertura y la calidad de la infraestructura rural, con obras de conectividad rural, riego, caminos, electrificación y prevención de incendios.",https://twitter.com/SergioMassa/status/1658900726867795971,Massa
-2023-05-17 15:22:08+00:00,227,97,1,"También firmamos el convenio para iniciar las obras del Gasoducto de los Valles Calchaquíes con una inversión de 26.000 millones de pesos, que potenciará el transporte de gas en la provincia de Salta y mejorará su productividad industrial y su desarrollo económico.",https://twitter.com/SergioMassa/status/1658900724976164879,Massa
-2023-05-17 15:22:07+00:00,225,97,3,"Entre las principales firmas, se encuentra la pavimentación de la Ruta 86, entre la ciudad de Tartagal y el paraje Tonono y el desarrollo de infraestructura vial e hídrica en la Ruta 66, con financiamiento de @AgendaCAF y una duración estimada de 24 meses. https://t.co/ejtHPnJzAQ",https://twitter.com/SergioMassa/status/1658900722463776788,Massa
-2023-05-17 15:22:06+00:00,583,270,26,"Junto al gobernador @GustavoSaenzOK, el ministro de Obras Públicas @GKatopodis y las y los secretarios @FlaviaRoyon, @JorgeNeme_, @JuanjoBahillo y @jmcheppi, firmamos importantes convenios de obras de infraestructura para la provincia de Salta. https://t.co/EEDFEOA8ZP",https://twitter.com/SergioMassa/status/1658900718244306954,Massa
-2023-05-16 20:13:06+00:00,350,157,2,"De esta forma, las PyMEs y cooperativas van a poder extender su oferta con tecnología de última generación y llevar la mejor conectividad a cada escuela, cada hospital, cada comunidad y cada barrio popular del país.
+#CreoEnArgentina https://t.co/o9GVK9IBdh",https://twitter.com/SergioMassa/status/1661533372659769346,Massa,FdT
+2023-05-24 21:43:20+00:00,595,214,21,"Trabajamos para seguir industrializando cada sector de la economía argentina, para que vendamos al mundo trabajo y valor agregado argentinos, que generan divisas y garantizan el desarrollo del país. Nuestra obligación como gobierno es dar certezas para que los sectores inviertan. https://t.co/XuQu1M82Lg",https://twitter.com/SergioMassa/status/1661533370860306432,Massa,FdT
+2023-05-24 21:37:42+00:00,227,90,4,"Tenemos el objetivo de multiplicar por 10 nuestras exportaciones mineras hacia 2030 y de sumar trabajo nacional desde el desarrollo de la cadena de proveedores. Por eso, con @DMVasco y @AvilaFernandaOk anunciamos financiamiento clave para las empresas del sector.
+#CreoEnArgentina",https://twitter.com/SergioMassa/status/1661531956046184450,Massa,FdT
+2023-05-24 21:37:42+00:00,451,164,15,"La minería será un gran jugador de nuestra economía en los próximos años. Las más de 280 empresas nacionales e internacionales del sector que participan en @ArmineraExpo, son una muestra del potencial y de la realidad minera que hace y hará un enorme aporte en divisas y trabajo. https://t.co/tDKvuFcP4l",https://twitter.com/SergioMassa/status/1661531954255220736,Massa,FdT
+2023-05-24 09:45:20+00:00,586,283,37,"En menos de 7 meses, duplicamos la inversión del programa de crédito a la producción más grande de la historia, llegando a 1.000.000 de millones de pesos para impulsar el trabajo, la producción y las exportaciones de las PyMEs de todo el país.",https://twitter.com/SergioMassa/status/1661352683993804800,Massa,FdT
+2023-05-22 20:11:21+00:00,283,149,5,"Conocemos la importancia del consumo para el PBI del país, por lo que incrementar la capacidad del mercado interno al mejorar el acceso al crédito de la gente y de las PyMEs, nos permitirá compensar gran parte del daño que aún hoy nos genera la sequía.
 
-#CreoEnArgentina https://t.co/gThczIQLrQ",https://twitter.com/SergioMassa/status/1658611559961174017,Massa
-2023-05-16 20:13:05+00:00,341,145,1,"Esta habilitación del espectro de banda de 6 GHz para el uso libre y sin licencia, coexistirá con los servicios que ya existen y será clave para administrar y maximizar los recursos que pertenecen a todos los argentinos y argentinas.",https://twitter.com/SergioMassa/status/1658611558170128393,Massa
-2023-05-16 20:13:05+00:00,626,270,59,"Junto al presidente de @ENACOMArgentina @Ambrosinius y representantes de las principales empresas del sector tecnológico, presentamos WIFI 6, Por Una Argentina Con Hogares Más Y Mejor Conectados, que asigna una banda del espectro para el uso y desarrollo de la tecnología WIFI 6. https://t.co/Wo276HdiHG",https://twitter.com/SergioMassa/status/1658611556341432322,Massa
-2023-05-14 21:53:34+00:00,738,258,12,"Felicitaciones @ZiliottoSergio querido.
-Trabajar por el desarrollo industrial, bancar el gasoducto como sueño del país y avanzar en lo productivo aún con la sequía, tiene premio.
-TE ABRAZO https://t.co/045Jfm5dU7",https://twitter.com/SergioMassa/status/1657912069297938432,Massa
-2023-05-14 21:36:23+00:00,805,276,17,"Felicitaciones @GustavoMelella. 
-El esfuerzo de pensar en la industria, de avanzar con el proyecto Fénix en el desarrollo de gas con valor agregado y de trabajar siempre pensando en tu gente, tiene premio. 
-TE ABRAZO https://t.co/ZnwR4kP9q6",https://twitter.com/SergioMassa/status/1657907746660818947,Massa
-2023-05-22 13:54:44+00:00,33,10,1,Felicitaciones @sebacopello la izquierda gana en Jujuy un nuevo concejal constituyentes al servicio de las luchas populares y contra el ajuste del gobierno provincial y nacional,https://twitter.com/Solanopo/status/1660690670896439297,Solano
-2023-05-20 19:31:19+00:00,52,14,1,El Partido Obrero y el MST proponen la fórmula Solano – Ripoll https://t.co/ENr1x61fUL,https://twitter.com/Solanopo/status/1660050597364506626,Solano
-2023-05-20 17:45:43+00:00,65,11,0,"Le decimos al resto del FIT-U que no hay que tener miedo al debate colectivo. Todo lo contrario, debatir entre miles de compañeros fortalece a la izquierda y al Frente https://t.co/B8AD7cDNzu",https://twitter.com/Solanopo/status/1660024023722467329,Solano
-2023-05-20 17:45:42+00:00,46,7,0,"Lamentablemente los compañeros del PTS hasta ahora se niegan a este camino y se encierran en sus propias precandidaturas, algo que es equivocado y divide",https://twitter.com/Solanopo/status/1660024017783255041,Solano
-2023-05-20 17:45:41+00:00,47,7,2,"Por eso venimos sosteniendo una polémica con Bregman y Del Caño, que representan una izquierda que se adapta a los planteos de este sector. Si la izquierda se pega a estas variantes del régimen es muy difícil que pueda enfrentar a Milei, quien crece por el fracaso del FdT y JxC",https://twitter.com/Solanopo/status/1660024013907718145,Solano
-2023-05-20 17:45:40+00:00,45,7,0,"Llamamos a las fuerzas que rechazaron esta propuesta a que revisen su posición. Para nosotros, la izquierda debe tener una política independiente del kirchnerismo",https://twitter.com/Solanopo/status/1660024010191646723,Solano
-2023-05-20 17:45:39+00:00,41,7,0,"El acuerdo al que llegamos con el MST tiene un enorme valor. Vamos a convocar un plenario de la izquierda y los luchadores populares, involucrando a miles de compañeros para resolver y decidir sobre el programa y las candidaturas de la izquierda de cara a las próximas elecciones",https://twitter.com/Solanopo/status/1660024006815145985,Solano
-2023-05-20 17:45:38+00:00,41,6,1,"En CABA proponemos: como Jefa de Gobierno a Vanina Biasi, como Legisladora a Cele Fierro y como diputada nacional a Jesi Gentile",https://twitter.com/Solanopo/status/1660024002159493120,Solano
-2023-05-20 17:45:37+00:00,46,7,1,"Además de la fórmula presidencial, acordamos llevar al plenario la propuesta de impulsar en PBA: como Gobernador a Alejandro Bodart, como diputado nacional a Néstor Pitrola y como Senadora a Romina Del Plá https://t.co/LbV0Eby9k4",https://twitter.com/Solanopo/status/1660023996643983360,Solano
-2023-05-20 17:45:34+00:00,41,7,2,"El @FdeIzquierda debe superar la condición de un frente electoral, para transformarse en un canal de movilización política de los miles de compañeros que están enfrentando el ajuste en los barrios, los sindicatos, la juventud, y todos los movimientos de lucha",https://twitter.com/Solanopo/status/1660023986766348290,Solano
-2023-05-20 17:45:34+00:00,43,5,0,"Ambos partidos realizamos hoy nuestras conferencias electorales dónde votamos constituir una lista común que propondremos a este plenario para las elecciones, sobre la base de defender al FIT-U como un polo de independencia de clase para luchar por un gobierno de los trabajadores",https://twitter.com/Solanopo/status/1660023983251550210,Solano
-2023-05-20 17:45:33+00:00,246,126,47,Desde el @PartidoObrero y el @MSTargentina convocamos a realizar un gran plenario de la izquierda y proponemos la fórmula presidencial Gabriel Solano - Vilma Ripoll https://t.co/8XBFG9CMRW,https://twitter.com/Solanopo/status/1660023980726669320,Solano
-2023-05-19 16:43:12+00:00,128,38,16,"El delirio de Milei es total. Le preguntaron sobre la Educación Sexual Integral (ESI) y escuchá lo que respondió. Mejor reir que llorar
+#CreoEnArgentina https://t.co/DyMP0BYvoM",https://twitter.com/SergioMassa/status/1660785449177174016,Massa,FdT
+2023-05-22 20:11:21+00:00,325,162,15,"Entre las principales medidas, está el aumento de los límites de compra en tarjetas de crédito a través de incrementos del 30% en los márgenes de compras en cuotas, del 25% en los márgenes a un pago y de un 25% en los márgenes de adelanto en cuenta corriente de PyMEs y  MiPyMEs.",https://twitter.com/SergioMassa/status/1660785447323271168,Massa,FdT
+2023-05-22 20:11:20+00:00,739,289,74,"Presentamos un conjunto de medidas junto a representantes de entidades bancarias, para llevar alivio a las familias argentinas y garantizarles un mayor acceso al crédito. De esa forma, se sostiene e impulsa el consumo interno y se aumenta la inversión en todo el país. https://t.co/pFN7BRCcpB",https://twitter.com/SergioMassa/status/1660785445360287745,Massa,FdT
+2023-05-22 18:21:35+00:00,326,164,3,"Si queremos ser un país que genere empleo de calidad y que venda su trabajo al mundo, necesitamos PyMEs capacitadas. Por eso, con este crédito buscamos promover la inversión que permita formarse, desarrollarse y aplicar nuevas tecnologías a sus producciones.
 
-Video cortesía de @prensaobrera https://t.co/xHw4UQvHuA",https://twitter.com/Solanopo/status/1659645900837232657,Solano
-2023-05-19 16:01:58+00:00,16,6,0,La fórmula de Barrionuevo. Si estas son las nuevas generaciones... https://t.co/Q5cgHEJ0lK,https://twitter.com/Solanopo/status/1659635525664251927,Solano
-2023-05-19 14:50:56+00:00,94,15,3,Agarró la papa caliente y ahora ya es papa frita.,https://twitter.com/Solanopo/status/1659617649121165312,Solano
+#CreoEnArgentina https://t.co/CJeADGutVN",https://twitter.com/SergioMassa/status/1660757824597630983,Massa,FdT
+2023-05-22 18:21:34+00:00,295,132,1,"El programa consiste en créditos y aportes no reembolsables que podrían generar en pocos años millones de nuevos empleos o empleos reconvertidos y mejorar también la productividad y la competitividad de las PyMEs, garantizando así su ingreso al mundo de las industrias 4.0.",https://twitter.com/SergioMassa/status/1660757822504591360,Massa,FdT
+2023-05-22 18:21:34+00:00,554,268,37,"Junto al secretario @DMVasco y gracias al apoyo internacional de @el_BID y de @BCIE_Org, pusimos en marcha un programa de 130 millones de dólares que busca promover la innovación y transformación digital de las PyMEs argentinas hacia una industria 4.0. https://t.co/2ebbJdbO2O",https://twitter.com/SergioMassa/status/1660757820441075714,Massa,FdT
+2023-05-19 13:39:35+00:00,351,142,1,"@sbatakis @dmvasco Estos créditos a tasa promovida son la demostración de que nosotros desde el Estado creemos en una economía que apuesta por el país y que genera valor, empleo, innovación y desarrollo y que nos permite vender nuestro trabajo y nuestra producción al mundo.
+
+#CreoEnArgentina https://t.co/eAWOEpV1cX",https://twitter.com/SergioMassa/status/1659599692827590658,Massa,FdT
+2023-05-19 13:38:31+00:00,354,150,1,"@sbatakis @dmvasco Ya pusimos a disposición a través de esta línea con el Banco Nación 70.000 millones que se fueron agotando al instante y por eso a partir del mediodía de hoy, estarán disponibles 30.000 millones más para que todos tengan la oportunidad de seguir invirtiendo y puedan crecer.",https://twitter.com/SergioMassa/status/1659599425310801923,Massa,FdT
+2023-05-19 13:37:40+00:00,657,253,19,"Junto a la presidenta del Banco Nación @SBatakis, al secretario de Industria @DMVasco y a representantes del sector, anunciamos la ampliación de la línea CreAr de Inversión PyME para garantizar que nuestras industrias sigan produciendo y generando trabajo en la Argentina. https://t.co/AcloNkfJuq",https://twitter.com/SergioMassa/status/1659599212932218893,Massa,FdT
+2023-05-18 17:37:26+00:00,550,207,20,"Con @GustavoMelella, enorme ganador de Tierra del Fuego, trabajando en un proyecto de hidrógeno verde para generar la propuesta de energía verde más austral del mundo. https://t.co/XGmkkaWbyp",https://twitter.com/SergioMassa/status/1659297162641960999,Massa,FdT
+2023-05-25 20:43:41+00:00,14,6,2,En estos momentos el gobierno salteño de Gustavo Saénz reprime a los docentes y mantiene detenidos a 15 de ellos. Exigimos su inmediata libertad. https://t.co/NaMCKh9oYK,https://twitter.com/Solanopo/status/1661880748465348610,Solano,FIT
+2023-05-25 19:44:04+00:00,54,31,5,"Urgente: así reprime a los docentes que reclaman por salario el gobernador Guatavo Sáenz, aliado político de Sergio Massa. https://t.co/xMGBdTNm8J",https://twitter.com/Solanopo/status/1661865744517197831,Solano,FIT
+2023-05-25 18:56:04+00:00,77,32,2,Vale la pena escuchar este pasaje de CFK defendiendo a Menem y su reelección.,https://twitter.com/Solanopo/status/1661853668134535169,Solano,FIT
+2023-05-25 17:03:10+00:00,196,41,13,Digamos todo. https://t.co/19n4JhzrbH,https://twitter.com/Solanopo/status/1661825254887505922,Solano,FIT
+2023-05-25 16:15:50+00:00,50,19,6,"La solución política es romper con el FMI, no pedirle que nos dejen crecer para pagarle a los usureros internacionales.",https://twitter.com/Solanopo/status/1661813342460149775,Solano,FIT
+2023-05-25 15:46:37+00:00,239,78,14,CFK dice que los jubilados en los 90 cobraban 200 pesos/dólares. Pero omite que ahora bajo su gobierno cobran lo mismo. Actualmente es de $70.900. Al dólar blue es 147 dólares.,https://twitter.com/Solanopo/status/1661805989174157313,Solano,FIT
+2023-05-25 15:42:59+00:00,158,62,7,Alguien que le recuerde a CFK que las privatizaciones las hizo el gobierno peronista de Menem con el apoyo de ella y Néstor Kirchner. El avión de la provincia de Santa Cruz hizo de taxi aéreo para reunir loa votos de la privatización del gas.,https://twitter.com/Solanopo/status/1661805074262229012,Solano,FIT
+2023-05-25 13:13:02+00:00,98,24,3,"Muchos militantes kirchneristas dicen ""vamos a hacer lo que diga CFK"". ¿Pero cómo dar un apoyo por igual a candidatos que puede tener programas distintos? Un militante tiene que ser crítico y tener voz propia. Renunciar a pensar con tu propia cabeza es lo que jamás debés hacer.",https://twitter.com/Solanopo/status/1661767337417007105,Solano,FIT
+2023-05-25 11:35:36+00:00,12,3,0,"Escuchamos mucho: nos contaron los problemas de los colegios, los institutos y las Universidades. Siempre se aprende en actividades con los pibes y las pibas. Vamos a una gran campaña con la izquierda que se planta https://t.co/2koTCeZlRe",https://twitter.com/Solanopo/status/1661742820888285190,Solano,FIT
+2023-05-25 11:35:33+00:00,32,9,5,"Anoche nos reunimos junto a decenas de estudiantes secundarios, terciarios, universitarios y laburantes del barrio para discutir como nos organizamos para enfrentar el ajuste de los gobiernos de la Ciudad y Nación y construir 1 alternativa propia de los trabajadores y la juventud https://t.co/85iUZBxyzy",https://twitter.com/Solanopo/status/1661742806149505027,Solano,FIT
+2023-05-25 10:05:50+00:00,317,58,128,Insisto: el fusilamiento de un ladrón por la espalda ejecutado por un policía no reducirá en nada la inseguridad. La demagogia de @PatoBullrich es moralmente deleznable y además inútil. Hay que apuntar a las mafias del poder y frenar la descomposición social.,https://twitter.com/Solanopo/status/1661720227028115458,Solano,FIT
+2023-05-24 12:41:53+00:00,16,4,1,"Es por eso que invitamos a todas las fuerzas de izquierda, a los luchadores populares y activistas a realizar un gran plenario y discutir una campaña en todo el país y también la lista con la que daremos estas peleas https://t.co/OR6rdGJgnS",https://twitter.com/Solanopo/status/1661397112804786178,Solano,FIT
+2023-05-24 12:41:50+00:00,11,3,0,Sino para transformarse en una verdadera alternativa política de los trabajadores que enfrente el ajuste de los que gobernaron estas últimas décadas y nos llevaron a la crisis actual. Es una pelea estratégica para que la bronca no la canalicen los fachos como Milei https://t.co/kWuqclOuSF,https://twitter.com/Solanopo/status/1661397099383062529,Solano,FIT
+2023-05-24 12:41:43+00:00,6,3,0,"Este acuerdo es muy importante porque defiende los métodos históricos del movimiento obrero, con deliberación colectiva y participación del activismo. Creemos que la izquierda no tiene que ir a la campaña electoral con la simple expectativa de conseguir 1 ó 2 diputados más https://t.co/jXT50msFXK",https://twitter.com/Solanopo/status/1661397071880962050,Solano,FIT
+2023-05-24 12:41:40+00:00,61,27,2,Hoy realizamos una conferencia de prensa del @PartidoObrero y el @MSTargentina en el que lanzamos la convocatoria a un gran Plenario de la izquierda y los luchadores. Llevaremos a esta instancia la fórmula Solano - Ripoll para ir en unidad en el @FdeIzquierda https://t.co/c78LcOio6e,https://twitter.com/Solanopo/status/1661397059037982720,Solano,FIT
+2023-05-24 10:44:06+00:00,1,2,0,"Mirá en vivo la conferencia acá
+https://t.co/w1AxNO4Czk",https://twitter.com/Solanopo/status/1661367469817098241,Solano,FIT
+2023-05-24 10:43:59+00:00,56,23,9,Conferencia del @FdeIzquierda por el @PartidoObrero y el @MSTargentina presentando la fórmula Solano - Ripoll y convocando a un gran plenario de la izquierda y los trabajadores https://t.co/cb88OF8VFz,https://twitter.com/Solanopo/status/1661367441971191808,Solano,FIT
+2023-05-24 08:49:50+00:00,961,163,437,"Es gravísimo tu apoyo a este asesinato, equivale a legalizar la pena de muerte.",https://twitter.com/Solanopo/status/1661338715548012549,Solano,FIT
+2023-05-23 21:58:16+00:00,25,6,0,"Esta crisis se vive como un final de época. No es sólo la crisis de un gobierno, es la de un sistema
+
+🎙️Conversando y debatiendo con @rominamanguel https://t.co/UtcPqXT0j6",https://twitter.com/Solanopo/status/1661174742219464705,Solano,FIT
+2023-05-23 20:32:13+00:00,25,5,4,Veo a muchos hinchas de Boca entusiasmados porque Macri se sacó una foto con Guardiola. Pero les recuerdo que cuando gobernó Argentina se sacó fotos con todos los presidentes del mundo y nos fue como el tujes.,https://twitter.com/Solanopo/status/1661153087476879361,Solano,FIT
+2023-05-23 16:56:34+00:00,39,25,1,La crisis se agrava y los responsables preparan nuevos golpes contra el pueblo. Vamos con la izquierda que se planta ✊🏼 https://t.co/9lJCKbV2Vw,https://twitter.com/Solanopo/status/1661098816789946370,Solano,FIT
+2023-05-23 13:25:42+00:00,1,0,0,"@rindart Bravo, un gallina más al mundo",https://twitter.com/Solanopo/status/1661045750468419585,Solano,FIT
+2023-05-23 12:11:35+00:00,33,10,0,"Mañana 9.30hs vamos a realizar uns conferencia de prensa en el Teatro Picadero para presentar la propuesta de candidaturas del @FdeIzquierda y llevarlas al plenario de la izquierda y el activismo
+
+https://t.co/FVFAiTBpLY",https://twitter.com/Solanopo/status/1661027098570502144,Solano,FIT
+2023-05-22 19:57:35+00:00,41,9,1,"@morenoparalavic fijate que en La Matanza hace más de 40 años que no les llega el amor del que tanto hablás
+
+En @_IPNoticias https://t.co/28m2fYY4rr",https://twitter.com/Solanopo/status/1660781984187121664,Solano,FIT
+2023-05-22 13:54:44+00:00,56,12,1,Felicitaciones @sebacopello la izquierda gana en Jujuy un nuevo concejal constituyentes al servicio de las luchas populares y contra el ajuste del gobierno provincial y nacional,https://twitter.com/Solanopo/status/1660690670896439297,Solano,FIT
+2023-05-20 19:31:19+00:00,53,15,1,El Partido Obrero y el MST proponen la fórmula Solano – Ripoll https://t.co/ENr1x61fUL,https://twitter.com/Solanopo/status/1660050597364506626,Solano,FIT
+2023-05-20 17:45:43+00:00,65,11,0,"Le decimos al resto del FIT-U que no hay que tener miedo al debate colectivo. Todo lo contrario, debatir entre miles de compañeros fortalece a la izquierda y al Frente https://t.co/B8AD7cDNzu",https://twitter.com/Solanopo/status/1660024023722467329,Solano,FIT
+2023-05-20 17:45:42+00:00,46,7,0,"Lamentablemente los compañeros del PTS hasta ahora se niegan a este camino y se encierran en sus propias precandidaturas, algo que es equivocado y divide",https://twitter.com/Solanopo/status/1660024017783255041,Solano,FIT
+2023-05-20 17:45:41+00:00,47,7,4,"Por eso venimos sosteniendo una polémica con Bregman y Del Caño, que representan una izquierda que se adapta a los planteos de este sector. Si la izquierda se pega a estas variantes del régimen es muy difícil que pueda enfrentar a Milei, quien crece por el fracaso del FdT y JxC",https://twitter.com/Solanopo/status/1660024013907718145,Solano,FIT
+2023-05-20 17:45:40+00:00,45,7,0,"Llamamos a las fuerzas que rechazaron esta propuesta a que revisen su posición. Para nosotros, la izquierda debe tener una política independiente del kirchnerismo",https://twitter.com/Solanopo/status/1660024010191646723,Solano,FIT
+2023-05-20 17:45:39+00:00,41,7,0,"El acuerdo al que llegamos con el MST tiene un enorme valor. Vamos a convocar un plenario de la izquierda y los luchadores populares, involucrando a miles de compañeros para resolver y decidir sobre el programa y las candidaturas de la izquierda de cara a las próximas elecciones",https://twitter.com/Solanopo/status/1660024006815145985,Solano,FIT
+2023-05-20 17:45:38+00:00,41,6,1,"En CABA proponemos: como Jefa de Gobierno a Vanina Biasi, como Legisladora a Cele Fierro y como diputada nacional a Jesi Gentile",https://twitter.com/Solanopo/status/1660024002159493120,Solano,FIT
+2023-05-20 17:45:37+00:00,47,7,1,"Además de la fórmula presidencial, acordamos llevar al plenario la propuesta de impulsar en PBA: como Gobernador a Alejandro Bodart, como diputado nacional a Néstor Pitrola y como Senadora a Romina Del Plá https://t.co/LbV0Eby9k4",https://twitter.com/Solanopo/status/1660023996643983360,Solano,FIT
+2023-05-20 17:45:34+00:00,41,7,2,"El @FdeIzquierda debe superar la condición de un frente electoral, para transformarse en un canal de movilización política de los miles de compañeros que están enfrentando el ajuste en los barrios, los sindicatos, la juventud, y todos los movimientos de lucha",https://twitter.com/Solanopo/status/1660023986766348290,Solano,FIT
+2023-05-20 17:45:34+00:00,43,5,0,"Ambos partidos realizamos hoy nuestras conferencias electorales dónde votamos constituir una lista común que propondremos a este plenario para las elecciones, sobre la base de defender al FIT-U como un polo de independencia de clase para luchar por un gobierno de los trabajadores",https://twitter.com/Solanopo/status/1660023983251550210,Solano,FIT
+2023-05-20 17:45:33+00:00,255,127,47,Desde el @PartidoObrero y el @MSTargentina convocamos a realizar un gran plenario de la izquierda y proponemos la fórmula presidencial Gabriel Solano - Vilma Ripoll https://t.co/8XBFG9CMRW,https://twitter.com/Solanopo/status/1660023980726669320,Solano,FIT
+2023-05-19 16:43:12+00:00,130,38,16,"El delirio de Milei es total. Le preguntaron sobre la Educación Sexual Integral (ESI) y escuchá lo que respondió. Mejor reir que llorar
+
+Video cortesía de @prensaobrera https://t.co/xHw4UQvHuA",https://twitter.com/Solanopo/status/1659645900837232657,Solano,FIT
+2023-05-19 16:01:58+00:00,16,6,0,La fórmula de Barrionuevo. Si estas son las nuevas generaciones... https://t.co/Q5cgHEJ0lK,https://twitter.com/Solanopo/status/1659635525664251927,Solano,FIT
+2023-05-19 14:50:56+00:00,94,15,3,Agarró la papa caliente y ahora ya es papa frita.,https://twitter.com/Solanopo/status/1659617649121165312,Solano,FIT
 2023-05-19 12:17:42+00:00,5,2,0,"Conocé el proyecto acá
-https://t.co/2KGQ76mIBR",https://twitter.com/Solanopo/status/1659579085780131840,Solano
-2023-05-19 12:17:39+00:00,7,3,0,"Si logramos aprobar este proyecto para Las Antenas, es un punto de partida para dar esta pelea contra el copamiento narco y el consumo en todos los barrios de la Matanza y luego de la provincia y el país. Fuera los narcos, recuperemos a nuestros pibes",https://twitter.com/Solanopo/status/1659579075524960257,Solano
-2023-05-19 12:17:36+00:00,9,2,0,"Son medidas fundamentales frente al copamiento narco de los barrios. Las familias del barrio cuentan que la atención del consumo problemático implica un gasto de 150.000 pesos por mes (en el mejor de los casos), ninguna familia trabajadora puede pagar eso https://t.co/j1cYHBLP5y",https://twitter.com/Solanopo/status/1659579062841425921,Solano
-2023-05-19 12:17:22+00:00,29,11,1,Estamos en La Matanza junto a los diputados y concejales del Frente de Izquierda @RominaDelPla @guillekane y @juanromeropef  presentando proyectos por la creación de Centros de Atención para consumos problemáticos y de urbanización del barrio Las antenas https://t.co/9z1FZwFql5,https://twitter.com/Solanopo/status/1659579003210985474,Solano
-2023-05-19 09:27:42+00:00,81,19,17,¿De qué estás hablado Wilis? https://t.co/NJvkLd2djs,https://twitter.com/Solanopo/status/1659536305875828736,Solano
-2023-05-18 20:13:22+00:00,253,141,19,Colapso en el Garrahan: en este momento hay niños internados en los pasillos del hospital. Los profesionales exhautos denuncian no se garantizan los recursos ni materiales ni humanos suficientes y se están suspendiendo cirugías y diversos procedimientos. Vizzoti no da respuestas https://t.co/5W3maC4fju,https://twitter.com/Solanopo/status/1659336403929518082,Solano
-2023-05-18 20:06:37+00:00,47,15,5,"El gobierno reunió casi tanta gente como la selección nacional en la 9 de Julio. La diferencia, claro, es que a la selección la iban a apoyar y al gobierno lo fueron a repudiar. https://t.co/JH2Yub9VVd",https://twitter.com/Solanopo/status/1659334706591088640,Solano
-2023-05-18 16:18:03+00:00,391,48,111,¿Cómo vas a terminar con 300.000 personas en la 9 de Julio? ¿Vas a mandar los tanques?,https://twitter.com/Solanopo/status/1659277186040229894,Solano
-2023-05-18 14:04:12+00:00,207,53,87,"La 9 de julio explotada contra el hambre, la pobreza y el ajuste del gobierno y el FMI https://t.co/W1Hrm0Pocz",https://twitter.com/Solanopo/status/1659243501832241164,Solano
-2023-05-18 13:03:48+00:00,112,36,28,"Explota la 9 de julio contra el ajuste de Alberto, Cristina, Massa y Tolosa Paz https://t.co/cbck9v84aX",https://twitter.com/Solanopo/status/1659228298956754947,Solano
-2023-05-17 20:56:11+00:00,8,1,0,"El gobierno de Alicia Kirchner no solo desarrolla un ajuste contra los trabajadores, sino que también impulsa una política de persecución a los docentes que luchan, aplicando multas millonarias, procesamientos penales y contratando rompehuelgas",https://twitter.com/Solanopo/status/1658984790522048512,Solano
-2023-05-17 20:56:10+00:00,11,2,0,Con @amandamartinok en la audiencia pública acompañamos sus reclamos. Hace un mes que los docentes se encuentran en huelga https://t.co/3M0BZW90r7,https://twitter.com/Solanopo/status/1658984786323550208,Solano
-2023-05-17 20:56:05+00:00,12,4,0,Hoy acompañé a los compañeros que vinieron a traer este reclamo fundamental a Buenos Aires. Juntos nos movilizamos al Ministerio de Educación de la nación y llevamos adelante una audiencia en la legislatura de la Ciudad https://t.co/I9PqyysbDi,https://twitter.com/Solanopo/status/1658984766094360577,Solano
-2023-05-17 20:56:00+00:00,60,29,1,Que triunfen los docentes de Santa Cruz que vienen enfrentando a Alicia Kirchner y su política de ajuste y persecución sindical https://t.co/Db6LS7At6X,https://twitter.com/Solanopo/status/1658984745869496320,Solano
-2023-05-17 20:26:28+00:00,40,13,3,Massa (o Sergio como lo llama  CFK) anunció un blanqueo de capitales. Macrismo explícito en beneficio de los empresarios evasores y de los narcos y tantos delincuentes.,https://twitter.com/Solanopo/status/1658977314678472708,Solano
-2023-05-17 18:15:40+00:00,20,5,0,"Para Solano, CFK no será candidata porque “es la vicepresidenta del acuerdo con el FMI” https://t.co/nkDgJqdKIs",https://twitter.com/Solanopo/status/1658944396719706112,Solano
-2023-05-17 15:32:33+00:00,83,34,2,"Hay miles de niños durmiendo en las calles por la responsabilidad de este gobierno, por su pacto con el FMI y por el ajuste en la asistencia social. Tolosa Paz, en vez de atacar al movimiento piquetero que lucha, deberías atender los reclamos contra el hambre y la pobreza",https://twitter.com/Solanopo/status/1658903348127440925,Solano
-2023-05-17 14:31:05+00:00,64,19,0,Hola @vtolosapaz tu gobierno condena al 60% de los pibes y pibas a la pobreza. Una ministra rica en un país pobre.,https://twitter.com/Solanopo/status/1658887878661767194,Solano
-2023-05-17 12:32:36+00:00,46,18,5,El directorio kirchnerista de YPF a acaba de aumentar nuevamente los precios de los combustibles. Espero la carta de CFK para saber su opinión.,https://twitter.com/Solanopo/status/1658858059165233154,Solano
-2023-05-17 11:52:21+00:00,26,12,1,"Vine a acompañar el acto docente frente al Ministerio de Educación Nacional. Denuncian aprietes, descuentos salariales y violencia en las escuelas. Hay docentes de los Sutebas combativos, Ademys, una delegación de docentes de Adosac  santa Cruz y la AGD UBA. ¿Dónde está la CGT? https://t.co/dszZN54zkz",https://twitter.com/Solanopo/status/1658847933809164288,Solano
-2023-05-17 09:02:22+00:00,128,35,17,"Acabo de leer la plataforma de Milei. Es un compendio de las políticas más reaccionarias contra el pueblo en todas las esferas sin excepción. Nos comprometemos a hacer todos los esfuerzos para desenmascarar a este facho y mostrar lo que es, un agente de la reacción social.",https://twitter.com/Solanopo/status/1658805154697584641,Solano
-2023-05-16 21:11:41+00:00,25,11,1,Mañana llega la Marcha Federal a la Ciudad de Buenos Aires luego de recorrer todo el país. Es una expresión masiva de lucha contra el hambre y el ajuste del FMI.,https://twitter.com/Solanopo/status/1658626302910275589,Solano
-2023-05-16 20:35:45+00:00,226,59,18,"Vi que @VickyVillarruel quiere anular el aborto legal. Claro, ella defiende a los que robaban bebés en los campos de concentración de la dictadura militar.",https://twitter.com/Solanopo/status/1658617261140189184,Solano
-2023-05-16 20:31:36+00:00,32,11,0,Villaruel logró lo que parecía imposible: ser más reaccionaria que Milei.,https://twitter.com/Solanopo/status/1658616215844126722,Solano
-2023-05-16 19:07:04+00:00,9,3,0,No solo los presidentes que acordaron con el FMI no tienen actitud electoral. Tampoco lo tienen sus vicepresidentes y vicepresidentas. Por eso CFK no se quiere presentar.,https://twitter.com/Solanopo/status/1658594943340888065,Solano
-2023-05-16 18:56:48+00:00,83,30,0,"Absurda la afirmación deCFK de que el peronismo sigue siendo el espacio que garantiza los derechos del pueblo. El peronismo es hoy el que aplica el ajuste del FMI y su principal representante es  Sergio Massa, que gobierna con el apoyo de la vicepresidenta.",https://twitter.com/Solanopo/status/1658592358219280384,Solano
-2023-05-16 17:57:53+00:00,25,8,6,"La canasta de pobreza llegó a los $ 203.000, pero el salario mínimo actualmente en $84.512 cubre apenas el 41%. Laburás y sos pobre. https://t.co/M2owenagzS",https://twitter.com/Solanopo/status/1658577533430902785,Solano
-2023-05-16 17:56:14+00:00,37,13,1,Si se universalizan los planes sociales se terminan los punteros. En un minuto te cuento porqué https://t.co/zkSNWRFIGM,https://twitter.com/Solanopo/status/1658577119931244549,Solano
-2023-05-16 14:44:25+00:00,26,14,1,Es un ejemplo de lucha del SUTNA para todo el movimiento obrero. https://t.co/tQM89bjMZN,https://twitter.com/Solanopo/status/1658528845534748683,Solano
-2023-05-16 12:51:43+00:00,72,27,25,Las medidas anunciadas por Massa no sirvieron para nada. El dólar está casi a 500 pesos y la inflación mensual se va a dos dígitos.,https://twitter.com/Solanopo/status/1658500483768631296,Solano
-2023-05-16 12:01:37+00:00,5,3,0,Desde el @PartidoObrero en el @FdeIzquierda con nuestros concejales vamos a presentar proyectos en el Concejo Deliberante y la Legislatura provincial para la creación de centros de salud para recuperar a los pibes de las adicciones y por la urbanización del barrio,https://twitter.com/Solanopo/status/1658487876697587716,Solano
-2023-05-16 12:01:36+00:00,39,20,2,"Visita al barrio de Las Antenas, en La Matanza. Los narcos quieren copar el barrio. Escuchá los testimonios de quienes viven cotidianamente esta situación https://t.co/gi0THsLk4r",https://twitter.com/Solanopo/status/1658487871991586817,Solano
-2023-05-16 11:06:52+00:00,103,15,8,Lo mandaría a @RAMIROMARRA a trabajar con asbesto con el riesgo de contraer cáncer.,https://twitter.com/Solanopo/status/1658474098316685315,Solano
-2023-05-16 10:33:04+00:00,17,7,0,"La Izquierda tiene que ser independiente de este y todos los gobiernos fracasados
-
-Sobre esto y otros temas estuve conversando con @rindart para @A24COM
-
-https://t.co/JlLmCkTuHl",https://twitter.com/Solanopo/status/1658465589885632513,Solano
-2023-05-15 18:17:40+00:00,7,3,0,"Recien estuve en @radionacionalAR en la Feria del Libro, charlando sobre mi nuevo libro Por qué fracasó la democracia. Pueden escuchar la nota completa acá
-
-https://t.co/h4E12Xv3j9",https://twitter.com/Solanopo/status/1658220124254396416,Solano
-2023-05-15 16:21:39+00:00,10,6,0,"Los jubilados están siendo estafados por el Estado
-
-📺 @CronicaTV
-https://t.co/PYtlNVkc7X",https://twitter.com/Solanopo/status/1658190928945766403,Solano
-2023-05-15 14:14:17+00:00,109,42,19,"3 razones para no votar a Milei
-
-📺 @ddd_ok https://t.co/3FRVZ4BfMW",https://twitter.com/Solanopo/status/1658158876712218649,Solano
-2023-05-15 10:25:35+00:00,59,19,3,Comienza la Marcha Federal desde la Quiaca y llegará a la Ciudad de Buenos Aires el próximo miércoles. Vamos contra el ajuste del gobierno y el FMI. https://t.co/sPt6p3fkwb,https://twitter.com/Solanopo/status/1658101321239519233,Solano
-2023-05-15 09:10:07+00:00,49,14,3,Debemos apoyar a los trabajadores del subte porque sus reclamos son muy justos. Piden una solución definitiva a la contaminación con asbesto y el doble franco semanal.,https://twitter.com/Solanopo/status/1658082329758253056,Solano
+https://t.co/2KGQ76mIBR",https://twitter.com/Solanopo/status/1659579085780131840,Solano,FIT
+2023-05-19 12:17:39+00:00,7,3,0,"Si logramos aprobar este proyecto para Las Antenas, es un punto de partida para dar esta pelea contra el copamiento narco y el consumo en todos los barrios de la Matanza y luego de la provincia y el país. Fuera los narcos, recuperemos a nuestros pibes",https://twitter.com/Solanopo/status/1659579075524960257,Solano,FIT
+2023-05-19 12:17:36+00:00,9,2,0,"Son medidas fundamentales frente al copamiento narco de los barrios. Las familias del barrio cuentan que la atención del consumo problemático implica un gasto de 150.000 pesos por mes (en el mejor de los casos), ninguna familia trabajadora puede pagar eso https://t.co/j1cYHBLP5y",https://twitter.com/Solanopo/status/1659579062841425921,Solano,FIT
+2023-05-19 12:17:22+00:00,29,11,1,Estamos en La Matanza junto a los diputados y concejales del Frente de Izquierda @RominaDelPla @guillekane y @juanromeropef  presentando proyectos por la creación de Centros de Atención para consumos problemáticos y de urbanización del barrio Las antenas https://t.co/9z1FZwFql5,https://twitter.com/Solanopo/status/1659579003210985474,Solano,FIT
+2023-05-19 09:27:42+00:00,81,20,17,¿De qué estás hablado Wilis? https://t.co/NJvkLd2djs,https://twitter.com/Solanopo/status/1659536305875828736,Solano,FIT
+2023-05-18 20:13:22+00:00,253,141,19,Colapso en el Garrahan: en este momento hay niños internados en los pasillos del hospital. Los profesionales exhautos denuncian no se garantizan los recursos ni materiales ni humanos suficientes y se están suspendiendo cirugías y diversos procedimientos. Vizzoti no da respuestas https://t.co/5W3maC4fju,https://twitter.com/Solanopo/status/1659336403929518082,Solano,FIT
+2023-05-18 20:06:37+00:00,49,16,5,"El gobierno reunió casi tanta gente como la selección nacional en la 9 de Julio. La diferencia, claro, es que a la selección la iban a apoyar y al gobierno lo fueron a repudiar. https://t.co/JH2Yub9VVd",https://twitter.com/Solanopo/status/1659334706591088640,Solano,FIT
+2023-05-18 16:18:03+00:00,391,48,113,¿Cómo vas a terminar con 300.000 personas en la 9 de Julio? ¿Vas a mandar los tanques?,https://twitter.com/Solanopo/status/1659277186040229894,Solano,FIT
+2023-05-18 14:04:12+00:00,207,53,87,"La 9 de julio explotada contra el hambre, la pobreza y el ajuste del gobierno y el FMI https://t.co/W1Hrm0Pocz",https://twitter.com/Solanopo/status/1659243501832241164,Solano,FIT
+2023-05-18 13:03:48+00:00,112,36,28,"Explota la 9 de julio contra el ajuste de Alberto, Cristina, Massa y Tolosa Paz https://t.co/cbck9v84aX",https://twitter.com/Solanopo/status/1659228298956754947,Solano,FIT
