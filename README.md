@@ -18,11 +18,28 @@ El siguiente repositorio busca hacer un scrapeo del twitter de los principales r
 Milei no aparece por problemas recurrentes con el scapeo de su perfil
 
 # Carpetas
-En la carpeta Data se encontrará el csv que contiene la información del scrapping.
 
-En la carpeta Imagenes, las gráficos que se eligieron hacer en base a la información.
+- En la carpeta Data se encontrará el csv que contiene la información del scrapping.
 
-En la carpeta Templates los templates de la página web.
+- En la carpeta Imagenes, las gráficos que se eligieron hacer en base a la información.
+
+- En la carpeta Templates los templates de la página web.
+
+# Archivos
+
+- El archivo docker-compose.yaml es el que permite la automatización de los procesos vía airflow.
+
+- Dockerfile es la imagen de docker que se va a usar.
+
+- requirements.txt es el listado de paquetes que deben instalarse en el contenedor.
+
+
+
+# Pasos para que corra el proceso
+
+- Con un "docker-compose up -d --build " ya tenemos airflow y docker funcionando.
+
+
 
 
 
