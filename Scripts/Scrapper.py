@@ -17,7 +17,7 @@ import datetime
 # Matplotlib
 # pip install  matplotlib
 
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 
 
@@ -39,4 +39,4 @@ frames = [tweets_df_DelCaño,tweets_df_Villarruel,tweets_df_Vidal,tweets_df_Kici
 final = pd.concat(frames)
 
 # Guardamos el dataframe como .csv
-final.to_csv('../Data/Tweets.csv',index=False)  
+final.to_csv('/opt/airflow/Data/Tweets.csv',index=False)  
