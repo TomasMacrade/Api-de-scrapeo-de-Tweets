@@ -2,7 +2,7 @@
 El siguiente repositorio busca hacer un scrapeo del twitter de los principales referentes/candidatos en la elección 2023 en Argentina de forma automática y mostrar los resultados de la última semana en un sitio web.
 
 # Candidatos
-- Milei
+- Villarruel
 - Marra
 - Espert
 - Larreta
@@ -14,6 +14,8 @@ El siguiente repositorio busca hacer un scrapeo del twitter de los principales r
 - Bregman
 - Solano
 - Del Caño
+
+Milei no aparece por problemas al scrapear su perfil.
 
 
 # Carpetas
