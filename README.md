@@ -34,6 +34,8 @@ Milei no aparece por problemas al scrapear su perfil.
 
 - requirements.txt es el listado de paquetes que deben instalarse en el contenedor.
 
+- web_con_flask.py es el archivo .py que hace que la página web funcione.
+
 
 
 # Pasos para que corra el proceso
