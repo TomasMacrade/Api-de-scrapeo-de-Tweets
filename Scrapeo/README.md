@@ -24,6 +24,14 @@ Milei no aparece por problemas al scrapear su perfil.
 
 - En la carpeta Imagenes, las gráficos que se eligieron hacer en base a la información.
 
+- En la carpeta Scripts, los scripts que hacen funcionar el scapping.
+
+- En la carpeta dags se encuentran los DAGs de Airflow y su configuración.
+
+- En la carpeta logs se encontrarán los logs de los procesos de Airflow.
+
+- Las carpetas config y plugis fueron agregadas para seguir la documentación oficial de Airflow 2.2.4 que las sugerían.
+
 
 # Archivos
 
