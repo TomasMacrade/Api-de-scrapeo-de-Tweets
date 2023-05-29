@@ -54,7 +54,7 @@ x-airflow-common:
     AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
     AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
     AIRFLOW__API__AUTH_BACKEND: 'airflow.api.auth.backend.basic_auth'
-    _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:- }
+    _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:- matplotlib pandas git+https://github.com/JustAnotherArchivist/snscrape.git}
     INSTALL_PROVIDERS_FROM_SOURCES: 'true'
     PATH_REPO: '/opt/airflow/Scripts/'
 
@@ -69,6 +69,8 @@ x-airflow-common:
     - ./Scripts:/opt/airflow/Scripts
     - ./logs:/opt/airflow/logs
     - ./plugins:/opt/airflow/plugins
+    - ./src:/opt/airflow/src
+    - ./Templates:/opt/airflow/Templates
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
@@ -91,6 +93,11 @@ services:
       interval: 5s
       retries: 5
     restart: always
+
+  web:
+    build: .
+    ports:
+      - "5000:5000"
 
   airflow-webserver:
     <<: *airflow-common

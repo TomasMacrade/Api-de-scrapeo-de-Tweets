@@ -7,7 +7,7 @@ from flask import request
 
 # Importo los datos
 
-Data = pd.read_csv("Data/Tweets.csv")
+Data = pd.read_csv("/opt/airflow/src/Tweets.csv")
 
 if __name__ == '__main__':
 

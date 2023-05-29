@@ -39,7 +39,7 @@ frames = [tweets_df_DelCaño,tweets_df_Villarruel,tweets_df_Vidal,tweets_df_Kici
 final = pd.concat(frames)
 
 # Guardamos el dataframe como .csv
-final.to_csv('/opt/airflow/Data/Tweets.csv',index=False)  
+final.to_csv('/opt/airflow/src/Tweets.csv',index=False)  
 
 
 ##### IMAGENES ##############
@@ -66,7 +66,7 @@ with plt.style.context('fivethirtyeight'):
     plt.ylabel("Candidato")
     plt.xlabel("Cantidad de Tweets")
     plt.title("Tweets por candidato en la última semana")
-    plt.savefig('/opt/airflow/Imagenes/TxC.png', bbox_inches='tight')
+    plt.savefig('/opt/airflow/src/Imagenes/TxC.png', bbox_inches='tight')
     plt.clf()
 
 
@@ -92,7 +92,7 @@ with plt.style.context('fivethirtyeight'):
     plt.ylabel("Espacio")
     plt.xlabel("Cantidad de Tweets")
     plt.title("Tweets por espacio en la última semana")
-    plt.savefig('/opt/airflow/Imagenes/TxE.png', bbox_inches='tight')
+    plt.savefig('/opt/airflow/src/Imagenes/TxE.png', bbox_inches='tight')
     plt.clf()
 
 
@@ -119,7 +119,7 @@ with plt.style.context('fivethirtyeight'):
     plt.ylabel("Candidato")
     plt.xlabel("Índice de relevancia")
     plt.title("Relevancia por candidato en la última semana")
-    plt.savefig('/opt/airflow/Imagenes/RxC.png', bbox_inches='tight')
+    plt.savefig('/opt/airflow/src/Imagenes/RxC.png', bbox_inches='tight')
     plt.clf()
 
 
@@ -146,7 +146,7 @@ with plt.style.context('fivethirtyeight'):
     plt.ylabel("Espacio")
     plt.xlabel("Índice de relevancia")
     plt.title("Relevancia por espacio en la última semana")
-    plt.savefig('/opt/airflow/Imagenes/RxE.png', bbox_inches='tight')
+    plt.savefig('/opt/airflow/src/Imagenes/RxE.png', bbox_inches='tight')
     plt.clf()
 
 
@@ -172,5 +172,5 @@ for x in Candidatos:
           plt.xlabel("Fecha")
           plt.xticks(rotation=50)
           plt.title("Cantidad de tweets de {} en la última semana".format(x[0]))
-          plt.savefig('/opt/airflow/Imagenes/{}.png'.format(x[0]), bbox_inches='tight')
+          plt.savefig('/opt/airflow/src/Imagenes/{}.png'.format(x[0]), bbox_inches='tight')
           plt.clf()
