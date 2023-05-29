@@ -19,12 +19,12 @@ if __name__ == '__main__':
     @app.route("/") 
     def index():
 
-        C_Tweets = len(Data)
-        C_Candidatos = (len(Data["Candidato"].value_counts()))
-        return "Encontramos {} tweets de {} candidatos".format(C_Tweets,C_Candidatos)
+ #       C_Tweets = len(Data)
+ #       C_Candidatos = (len(Data["Candidato"].value_counts()))
+        return "Encontramos {} tweets de {} candidatos".format("C_Tweets","C_Candidatos")
 
 
-    # Ruta para consultar : http://127.0.0.1:4000//results?Nombrecandidato
+    # Ruta para consultar : http://localhost:5000//results?Nombrecandidato
     @app.route("/results") 
     def search(): 
 

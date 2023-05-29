@@ -4,10 +4,11 @@ La siguiente carpeta contiene los scripts e info necesaria para que funcione la 
 # Carpetas
 
 - En la carpeta Templates los templates de la página web.
+- En la carpeta src, el archivo python que corre el flask.
 
 # Archivos
 
-- web_con_flask.py es el archivo .py que hace que la página web funcione.
+
 
 # Pasos para que corra el proceso
 
