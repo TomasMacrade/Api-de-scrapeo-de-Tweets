@@ -41,8 +41,6 @@ Milei no aparece por problemas al scrapear su perfil.
 
 - requirements.txt es el listado de paquetes que deben instalarse en el contenedor.
 
-- .gitignore es el git-ignore.
-
 
 # Pasos para que corra el proceso
 
