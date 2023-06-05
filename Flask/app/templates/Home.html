@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elecciones 2023 en twitter</title>
+    <link href='https://fonts.googleapis.com/css?family=Heebo' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/estilos.css')}}">
+    <style>
+        html,
+        body {
+            margin:0;
+            font-family: 'Heebo';font-size: 30px;color: #ffffff;line-height: 45%;
+        }
+
+        .banner {
+            background: #2b3034;
+        }
+    </style>  
+</head>
+<body>
+    <body style="background-color:#19172c"></body>
+    <p style="font-size:70%;"style="font-family:heebo;"align="left"> MEDICIONES / ÍNDICES</p>
+    <p style="font-size:160%;"style="font-family:heebo;"align="left"><b>ELECCIONES 2023 EN TWITTER</b></p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="container">
+        <div class="image">
+            <blockquote class="twitter-tweet"><p lang="es" dir="ltr">{{Texto_semana}}</p>&mdash; {{Nombre_semana}} ({{Usr_Sem}}) <a href = {{Url}} >{{Fecha_Sem}}</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        <div class="text">
+          <h1><span style="color:#68c7ff">{{Likes_Sem}}</span> LIKES</h1>
+          <br>
+          <h1><span style="color:#68c7ff">{{Rt_Sem}}</span> RETWEETS</h1>
+          <br>
+          <h1><span style="color:#68c7ff">{{Citas_Sem}}</span> CITAS</h1>
+        </div>
+    </div>
+    <p style="font-size:70%;"style="font-family:heebo;"align="left"><b>TWEET MÁS RELEVANTE DE LA ÚLTIMA SEMANA</b></p>
+    <br>
+    <br>
+    <br>
+    <div class="container">
+        <div class="image">
+            <img src="{{url_for('static', filename='TxC.png')}}">
+        </div>
+        <div class="text">
+          <h1><span style="font-size: 50%;">El candidato con más tweets fué:</span> </h1>
+          <h1><span style="color:#68c7ff">{{Cand_Tw}}</span></h1>
+          <br>
+          <h1><span style="color:#68c7ff">{{Cand_Tw_Num}}</span> TWEETS</h1>
+        </div>
+    </div>
+    <p style="font-size:70%;"style="font-family:heebo;"align="left"><b>TWEETS POR CANDIDATO</b></p>
+    <br>
+    <br>
+    <br>
+    <div class="container">
+        <div class="image">
+            <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
+        </div>
+        <div class="text">
+          <h1><span style="font-size: 50%;">El espacio con más tweets fué:</span> </h1>
+          <h1><span style="color:#68c7ff">Juntos por el cambio</span></h1>
+          <br>
+          <h1><span style="color:#68c7ff">45</span> TWEETS</h1>
+        </div>
+    </div>
+    <p style="font-size:70%;"style="font-family:heebo;"align="left"><b>TWEETS POR ESPACIO</b></p>
+    <br>
+    <br>
+    <br>
+    <div class="container">
+        <div class="image">
+            <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
+        </div>
+        <div class="text">
+          <h1><span style="font-size: 50%;">El candidato más relevante fué:</span> </h1>
+          <h1><span style="color:#68c7ff">Javier Milei</span></h1>
+          <br>
+          <h1><span style="color:#68c7ff">6054.2</span> Puntos de relevancia</h1>
+        </div>
+    </div>
+    <p style="font-size:70%;"style="font-family:heebo;"align="left"><b>RELEVANCIA POR CANDIDATO</b></p>
+    <br>
+    <br>
+    <br>
+    <div class="container">
+        <div class="image">
+            <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
+        </div>
+        <div class="text">
+          <h1><span style="font-size: 50%;">El espacio más relevante fué:</span> </h1>
+          <h1><span style="color:#68c7ff">Juntos por el cambio</span></h1>
+          <br>
+          <h1><span style="color:#68c7ff">555.2</span> Puntos de relevancia</h1>
+        </div>
+    </div>
+    <p style="font-size:70%;"style="font-family:heebo;"align="left"><b>RELEVANCIA POR ESPACIO</b></p>
+
+    <script>
+        function submitForm()
+    {
+    var urlParam = document.getElementById("query").value;
+    var URL = "http://example.com/";
+    var encordedUrl = URL+"?" + encodeURI( urlParam );
+    window.open(encordedUrl);
+    }
+    </script>
+</body>
+</html>

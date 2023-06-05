@@ -34,7 +34,7 @@ Milei no aparece por problemas al scrapear su perfil.
 
 - En la carpeta Templates los templates de la página web.
 
-- En la carpeta src, el archivo python que corre el flask.
+- En la carpeta Flask, todo lo necesario para que la página web funcione (tiene su propio README.md).
 
 
 # Archivos

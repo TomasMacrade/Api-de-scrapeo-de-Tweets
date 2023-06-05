@@ -32,14 +32,14 @@ Candidatos = [("DelCaño","NicolasdelCano","FIT"),("Villarruel","VickyVillarruel
 
 # Buscamos los tweets de cada candidato
 for x in Candidatos:
-    informacion = [[tweet.date - datetime.timedelta(hours=3), tweet.likeCount, tweet.retweetCount,tweet.quoteCount, tweet.rawContent,tweet.url,x[0],x[2]] for tweet in sntwitter.TwitterSearchScraper('from:{} since:{} until:{}'.format(x[1],Una_Semana,Hoy)).get_items()]
-    globals()['tweets_df_' + x[0]] = pd.DataFrame(informacion, columns=["Fecha-Hora", "Cantidad de Likes", "Cantidad de retweets","Veces citado", "Tweet","url","Candidato","Espacio"])
+    informacion = [[tweet.date - datetime.timedelta(hours=3), tweet.likeCount, tweet.retweetCount,tweet.quoteCount, tweet.rawContent,x[0],x[2],x[1],tweet.url] for tweet in sntwitter.TwitterSearchScraper('from:{} since:{} until:{}'.format(x[1],Una_Semana,Hoy)).get_items()]
+    globals()['tweets_df_' + x[0]] = pd.DataFrame(informacion, columns=["Fecha-Hora", "Cantidad de Likes", "Cantidad de retweets","Veces citado", "Tweet","Candidato","Espacio","Usr","url"])
 # Organizamos todo dentro de un dataframe
 frames = [tweets_df_DelCaño,tweets_df_Villarruel,tweets_df_Vidal,tweets_df_Kicillof,tweets_df_Espert,tweets_df_Marra,tweets_df_Bullrich,tweets_df_Bregman,tweets_df_Grabois,tweets_df_Larreta,tweets_df_Massa,tweets_df_Solano]
 final = pd.concat(frames)
 
 # Guardamos el dataframe como .csv
-final.to_csv('/opt/airflow/src/Tweets.csv',index=False)  
+final.to_csv('/opt/airflow/Data/Tweets.csv',index=False)  
 
 
 ##### IMAGENES ##############
@@ -66,7 +66,7 @@ with plt.style.context('fivethirtyeight'):
     plt.ylabel("Candidato")
     plt.xlabel("Cantidad de Tweets")
     plt.title("Tweets por candidato en la última semana")
-    plt.savefig('/opt/airflow/src/Imagenes/TxC.png', bbox_inches='tight')
+    plt.savefig('/opt/airflow/Flask/app/static/TxC.png', bbox_inches='tight')
     plt.clf()
 
 
@@ -92,7 +92,7 @@ with plt.style.context('fivethirtyeight'):
     plt.ylabel("Espacio")
     plt.xlabel("Cantidad de Tweets")
     plt.title("Tweets por espacio en la última semana")
-    plt.savefig('/opt/airflow/src/Imagenes/TxE.png', bbox_inches='tight')
+    plt.savefig('/opt/airflow/Flask/app/static/TxE.png', bbox_inches='tight')
     plt.clf()
 
 
@@ -119,7 +119,7 @@ with plt.style.context('fivethirtyeight'):
     plt.ylabel("Candidato")
     plt.xlabel("Índice de relevancia")
     plt.title("Relevancia por candidato en la última semana")
-    plt.savefig('/opt/airflow/src/Imagenes/RxC.png', bbox_inches='tight')
+    plt.savefig('/opt/airflow/Flask/app/static/RxC.png', bbox_inches='tight')
     plt.clf()
 
 
@@ -146,7 +146,7 @@ with plt.style.context('fivethirtyeight'):
     plt.ylabel("Espacio")
     plt.xlabel("Índice de relevancia")
     plt.title("Relevancia por espacio en la última semana")
-    plt.savefig('/opt/airflow/src/Imagenes/RxE.png', bbox_inches='tight')
+    plt.savefig('/opt/airflow/Flask/app/static/RxE.png', bbox_inches='tight')
     plt.clf()
 
 
@@ -172,5 +172,5 @@ for x in Candidatos:
           plt.xlabel("Fecha")
           plt.xticks(rotation=50)
           plt.title("Cantidad de tweets de {} en la última semana".format(x[0]))
-          plt.savefig('/opt/airflow/src/Imagenes/{}.png'.format(x[0]), bbox_inches='tight')
+          plt.savefig('/opt/airflow/Flask/app/static/{}.png'.format(x[0]), bbox_inches='tight')
           plt.clf()

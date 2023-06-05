@@ -64,13 +64,12 @@ x-airflow-common:
   volumes:
     # - ./path/on/host:/path/in/container
     - ./Data:/opt/airflow/Data
-    - ./Imagenes:/opt/airflow/Imagenes
     - ./dags:/opt/airflow/dags
     - ./Scripts:/opt/airflow/Scripts
     - ./logs:/opt/airflow/logs
     - ./plugins:/opt/airflow/plugins
     - ./src:/opt/airflow/src
-    - ./Templates:/opt/airflow/Templates
+    - ./Flask:/opt/airflow/Flask
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
