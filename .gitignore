@@ -1,6 +1,0 @@
-logs
-Data
-dags/__pycache__/*
-Flask/app/static/*
-!Flask/app/static/**/
-
