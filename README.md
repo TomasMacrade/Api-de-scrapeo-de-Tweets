@@ -22,8 +22,6 @@ Milei no aparece por problemas al scrapear su perfil.
 
 - En la carpeta Data se encontrará los csv que contiene la información del scrapping de cada candidato.
 
-- En la carpeta Imagenes, las gráficos que se eligieron hacer en base a la información.
-
 - En la carpeta Scripts, los scripts que hacen funcionar el scapping.
 
 - En la carpeta dags se encuentran los DAGs de Airflow y su configuración.
@@ -31,8 +29,6 @@ Milei no aparece por problemas al scrapear su perfil.
 - En la carpeta logs se encontrarán los logs de los procesos de Airflow.
 
 - Las carpetas config y plugis fueron agregadas para seguir la documentación oficial de Airflow 2.2.4 que las sugerían.
-
-- En la carpeta Templates los templates de la página web.
 
 - En la carpeta Flask, todo lo necesario para que la página web funcione (tiene su propio README.md).
 
@@ -45,12 +41,12 @@ Milei no aparece por problemas al scrapear su perfil.
 
 - requirements.txt es el listado de paquetes que deben instalarse en el contenedor.
 
-
+- .gitignore es el git-ignore.
 
 
 # Pasos para que corra el proceso
 
-- Con un "docker-compose up -d --build " ya tenemos airflow y docker funcionando.
+- Con un "docker-compose up -d " ya tenemos airflow funcionando (hay que activarlo entrando por localhost:8090).
 
 
 
