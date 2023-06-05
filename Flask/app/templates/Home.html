@@ -62,13 +62,13 @@
     <br>
     <div class="container">
         <div class="image">
-            <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
+            <img src="{{url_for('static', filename='TxE.png')}}">
         </div>
         <div class="text">
           <h1><span style="font-size: 50%;">El espacio con más tweets fué:</span> </h1>
-          <h1><span style="color:#68c7ff">Juntos por el cambio</span></h1>
+          <h1><span style="color:#68c7ff">{{Esp_Tw}}</span></h1>
           <br>
-          <h1><span style="color:#68c7ff">45</span> TWEETS</h1>
+          <h1><span style="color:#68c7ff">{{Esp_Tw_Num}}</span> TWEETS</h1>
         </div>
     </div>
     <p style="font-size:70%;"style="font-family:heebo;"align="left"><b>TWEETS POR ESPACIO</b></p>
@@ -77,13 +77,13 @@
     <br>
     <div class="container">
         <div class="image">
-            <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
+            <img src="{{url_for('static', filename='RxC.png')}}">
         </div>
         <div class="text">
           <h1><span style="font-size: 50%;">El candidato más relevante fué:</span> </h1>
-          <h1><span style="color:#68c7ff">Javier Milei</span></h1>
+          <h1><span style="color:#68c7ff">{{Cand_Rel}}</span></h1>
           <br>
-          <h1><span style="color:#68c7ff">6054.2</span> Puntos de relevancia</h1>
+          <h1><span style="color:#68c7ff">{{Cand_Rel_Num}}</span> Puntos de relevancia promedio</h1>
         </div>
     </div>
     <p style="font-size:70%;"style="font-family:heebo;"align="left"><b>RELEVANCIA POR CANDIDATO</b></p>
@@ -92,13 +92,13 @@
     <br>
     <div class="container">
         <div class="image">
-            <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
+            <img src="{{url_for('static', filename='RxE.png')}}">
         </div>
         <div class="text">
           <h1><span style="font-size: 50%;">El espacio más relevante fué:</span> </h1>
-          <h1><span style="color:#68c7ff">Juntos por el cambio</span></h1>
+          <h1><span style="color:#68c7ff">{{Esp_Rel}}</span></h1>
           <br>
-          <h1><span style="color:#68c7ff">555.2</span> Puntos de relevancia</h1>
+          <h1><span style="color:#68c7ff">{{Esp_Rel_Num}}</span> Puntos de relevancia promedio</h1>
         </div>
     </div>
     <p style="font-size:70%;"style="font-family:heebo;"align="left"><b>RELEVANCIA POR ESPACIO</b></p>
