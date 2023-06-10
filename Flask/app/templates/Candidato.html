@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elecciones 2023 en twitter</title>
+    <link href='https://fonts.googleapis.com/css?family=Heebo' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/estilos2.css')}}">
+    <style>
+        html,
+        body {
+            margin:0;
+            font-family: 'Heebo';font-size: 30px;color: #ffffff;line-height: 45%;
+        }
+
+        .banner {
+            background: #2b3034;
+        }
+        .box {
+   display: flex;
+   align-items:top;
+}
+    </style>  
+</head>
+<body>
+    <body style="background-color:#09013d"></body>
+    <div class="container3">
+        <div class="image">
+            <img src="static/{{Candidato}}_Perfil.png" alt="{{Candidato}} Perfil" style="width:20%">
+        </div>
+        <div class="text">
+          <h1>{{Nombre}}</h1>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </div>
+    <div class="box">
+        <img src="static/{{Candidato}}.png" alt="{{Candidato}}" style="width:40%">
+        <h1 style="margin-left: 45px; margin-top: 20px;"><span style="font-size: 40%; ">Esta semana {{Nombre}} sumó: </span><br/><br/><br/><br/><br/><br/><br/><span style="color:#68c7ff">{{Twitts}}</span> Tweets
+        </span><br/><br/><br/><br/><br/><br/><br/><span style="color:#68c7ff">{{Citas}}</span> Citas
+    </span><br/><br/><br/><br/><br/><br/><br/><span style="color:#68c7ff">{{ReTweets}}</span> ReTweets
+</span><br/><br/><br/><br/><br/><br/><br/><span style="color:#68c7ff">{{Likes}}</span> Likes
+         </h1>
+        
+    </div>
+
+</body>
+</html>

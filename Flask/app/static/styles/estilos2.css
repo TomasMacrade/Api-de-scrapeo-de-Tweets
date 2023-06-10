@@ -1,0 +1,20 @@
+body {margin:0;padding: 10px 50px 20px;}
+
+
+.container3 {
+    display: flex;
+    align-items: center
+    }
+    
+    img {
+    max-width: 100%
+    }
+    
+    .image {
+      flex-basis: 40%
+      }
+    
+    .text {
+    font-size: 20px;
+    margin-left: -500px;
+    }

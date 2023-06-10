@@ -54,9 +54,42 @@ if __name__ == '__main__':
 
         args = request.args # Recibe los argumentos que tiene la url al realizar la query
         query_values = args.to_dict() # Convierto los argumentos en el tipo de dato 'dict'
-        print(list(query_values.keys())[0])
 
-        return "Acá van a aparecer los resultados del candidato {}".format(list(query_values.keys())[0])
+        if list(query_values.keys())[0] == "Massa":
+            Nombre = "Sergio Tomás Massa"
+        elif list(query_values.keys())[0] == "Grabois":
+            Nombre = "Juan Grabois"
+        elif list(query_values.keys())[0] == "Kicillof":
+            Nombre = "Axel Kicillof"
+        elif list(query_values.keys())[0] == "Larreta":
+            Nombre = "Horacio Rodriguez Larreta"
+        elif list(query_values.keys())[0] == "Bullrich":
+            Nombre = "Patricia Bullrich"
+        elif list(query_values.keys())[0] == "Vidal":
+            Nombre = "María Eugenia Vidal"
+        elif list(query_values.keys())[0] == "Bregman":
+            Nombre = "Myriam Bregman"
+        elif list(query_values.keys())[0] == "Solano":
+            Nombre = "Gabriel Solano"
+        elif list(query_values.keys())[0] == "DelCaño":
+            Nombre = "Nicolas Del Caño"
+        elif list(query_values.keys())[0] == "Villarruel":
+            Nombre = "Victoria Villarruel"
+        elif list(query_values.keys())[0] == "Espert":
+            Nombre = "José Luis Espert"
+        elif list(query_values.keys())[0] == "Marra":
+            Nombre = "Ramiro Marra"
+        else:
+            Nombre = "Error!"
+        Data = pd.read_csv("../Data/Tweets.csv")
+        Data = Data[Data["Candidato"]==list(query_values.keys())[0]]
+        Twitts=len(Data)
+        Citas = Data["Veces citado"].sum()
+        ReTweets = Data["Cantidad de retweets"].sum()
+        Likes = Data["Cantidad de Likes"].sum()
+        
+        return render_template('Candidato.html',Candidato=list(query_values.keys())[0],Nombre=Nombre,Twitts=Twitts,
+                               Citas=Citas, ReTweets = ReTweets, Likes=Likes)
 
     app.run(debug=True, host='0.0.0.0', port=5000) # Ejecución del servidor/API
 
