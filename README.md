@@ -47,6 +47,11 @@ Milei no aparece por problemas al scrapear su perfil.
 - Con un "docker-compose up -d " ya tenemos airflow funcionando (hay que activarlo entrando por localhost:8090).
 
 
+# Diagrama de Arquitectura
+
+
+
+
 
 
 
