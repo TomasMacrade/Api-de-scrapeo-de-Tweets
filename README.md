@@ -50,7 +50,9 @@ Milei no aparece por problemas al scrapear su perfil.
 # Diagrama de Arquitectura
 
 
-
+<img src="Diagrama de Arquitectura.png" style = "display: block;
+  margin-left: auto;
+  margin-right: auto;" />
 
 
 
