@@ -51,7 +51,7 @@ Milei no aparece por problemas al scrapear su perfil.
 
 
 
-<img src="Arquitectura.png" style = "display: block;
+<img src="CEN.drawio.png" style = "display: block;
   margin-left: auto;
   margin-right: auto;" />
 
