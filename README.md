@@ -57,6 +57,17 @@ Milei no aparece por problemas al scrapear su perfil.
 <img src="CEN.drawio.png" style = "display: block;
   margin-left: auto;
   margin-right: auto;" />
+  
+  
+  
+# Diagrama de Datos (Base de datos)
+
+
+
+<img src="Nuevo.drawio.png" style = "display: block;
+  margin-left: auto;
+  margin-right: auto;" />
+
 
 
 
