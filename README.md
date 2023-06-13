@@ -1,5 +1,5 @@
 # Scrapeo de perfiles elecciones 2023 Twitter
-El siguiente repositorio busca hacer un scrapeo del twitter de los principales referentes/candidatos en la elección 2023 en Argentina de forma automática y mostrar los resultados de la última semana en un sitio web.
+El siguiente repositorio busca hacer un scrapeo del twitter de los principales referentes/candidatos en la elección 2023 en Argentina de forma automática y mostrar los resultados de la última semana en un sitio web. Además de todo lo que este repositorio contiene, el host deberá tener una base de datos postgres con los creates e inserts especificádos en el archivo "Creates e Inserts.sql" para funcionar.
 
 # Candidatos
 - Villarruel
@@ -40,6 +40,8 @@ Milei no aparece por problemas al scrapear su perfil.
 - Dockerfile es la imagen de docker que se va a usar.
 
 - requirements.txt es el listado de paquetes que deben instalarse en el contenedor.
+
+- Creates e Inserts.sql es el listado de Tablas y su llenado para que el postgres corriendo en la máquina local pueda estar listo para trabajar.
 
 
 # Pasos para que corra el proceso
