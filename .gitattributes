@@ -1,4 +1,6 @@
 *.sql linguist-language=SQL
 *.sql linguist-detectable=true
+*.yaml linguist-language=YAML
+*.yaml linguist-detectable=true
 
 
