@@ -1,5 +1,6 @@
 # Scrapeo de perfiles elecciones 2023 Twitter
-El siguiente repositorio busca hacer un scrapeo del twitter de los principales referentes/candidatos en la elección 2023 en Argentina de forma automática y mostrar los resultados de la última semana en un sitio web. Además de todo lo que este repositorio contiene, el host deberá tener una base de datos postgres con los creates e inserts especificádos en el archivo "Creates e Inserts.sql" para funcionar.
+El siguiente repositorio busca hacer un scrapeo del twitter de los principales referentes/candidatos en la elección 2023 en Argentina de forma automática y mostrar los resultados de la última semana en un sitio web. Además de todo lo que este repositorio contiene, el host deberá tener una base de datos postgres (u otra) con los creates e inserts especificádos en el archivo "Creates e Inserts.sql" para funcionar.
+La idea de la base de datos es que pueda guardar datos históricos y que sirva para simplificar los scripts de python.
 
 # Candidatos
 - Villarruel
