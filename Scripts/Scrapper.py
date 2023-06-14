@@ -19,16 +19,43 @@ import datetime
 
 import matplotlib.pyplot as plt
 
+# psycopg2
+import psycopg2 
+import psycopg2.extras
+
+#Me conecto a la base
+conn = psycopg2.connect(dbname="tweets", user="postgres", host="host.docker.internal", password="airflow")
+
+# Abro el cursor
+cur = conn.cursor()
+
+# Ejecuto la Qry
+cur.execute("SELECT * FROM Candidatos join Espacio on Candidatos.Espacio = Espacio.ID")
+
+# Me guardo el resultado
+Qry = cur.fetchall()
+
+conn.commit()
+
+# Nombres candidatos
+Candidatos = []
+for row in Qry:
+    Candidatos.append((row[2].replace(" ",""),row[4],row[-1]))
+
+
 
 
 # Buscamos todos los tweets entre hoy y una semana para atrás, entonces guardamos variables con estas fechas
 Hoy = datetime.date.today() + datetime.timedelta(days=1)
+Ayer = datetime.date.today() - datetime.timedelta(days=1)
 Una_Semana = Hoy - datetime.timedelta(days=8)
 
 # Usamos TwitterSearchScraper para recoger la información de los tweets de un usario y meterlo en la lista
 
-# Nombres candidatos
-Candidatos = [("DelCaño","NicolasdelCano","FIT"),("Villarruel","VickyVillarruel","LLA"),("Vidal","mariuvidal","JxC"),("Kicillof","Kicillofok","FdT"),("Marra","RAMIROMARRA","LLA"),("Espert","jlespert","LLA"),("Bullrich","PatoBullrich","JxC"),("Larreta","horaciorlarreta","JxC"),("Grabois","JuanGrabois","FdT"),("Massa","SergioMassa","FdT"),("Bregman","myriambregman","FIT"),("Solano","Solanopo","FIT")]
+
+#Candidatos = [("DelCaño","NicolasdelCano","FIT"),("Villarruel","VickyVillarruel","LLA"),("Vidal","mariuvidal","JxC"),("Kicillof","Kicillofok","FdT"),("Marra","RAMIROMARRA","LLA"),("Espert","jlespert","LLA"),("Bullrich","PatoBullrich","JxC"),("Larreta","horaciorlarreta","JxC"),("Grabois","JuanGrabois","FdT"),("Massa","SergioMassa","FdT"),("Bregman","myriambregman","FIT"),("Solano","Solanopo","FIT")]
+
+
 
 # Buscamos los tweets de cada candidato
 for x in Candidatos:
@@ -38,12 +65,90 @@ for x in Candidatos:
 frames = [tweets_df_DelCaño,tweets_df_Villarruel,tweets_df_Vidal,tweets_df_Kicillof,tweets_df_Espert,tweets_df_Marra,tweets_df_Bullrich,tweets_df_Bregman,tweets_df_Grabois,tweets_df_Larreta,tweets_df_Massa,tweets_df_Solano]
 final = pd.concat(frames)
 
+
 # Guardamos el dataframe como .csv
 final.to_csv('/opt/airflow/Data/Tweets.csv',index=False)  
 
+final["Candidato"] = [0 if i == "DelCaño" else
+ 1 if i == "Villarruel" else
+  2 if i == "Vidal" else
+  3 if i == "Kicillof" else
+  4 if i == "Marra" else
+  5 if i == "Espert" else
+  6 if i =="Bullrich" else
+  7 if i == "Larreta" else
+  8 if i == "Grabois" else
+  9 if i == "Massa" else
+  10 if i == "Bregman" else
+  11 
+  for i in final["Candidato"]]
+
+final["Fecha-Hora"] = [str(i)[0:19] for i in final["Fecha-Hora"]]
+
+
+# Veo si la tabla de tweets está vacía
+cur.execute("select * from tweets")
+
+cant = cur.fetchall()
+
+conn.commit()
+
+if len(cant)==0:
+    # Si está vacía la lleno con todo lo que tengo
+
+    diccionario = final.to_dict("record")
+
+    psycopg2.extras.execute_batch(cur, """
+                INSERT INTO Tweets (ID_Candidato ,
+                Texto ,
+                Rt ,
+                Citas ,
+                Likes ,
+                FechaHora ,
+                URL ) VALUES (
+                    %(Candidato)s,
+                    %(Tweet)s,
+                    %(Cantidad de retweets)s,
+                    %(Veces citado)s,
+                    %(Cantidad de Likes)s,
+                    %(Fecha-Hora)s,
+                    %(url)s
+                );
+            """, diccionario)
+    conn.commit()
+
+else:
+
+    # Si no, le cargo solo la data del último día
+    final["Fecha"] = [i[:10] for i in final["Fecha-Hora"]]
+    print(final["Fecha"])
+    print(Ayer)
+    final = final[final["Fecha"] == str(Ayer) ]
+    print(len(final))
+    diccionario = final.to_dict("record")
+    psycopg2.extras.execute_batch(cur, """
+                INSERT INTO Tweets (ID_Candidato ,
+                Texto ,
+                Rt ,
+                Citas ,
+                Likes ,
+                FechaHora ,
+                URL ) VALUES (
+                    %(Candidato)s,
+                    %(Tweet)s,
+                    %(Cantidad de retweets)s,
+                    %(Veces citado)s,
+                    %(Cantidad de Likes)s,
+                    %(Fecha-Hora)s,
+                    %(url)s
+                );
+            """, diccionario)
+
+    conn.commit()
+
 
 ##### IMAGENES ##############
-
+final = pd.read_csv("/opt/airflow/Data/Tweets.csv")
 # Tweets por semana por candidato
 
 Tw_x_Candidato =  final["Candidato"].value_counts().sort_values()
